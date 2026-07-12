@@ -1,0 +1,1 @@
+diskutil info "/Volumes/ADATA UC300" | grep "File System"
