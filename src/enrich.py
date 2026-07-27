@@ -55,7 +55,7 @@ def enrich_one(record):
 from pathlib import Path
 import hashlib
 
-CACHE_DIR = Path("../cache/descriptions")
+CACHE_DIR = Path(__file__).resolve().parent.parent / "cache" / "descriptions"
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
 
