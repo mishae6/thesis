@@ -1,0 +1,15 @@
+SRQ1 CAPA arm — test-set evaluation
+Run: 2026-08-10, live session
+Config: ModernBERT-base, 4 epochs, seed 42, class-weighted, group-aware split
+Source: captured from live training run (terminal output)
+
+eval_f1_backdoor: 0.961
+eval_f1_downloader: 0.783
+eval_f1_dropper: 0.122
+eval_f1_informationstealer: 0.348
+eval_f1_ransomware: 0.889
+eval_f1_trojan: 0.575
+eval_f1_virus: 0.968
+eval_f1_worm: 0.564
+eval_macro_f1: 0.651
+eval_weighted_f1: 0.696

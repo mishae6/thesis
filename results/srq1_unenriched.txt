@@ -1,0 +1,15 @@
+SRQ1 unenriched arm — test-set evaluation
+Run: earlier session (recorded)
+Config: ModernBERT-base, 4 epochs, seed 42, class-weighted, group-aware split
+Source: [captured terminal output / recorded in handoff §6 — state which]
+
+eval_f1_backdoor: 0.951
+eval_f1_downloader: 0.890
+eval_f1_dropper: 0.778
+eval_f1_informationstealer: 0.281
+eval_f1_ransomware: 0.764
+eval_f1_trojan: 0.529
+eval_f1_virus: 1.000
+eval_f1_worm: 0.581
+eval_macro_f1: 0.722
+eval_weighted_f1: 0.709
