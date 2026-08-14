@@ -1,0 +1,348 @@
+{"sha256": "2ef46b482e9c69dd575b00a578a7bd5ff048ea846ec26a73df2bd0fd032c7e59", "category": "backdoor", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "0c25d55d74505bc163f14c59739d18046505d9476fece1e923844f8097b968ee", "category": "backdoor", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "9f03f7c95f6bfc4d2b8738a3b05c83eeb71558420fe2fa9f35f234859a043d1d", "category": "downloader", "reasons": ["high_entropy_code:.text=7.72"]}
+{"sha256": "d0edbbc48e24e30dbc34569a1594e09acd08bd9b33ad459d55ed8255e7d3362f", "category": "downloader", "reasons": ["packer_section:.mpress1", "packer_section:.mpress2"]}
+{"sha256": "45b32081de8886f2c0e16d18feef81a717711e642ebfb93fdaf322ed1c5437db", "category": "downloader", "reasons": ["high_entropy_code:.text=7.72"]}
+{"sha256": "90f20b846c6cf3752f52a100c9f888b3d15c541aa63bc70200b5af4362945b0d", "category": "downloader", "reasons": ["packer_section:.upx"]}
+{"sha256": "fcfb5937894bd52deef2f2ec6de4c714c854ddb3fa1621404805923db28c5fba", "category": "downloader", "reasons": ["packer_section:.upx"]}
+{"sha256": "a899befa5c9c3f34b0f70a132902b36705c399224e03869ba8d3744e0b7db6ce", "category": "downloader", "reasons": ["packer_section:.upx"]}
+{"sha256": "7744e7bb57371da3ac577fa70c77cfd315bcfad5fd837cfa6ffaceb96e204aa6", "category": "downloader", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "1dd365a45e460f108a721cb32bbda2600f4eacbfa6bed3e77bcc758122b82af5", "category": "downloader", "reasons": ["packer_section:.upx"]}
+{"sha256": "7d10dce3f6121a2fc8cc06625ca794fabccbe5b479115e39cd431e26a9ce7711", "category": "downloader", "reasons": ["packer_section:.upx"]}
+{"sha256": "49c7608dfdd666842011fe47126e7115e574e01565f321edd837dea746db8575", "category": "downloader", "reasons": ["high_entropy_code:.text=7.81"]}
+{"sha256": "a3230d7ed6239cae874dbee16111868b991be090970bd22b80e6a42d431469ed", "category": "downloader", "reasons": ["packer_section:.upx"]}
+{"sha256": "c886b680b8100797b5590c3f180fbdfda8b86d1d3336eec4d27ecc10e3166005", "category": "downloader", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "c079e3a170fc8a6af9528a1d316bed7927e5fc4b0bd23a50add96ac079513249", "category": "downloader", "reasons": ["high_entropy_code:.text=7.81"]}
+{"sha256": "e221a745cf87405789ccfa7d6f29bbe24f631c0c46abe5825a1bd6171b049a20", "category": "downloader", "reasons": ["high_entropy_code:.text=7.81"]}
+{"sha256": "7967f2d558bfb5909ba48cec0a6e6a5bd37407ffd9766a9fe7e4e464307f4607", "category": "downloader", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "0dd3b42b24e904c3cf839a71dc3cbab1b2e3e737098e27b034a017967f1aad7d", "category": "downloader", "reasons": ["high_entropy_code:.text=7.81"]}
+{"sha256": "1b35811e084de5b15b542738de09f07f76a8652c755408b862330deef2d49039", "category": "downloader", "reasons": ["packer_section:.upx"]}
+{"sha256": "639264ea2b0dbfb77bae4e7048aa5fb77db90713e59362f3dd6c5e840a4e38d7", "category": "downloader", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "595110fcdeedcb28af0d26f21e73f370f3f60852e85b1e6582f62676fe62a525", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "4563671660f0ffde61636977cfac694a67c52602ff286b506d0642922100c4e3", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "ad81d1dc01bab44f9d5691596928a8d4ceb25e4350a6a182d33e375d563683db", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "b92e6d7fb895740666d07e61c22b798a0852dd9fce9c17e19a5b595ee9c6d296", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "0876940acb75e7c97fd54b7ee40b4eb00727d80cefacf4044b3e1045f13ed304", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "3e33d9c6511d7e695171470d2eb690835cde38ecdb10847ad9ab93a88f97dff8", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "b48b6ebc1e21ed407904d488734eb070cd99f548459bb6ed7a3e7c40562e3dd2", "category": "dropper", "reasons": ["high_entropy_code:.text=7.96"]}
+{"sha256": "cd9e0502dc05807475a1667617fa120a16eb2b929b4b375fa559825de9fb0cc6", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "ade3dee734174665d1e7e85303f4ca883feebb8be973d9fc9567f16428363b8c", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "072529129832bb000c57d1be8b52700bdbb53c96ac9ae4a2cfaa4b01a9c86cfc", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "f754d95188574650673e1ea4ecf514932b21e1399c1e6de36c566c4adc8cfdc4", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "903ddb70a122c1bc48f21bbb49e91a8328be12594f868ee83a860537c711dd9c", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "489b495e96a6569b79a3cdbd1d361d53ba7e36e6b82b43bbe5e918fccc75e0f5", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "0487ed2732c0c4c00d4d02f8e85f654f9783975e4a9c95d74d5ecbe6a7d8369c", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "0db0899624d736f96c6489dd3a5b2ddb1d5b1260dc72bc33bcc617a9738bd107", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "e6cf31bd47ec8f304c87e40a8e785a28eeb697a27fa0ede223f1f51f7b5a3e14", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "6a2931a0a5f5167f20c044b9ed31d33cf002a04675a99be38a3e5c5b8ec222b3", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "103c2c5b81fd93d3aa7affab883fa87352dfa826a960645cfc526ceb5737d1d5", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "062de7c5b3341977cb9fd5da18151fa3bf57f96bc235180d8a1f9d5994458cb8", "category": "dropper", "reasons": ["packer_section:.mpress1", "packer_section:.mpress2"]}
+{"sha256": "e0999f65595528ea227675632421439b493ca40fcec9d5adc503be6532d02810", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "9966c0f3b300e7a1b9e7239bb2e7078a0527f2682e78cea60def030421ca8ff5", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "81db1305f493dd4992178e0e74e0799f36b3871249fc522eb261508686ca63ee", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "5d70d900cd7b50023d3d1c674d593468490299bd0af477f68df7e0b3dde573c2", "category": "dropper", "reasons": ["packer_section:.mpress1", "packer_section:.mpress2"]}
+{"sha256": "f5b5d47cfb3b6febe99024ce0d40deb55489f60db820211816b5d029c2770f3d", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "d713c7e2db5e1a64eab6bbadf5b95758bf2b1e0582eff6b84ce3141952155579", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "0ea28471d79600a8243a1c824a2238dedfcc7ab8eb264c8dfac78dde1fd8fa87", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "6eac2f3bf066f85875d969a7c43324df2110fcfe8a4bd1ba71e3ca2a3efc68cc", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "85811eb12a7c1d173d6efe5a1615359783db4836ecf8d6a88fc45d5ef59b347f", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "e9111de95bd46048c2fc0fcfe13eca07499b199529a8fa7222a701a6862f19cc", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "a70a374e52f9c0855d44371591efbf503e4a451b2b56d365ff0dd508dd35f6b3", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "1b44fe68a34912d8a1f54674b6e4ec4e72ae1110468d7352dcd237f0f71533ea", "category": "dropper", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "59f580027ec5ee919e370adc77336accb3a4eb57cebdbd01b5544ed5a2167214", "category": "informationstealer", "reasons": ["high_entropy_code:.text=7.83"]}
+{"sha256": "21bdc250985a2f92b6b46cd2cfebcfa8414424c541f78f2efd8a03f871d9af41", "category": "informationstealer", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "ca8d116c671a6f7b41f43a98e114739db9ab9792fb4b7f7a6aac0b5338c3de7b", "category": "informationstealer", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "84d2bf69e3dc8a473d272e6aa1179fd31e8f094e52266dfc662b1bd1de7a5eb2", "category": "informationstealer", "reasons": ["high_entropy_code:CODE=7.85"]}
+{"sha256": "e5e315c6470f8531d2e030dc97735b04c8d00b884abb22d1127fdb5d9a89b7cd", "category": "informationstealer", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "ecc40e3d10d160ce317857f6167315fc2b948c525d190eec79df4d259f03cc14", "category": "ransomware", "reasons": ["high_entropy_code:.text=7.66"]}
+{"sha256": "75d389be6dbc98c792bb136dbd66da77ccece9311842ca09fdb1c764904621a5", "category": "ransomware", "reasons": ["high_entropy_code:CODE=7.91"]}
+{"sha256": "3841ba2ebb610a5f1acde67fca16c2d966584299f1ed15edcde3413a9e329d62", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "9e99107a7782e8da10b399aa6068da03d2c9a311e6962a82d12f4e32a043942a", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "6d1d1e3644bca6c19d939cfa1dcf205fca28521ae8580c5eded7dbeb9bd999b3", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "22b7eac831e40dda0fb2db8b7535fbc9d19d00e0858a35229106fd88de6f27c4", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "4b669ff073411f54e717ecf7d6070ee721fe3d179033a4d0b5662dffb7050469", "category": "trojan", "reasons": ["high_entropy_code:.text=7.92"]}
+{"sha256": "7f33d249ddffb37bf42e680922938c5194d1b4194699555f8a9bedc8c19798d5", "category": "trojan", "reasons": ["packer_section:.aspack", "high_entropy_code:.text=8.0"]}
+{"sha256": "334b0f424d7bd9cf67ceb27813196cf754fe4b6619c8c23fbd7f4044b6519d19", "category": "trojan", "reasons": ["packer_section:petite"]}
+{"sha256": "76d566ca7d80d8dbc5c63cff5990611b050a01042b4eedb034782e75db673c45", "category": "trojan", "reasons": ["packer_section:.mpress1", "packer_section:.mpress2"]}
+{"sha256": "7a664d78ee595d9ede7f983e0d63bae96471ade97498c723d2f4b51b15aa8721", "category": "trojan", "reasons": ["packer_section:.enigma1", "packer_section:.enigma2"]}
+{"sha256": "b24b524ba0c9a215618f756e90b0821687b6936e973fe7f77cf69fbfae806834", "category": "trojan", "reasons": ["packer_section:.mpress", "packer_section:.mpress"]}
+{"sha256": "0247de045615db753aff25c18980260a52e6f8c48784e44a0e9a154d7fffc395", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "89a3fe397ac557ce51557a06c4d1340864aa6aa1080ebb79c0725e8ef011822b", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "ada950be71910231c3993ad3421dd6c33a681bfa146584cc953852f5a47d821b", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "a80a17d88ab54d6e941c17f71ee1d0228efbd2306625edc5ed83d1b3d30c0431", "category": "trojan", "reasons": ["packer_section:petite"]}
+{"sha256": "2e9b912e7a25e32250c6d2cbcf4eb61b9e1c9e350d57572f93877dece2a031f4", "category": "trojan", "reasons": ["packer_section:.vmp0", "packer_section:.vmp1", "packer_section:.vmp0", "packer_section:.vmp1"]}
+{"sha256": "4c172c262336b95cfc2fa7ee84f7bed3950fdc1e9095c2da1034f881bab292fe", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "60cffb491515df1ecf87cbaf163206dc4a2d030c651bbddd710dade86b14e698", "category": "trojan", "reasons": ["packer_section:petite"]}
+{"sha256": "1f3912305a5813727557fc2651a491864bfd2b4721d294edf979c9658b9ec861", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "9ec2670e706ffa2e5e8ee5d09d5380b7b7af8bf7fcadf1c0127dd4f3335755d4", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "7d182408a1bcbdd6d2bbf0fd92bcd3f4c775a942dd420973f4e751813eab4874", "category": "trojan", "reasons": ["packer_section:.mpress1", "packer_section:.mpress2"]}
+{"sha256": "4395cd97632abbfa86fda40330f102e485ca5035a225183ef5a6663540b0eb3f", "category": "trojan", "reasons": ["packer_section:.aspack"]}
+{"sha256": "90b16ae99f08ddea239ea9af18e685dde8817c8aaf36b3ef9282cd8a7fb10bb8", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "c8595c1aed3e0b6dbcf6eff975be819f531e7a48752422699e584aa00b1d823b", "category": "trojan", "reasons": ["packer_section:.enigma1", "packer_section:.enigma2"]}
+{"sha256": "ad47a32433a47b6dbafd7e4fa493e46671b7e18f23484e514cb8fd5ef1d07bdd", "category": "trojan", "reasons": ["packer_section:petite"]}
+{"sha256": "e6e7d17936cb368666f08b7939cdd707ffa3771bfc25a4e5270660f60a2d36bd", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "94e620efc2c0d93ebec03f98e036489f4a811c74af5818222d97e3d6ba6ec828", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "d96708d8e887cbb70145972f4d21ec0a172a3e35c7f9ac99b0f3d342cfcc08b0", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "148c6ff4f0ba07d428e95cf2a2e07bbf74101261a33d5512d31cfa8179c004de", "category": "trojan", "reasons": ["packer_section:petite"]}
+{"sha256": "7e78cebccef9e871ce272ba50be00e6827f61decb4715a8ed7dffb4c735b02de", "category": "trojan", "reasons": ["packer_section:petite"]}
+{"sha256": "fd698db1e8dbc606f0b8c5757ac56c68ef93663a48b33e357f6ce74c654bbb97", "category": "trojan", "reasons": ["packer_section:.mpress1", "packer_section:.mpress2"]}
+{"sha256": "3dbe1d4efbeb98480904faecfedbd156ca7b1cc7300163ccb6fd6a29933b3119", "category": "trojan", "reasons": ["packer_section:.enigma1", "packer_section:.enigma2"]}
+{"sha256": "41a1d7506253515698df531ae0ae8385236519629e7d2b7c46f522d7b0621aef", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "87f25af57e65c8de9f5d192e07290fdc8a684a823a2f09f1a5d5b60777f050e4", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "4acfa7868ddc58312d21ecc21c61c8ce6c28723dfe9d8abdae3544fe6df1c932", "category": "trojan", "reasons": ["high_entropy_code:.text=7.61"]}
+{"sha256": "9d851064481069611c81f853d3a5a6d295940c41f6aaf5a3db19c43576a55eeb", "category": "trojan", "reasons": ["packer_section:.mpress1", "packer_section:.mpress2"]}
+{"sha256": "0f622ef2f844a8c2e266c79ce627a63e5a30950c343e4d7346a1a7ab79989e5a", "category": "trojan", "reasons": ["high_entropy_code:.text-c=7.74"]}
+{"sha256": "c0e80800e1ebe03036d5548c554b5fc25887ecc97290ce2a4d23dd9a451aeee9", "category": "trojan", "reasons": ["high_entropy_code:.text=7.59"]}
+{"sha256": "330b8edebee65eff85fb08a9d134e4f8e200cba6c544afb075aab1281a8d8231", "category": "trojan", "reasons": ["packer_section:petite"]}
+{"sha256": "0b8ca81fa2f2c7befc0baff3092e468ab2afb06e695236428aab9a16650c46ed", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "b68e8c53359d2528fbf862667cfcf4f899256dc3b2192c6c9df04059bb2dde07", "category": "trojan", "reasons": ["packer_section:.enigma1", "packer_section:.enigma2"]}
+{"sha256": "99436fedc88dcab181d58840f457ed16120b2cc2c215e75dad5bcdecf0c88341", "category": "trojan", "reasons": ["packer_section:.mpress1", "packer_section:.mpress2"]}
+{"sha256": "285cacb793a44cd57f49e72f7123b0d5d02f7b85627e42e3920a5d3fc5dac1ad", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "7721c16b7623d532a34f534118e9f13f32dd48b66b8cc2a42f1381ad3a3261f7", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "7fe4ca0bf509602920cde7f3f33d0fc67281714e2badfe8dbd929f5784d4ec30", "category": "trojan", "reasons": ["high_entropy_code:.text=7.6"]}
+{"sha256": "f0960bc171bf29339f6fc612aa2b8dc30a8b2195d6a0b898b69b4e52a2a9a341", "category": "trojan", "reasons": ["packer_section:.enigma1", "packer_section:.enigma2"]}
+{"sha256": "5ac9800a5d64d3fa215629b07953dd3a4d1b0bea08a08e1395ec80c7592331ae", "category": "trojan", "reasons": ["high_entropy_code:.text=7.85"]}
+{"sha256": "1b51079f8140f9c0406f64d7ccd048c2a05a178ea0aa0cb5eb57ab5f806a8d6f", "category": "trojan", "reasons": ["high_entropy_code:.text=7.78"]}
+{"sha256": "1cd16801697a8a02d0b5b4b0ce6d9f9baea7481c6684213dd9a1e969cae3fa42", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "cb2a83dbe5a8dc90c6ae52996425854fd8363a9329cd3fb67b5394ea895db543", "category": "trojan", "reasons": ["packer_section:petite"]}
+{"sha256": "9ab955ac81d4cc31b5f9de4e286b6049f829d0085e956ccfb540f2364fa5d27c", "category": "trojan", "reasons": ["packer_section:petite"]}
+{"sha256": "0b33c2fc7a4cdef352d9e6f37143c1eabf30f40af77f183e650ebc2c819e9071", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "0fa261a2c928b33659568bb3f0ccc62b767d82d6ec5bd18b3b2da9b279cd715c", "category": "trojan", "reasons": ["high_entropy_code:.CODEA=7.99"]}
+{"sha256": "4457427062eb759a8484305149c42afb8ff8efa999a0b96fffe5909832f8c154", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "4cc03684b378d5784314a9286f944979d91c663ecf29ef978f0f22b0c9d6459e", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "f73f831c63cc3ae742ac91ff184e3be478ea46df7460dfb9c9258a9155259133", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "75978d1100f5d54a0e2d8b0253bc3062643be41d43d7a4b8804cf21c2b5411c1", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "985bb97b6ede80daa3cb1255d86f8c388ed16fd48c6616d75ad608ef47d50fbb", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "c0f1c7797877c9985d48f7abd957dcb21d96eb694596b3e7d6588b07def9b146", "category": "trojan", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "db29fc00818ae29e636861d02e02ade823ff278945cca8d71a849b2823612d8b", "category": "trojan", "reasons": ["high_entropy_code:.text=7.92"]}
+{"sha256": "551e9d48b965f7e7ff0c229f3854f5c2164755d842e17eeffb36d31ef356a31b", "category": "trojan", "reasons": ["packer_section:petite"]}
+{"sha256": "0a19f43b9afac2da5685988dd4a494096ac271b7a8038481de3fc8c09a16da8d", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "2f93f2d5e725e8fba579310c83ef4f4a272561f4f8e665980201110e98e94ccc", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "e08d692624aaa3c413364f1fe220cd2b53447f9332794bfe644f0781b92e5676", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "65a04cfba25103b44b40c535ecdfab048cd807ecdd90d6a3bde43ac6f6107c5c", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "3ea940a61cd129085668e688545f22cb243320688e0b84d5c0233cb8eedc615d", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "908bc829ad657e185705f3961e407f4549f922c848dfa06be9dda92994984eaf", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "8ff4370e6fb3a5dfb27eb1409d537c292f9f650f54cc280335e78eb0fc193aa8", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "ebb08ee8337cc9aac46bfcc7e4900c9a82250d814c0d5be50a33c8236a6e6f90", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "3466759b13c31d5235c0c462c907302ce69ad119d28ce1e9ebfec4320f537e20", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "75340e9af8a942faecee60fe049ed9996480c6047097b3c52c76d84ada089b1b", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "ead0dfb463949b27b1d1e458a5018e34c9c63e09406fff9416ddc4479f0372fe", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "53e8fe15f6d81c27943692b3eb0032a84add383960b7c835db78e9294258a7f4", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "96ac87288221b78d0e924fe969f7e584bd78dc753d80f4262f7691bdc81283a1", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "a1bad8f6a93f40540eb94c243d6d0a873d2bea348559bd101ca9e6f24bfd8ca3", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "7a2497753d0c3f395ce2034c0508938651c456a4ddc6b78a4e51199a3dec494e", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "83263a8d4bff932f8e793a782dfdc3e63a6329dbe31fca5c2a1303f129ec59a6", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "360a88e0df806b5867b29305d9b82545fa02f7c7ed91d3f76dbf629540f21910", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "fb159e1a674d14741dc99f229757e72b654305c099a740376b4097304133c006", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "407419e8a109ed7444607d346105165f7c0a9ab58b904a6824cffbe0a4cfcb77", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "6fa483bc939cd89faa1c4e37e30ab2ca0da335d3f6582d38029ca51cb230595d", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "de8f685b9e1ef088dc8e99cf5ba9d6fb49dc59879f89d09fbadfffd189cf7383", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "c150e82783953004c4420d3eda734904cd062c5de28ffe14bcb50c206a509ff4", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "603ce94d7edab332faca1d4e6c75031c38131edd6f26e4d3c9beeea892c5dd25", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "a9f9ae3615efa6830e261f94f710deee9d23074266a92e628bb1fdf9166e7a53", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "fe7b6ec2d3789aff1b1fee8a45c04a45788c1d3671f286b081fd5196dd1e3a6a", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "4df04e65ca2a999f0d002617611953318219df4792df533f60607a6b31b21cc7", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "fd39fb44fd087cf365bd0769639deca6638e6322bb74ab9261d688f0483989c9", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "6fa845a8dee8d653bc56a6fe1b0a736b0c57947e8dfacc0784cef547febed731", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "00ef7ace2215da94dd99ae421e1ecb51bee99a68079cc520fdc62ae0df1327d6", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "463732791e339a4289dc1dae976b0629701ec1927b1b216f7ff2aab070fa52ab", "category": "virus", "reasons": ["packer_section:.aspack"]}
+{"sha256": "9a7b580702482dba66ef42fa06c437302602ca6cdb926c1578bfae73ffff3197", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "72a00446f611afc5d47a528dbea5afe22308c664bc1406d6ed6b4f1abc7bf6d0", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "3dadffbfe8c2705fcdf5f4f9fd33d750fcd422859b1178632a197e42e3109a92", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "6b31965d7f3b0cc8c9bac2fa6d24c4afd4e08b5a711918e1b7d0107c1568452a", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "87a7638337009b16509b89423d78c682e0b2ef58b6f8e37474aac0e0070cb1d3", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "e6bbbbea583c7dc818ede1f874a99a9e02fa89ab0f49acc3990ffb50a5568d82", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "3badfbd9206a9b9e5f4f7b0b807ea5fd5c061c8e413b6cc1c33bb7adf757dd26", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "bab19ef77437f5312a558aeda6a2c1ff626631c673fe92665d712a4116f73fdc", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "781efb129b468701019a93b4c7ac944532555c61e1c3fb6ae52711df2a049099", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "9583f9c226b34cf609121bbc99a4e80ca53a75db58b9df6277f49c6db8dff3f0", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "1bcb0f800398bf82ccc2f1128a2a90dfcdf7c0a47257a66d34af7d4a45bb8846", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "01ecbf1a1cbc104f0427c70c0c9f4a6ab728fee87aa3f5256cdeb079628e2128", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "01f847e4542b4e0946127968672730a155568eb139f8b32f1f274c5a1d79bba7", "category": "worm", "reasons": ["high_entropy_code:CODE=7.75"]}
+{"sha256": "81d4e7a643c5a430d34d5b2890e2552a51fe1555c4713f6bb43e0c05e0f03ca8", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "5d83ad662848f2df3c233299f3e2edf2ca417fabbafa2d98780a23706295e778", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "4534da4c59bd83e3eb70a804368f234317b17a2ff0c614ec8fa83df5bcfdc008", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "229e9c684f0b155f15662a7e22663b949de92f1861ef8c2fc9a76c24048f0a85", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "3c2856e0efe8958102e4937571d629b059eb1693265c2cc6d1986620f7bdf255", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "659852fe2403865954d056c09a96a8b72f7273c0fa53362b187b8321b4a1aa29", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "20aa05eb8959097f3662ea6e62d0e333729adbc9cc5fcd2d1a0a67da01651f7b", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "53bb9eecfe69506ad24c176bfb0a8df3de237edfee04fab54b1b7671cf9bddf5", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "53565edb839dee27a2def8083e0580e718daca76fe5bab27434e1c7cb39cbb43", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "1979dd7185a812072e737b7d10fb5bae36e85bcdef5f5aadac36f26438023952", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "e6281fc3d2d356e7b67abaf32a0d8a0df2527882d12ab8c518937ba269af77a9", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "c2a621284d814309868da46bbfd4707d350fee858527f34981bff03229abaca3", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "3efedf9e9232dbf56d5d4f9095a672eee65457119743d6ba87a16c8806c7dd44", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "0a109d262298a823654f9031e37bc8320292be1892c89f5535a4d766ba506ca0", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "464b863b98b9ceaaf3286691e5e40d07c10029005c99555ab10e4a1fde2f6006", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "85f508927a68283514cf3005804dfce8284f504be52835031dc11ceba062481e", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "4d4bce3da0ce81c19e1a6e100ac98dfae1dd7f155f1f4da73e2d18567de26558", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "6114c886c2c661bbcd7e32235e50f24303836008271f92f7f78daaaf317fc5f3", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "0be729806be388ce112613aeb88b27662d5dc1a625520dab9739226b8812ded9", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "d74d67eaaac107c6854e46231891ddb57e40fc3b15020417e0bf1dbc802e31f5", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "2b4a2dc2a4f42fdcfcd23f3c3f7749b1b1701eebdbbfa51a07f134856ef2be58", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "43ab0c21081d784b5ba71488b65d858f902aa987ebd9a60ebbf655bb9b914046", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "46bd75ecc7ee7edee3ca4757601a3303d2c532079c2ce1c7b4eccd33b04ce0bb", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "ad62f20f312e116d9627af0010c132b3c9a5cbb3297c1ebff8584d639ebbc665", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "11cd468848258c0c96017bc13e102d51b2b437ccdc07279ca80993c558c84c36", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "78ea7f153ae43aeef86acd1665a6b840cfa8ffad0f888d120137922fa87fc26a", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "f0bf3d0fa71accc0670fb91fa3a901c214cf3aae3fb7d2da2a3f32ae50324a3c", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "748dd0d05ae356630689196cf8c8517f82eeeaf3bbcfcbda04dd8bd64fb9cd1c", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "89dc6c328f0db9288fc41710ce2c21bb6c5d92d10e20a679b985eea0c8f4f6be", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "95a5f0087a3c2f3d8cd46e6eb6fb8cd8696868a0723a1a1846aeeb7e3ef9dd4c", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "cb830bb570a7e5130d4f70fb87675c89f792a16022e08cb309bee2290c9b7072", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "ac06d814bcb58bdbc2d72d154c3ec95041263ad18c3296a98d410778d651113f", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "6bdae8656822d2f718c299af30e6ca99a4629c8383394d697ae8d4266e056e75", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "e4f732a53d81ebb682eba6b4ef678c6e42629ef666b324e9779b9b91e84fe131", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "f3db9653f6aab01f6303cb8a1c253baa818580a4fd2de3d87f11a8a921d84001", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "c61926fa112ac77c3706ab2164cda6ab540c7a1c48607b87880a8562640bd758", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "ee33ee72a76d7fa01a3a7f75837b251eddb4b645945912e8a03310b7517cfd6d", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "96c0ab6aaeca87e53349cea77fee6950ded71241de1350c973dd4b7110f8e4dc", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "ec6f54aecaf981b6b8ddf0a72e029686c0173a3c8f4f37c9d76648b76a0a0ca7", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "2cfd5508239ab9d54a66f284c576565329a6a2f18829fc7689467088391cb9f1", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "1ebec9fa815f9f8986a2428910b43c006dbb184c6e8b67dc85af3164460f9b78", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "d01691962bb9708faaeeb9e55c66f9e6ecbb11b3c2f9f3869a96004e66ac0e70", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "fc3d3b9af793e2304cc35f824c13c7e0c0dafc15fca430f54a0c40a6f8e43aca", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "71383c3d0c6f3fe8b1fc929643633ef469d70ed5f54ee0aeaa19bddcdabdd94a", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "4eef143e5d271a6b47183f68191565c1431a2121d3780ad1e755614611bd619d", "category": "worm", "reasons": ["high_entropy_code:CODE=7.75"]}
+{"sha256": "bc9ffa6cde403b8fbf4a22c9edb97becb685ef911c61eb0279d2901b870a178a", "category": "worm", "reasons": ["high_entropy_code:CODE=7.75"]}
+{"sha256": "f2e7b5e9c806126908794bbc2b041dcc982e63786ac97d07c76633a1c28ce450", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "9b1ed97623aa26248e9d04bbabba8cbb519e8aa871b69822e634ca24e58f2539", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "51ac6041974d4258a6c47b805fe6b96db8443fed895940b83eb2b2328080b1e5", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "1739287af40358286d858816b40fed9b9b6dd8fcb08d327b79a1709844b9c192", "category": "worm", "reasons": ["high_entropy_code:CODE=7.75"]}
+{"sha256": "6dd99f6f7f143d70838d68debbabe7d5429cb0097ed69cd9343d2c0faae6927a", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "1cbadd69da163230f838a3a95702dbb9014f26fc3c82487827e7592cd71bc508", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "38564a7cb721a6a5bcdd980bfbadc7885dc099a8fc7ce3a3886bf9fc803a1b2b", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "86e3d89291fe4626f20329ef780cc50f20314491a0adc76c2ead89d44fe13155", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "21515164af1b6f1c1093ed61401cc6ff069d5e93f430aeef45c99480d4afeb43", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "7b854bce91eef7f7b9f5568299b3b8e6e55e59f645e66a5b801492423f356617", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "8ebda7f6e5aa78ca815f73fdd402da5236292a90b0b0dc104aed2aa6a6e2e5c9", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "dc55510f75c5ebc11789d1ebc855684467113043488c2fb481cc52b79f83c624", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "bac44451fbce01f82e1d934cb54ba2ea2fdf5ad1861a8ddda8c4cc2d8966b138", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "5f00f6af175d6a5cb9437e5bf55c6269d240a403ee92f83f3c93b8029f8342df", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "50c06f0ec131beea6d30008ea30df915edf2bd60bd605404aebd4caf5d1f9f9d", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "a3cab4d3ebbef865ef1cf9dac9519876939e605d9203057b9ce69ca38b277290", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "762fce54607ed653f2aef0914cfaafb9650ca02571b57a5b1f73795e8ff9fd7f", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "1b62a4c67b96ea5770a69e272aa74b88522eca682f525aaa8d99e1deea60dad2", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "ad1c94ef6dd9cca1366b0c8cdabcd389785dfcb67d33f9b854987ea52c50a2f4", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "bda39c56a38ade1b76873c079ff2e200bf722d01030be9da917ec4a4afd08db2", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "33d104c81623699fb4af73ef9cc470f5348692f24783c9d7d6105dda7b56fd24", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "19c9d9968eddf1306bba6ed432c51bf6f3dcfaa693adf8ea2315c005857b884d", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "d57e30897d0734a2917a1c996f3067cf82507d42e854a9c7ece36c7bb00bc996", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "82d81a1ff1f63d82c1116545cbc5b62b576d9db88c60a7477558a56c7372f31c", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "f8e9c9dc3abcd0c424632bd2f0d6cc9247b25acf49a6e66f7e3e35f213f5e651", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "ec6e35d5935403d3c3657c7675d673382f5ce8db4f09a91d1fc02a66cbf6b488", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "5a7a9dce2c5f06dc82ed6aacd0ae32dc7912fc9ffbc725cdc21bab4f3de9654d", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "e8c9640ea70d9b738b9b96b921efa9c1bb46924b44ed361a75af9b7d70130395", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "754bd07668c3a0f148beefdc9c4b811913e629e592a7fe3c318f829be7b64a26", "category": "worm", "reasons": ["high_entropy_code:CODE=7.75"]}
+{"sha256": "39e874809a43bbea103d5472518c694b9a44362e6b184d0188bec82e5403e707", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "f264b1eba61fd620b64e9fdab73c3f0ad37a7cc27a7240a89e5b7e5d5b4135ed", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "900da3c3248aa0a39324e5f887fe26c95ccbdd56c3267ae82d01f4c782ae6bff", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "ef5bff338fa2cfa6052f9c488d11f2f8f9cfe5e88086ee0da760daf7e62566ab", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "2f9ac1da8cf95bfb094b7245bad222bac084fbb8adeb396594b951204a6f2213", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "8cecaacbf296171e8ce5b8c1bd37a5281c89e39bc71ecbb70fc7ab9d3dfc7ef5", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "6d8f8974d36451df039acd3b43eb2584b86687f0575a26544924b9b60cd3a4f3", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "ff2bf17bc0b711d724f040be2f78168ddbc27205bbbe82582ec5a74d8a7897f2", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "bb5710b3927d908db8020a03e13a9a5385f430b1517ca9d879fb7e7174676ecd", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "527f969a1763d4160d9b642d7745f7a4c625dd13677b26d236313362cb8567ec", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "10560f31663ab8e3f6989844bea2a7de0f7903494012a3bc7e6e55e27258b8d0", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "8cc78f8f913cfa2d62a25ba89e8bac0074b19eb507c5b5a11baab1f918b85b62", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "9bcfda484d447e4a001032999da00cb818ea9108df1b2cc82a2bf1884dc85f3d", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "be451708ba9b3dc5fb2155f7bcdedcc9f10a42600f78df878b6512e57e44d941", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "20f29e2bb4d66501e3c9c92c77ee3f785bd5c76d634b8c7a97ba08d2a515cdeb", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "a688b5695ca3ce4bf92b74a7f5854b3ef7bef2a571ec94b76c42e4f15cd41678", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "e8185923670116c9bcd124f23c674de6069df114997e1735e913e4b42670b2ac", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "07851dee55bae29c0f4d5dec6f79ab14b3882d88b10e40c49f600f5ce9ca8637", "category": "worm", "reasons": ["high_entropy_code:CODE=7.75"]}
+{"sha256": "c487d43fbdc2baa1fecb27b18cdae61ab01f6d060313f21399ae1fb9e74c2259", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "e9c698bf518171d5aeaadda54a20685f86a154dc2c788c314c5135420d31d485", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "9f8a5102cd1c5b9dc1d7275a5fb552a297eabf2fbb9502927985c1d94b2b0761", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "0d244bb74e1792c8f12dd11b5f22fe896d1e3b81f2c0a40de732c91fa8b598ac", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "8616a031565e9179920ca6f351a77698a8b8c561143cbb08cdc9a0e5e3d41fba", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "580d7f3cef9c57fbbe5c23c92b46ad7ac3f29478458aa71794f9c2f08514af96", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "4a561c7e838520ef353f87d24404afc8a0c880c90dffcfae8802751f62515257", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "df619ab85e86fe984efdb6650ab1e6c67135ec3bc8fbfede30182ea6d4e02aa2", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "1911bfc9e884d731e11a42c065ad9e8935eec247b2463156b296267f98ae9ef4", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "55e77e8ba7577522a890aee0dbc6bf71764c29e5af9fadf89040c6d59496a749", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "cae5330354b8718b66040058693195cde166a760817cbcf1bff29f35645173cc", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "9a2ae569fae6861010f47722544d3a1ed8a80f9d675f8efa4aa44b1b0addd0d6", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "178b7d7c7238b8ae585cbc8e52a15ae460a1f8ff0572b12b197e1760af3fe052", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "3bd9bc02dc41d3db1d8246741ce7cec3088b59fdd9bba5535ecae5b686c33762", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "185be4434c48da997854591a66acd1fda0654e55f042c8338f71c8ef021f9369", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "990e2fca33694a0ed4d95f3e6a3245757daffa08b5e16c4d32e048be6e6a2a67", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "ff2cdd5ddc3f42c48731fdefe06ff008d5e333794b9a4217172a3412ae6d9036", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "31108b37679203d32aa3bdca6a868c51f5d9ab0219036971ea5161385bf4a578", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "5587b7905b16a417166a58910b859bc851c5c16ee9e30c38e8a06c723d296492", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "722636f28dbf5bb1e26c2d0a4cd571a039555bce752b1f606534c62507e60d4a", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "6ca088ab48290bb9cda17b1cd9b41ced19ae4e98d4a05b04dd1b96cd7067af0c", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "10d5073c8c912252ebc4fd2cc1bc1a0cb0203eece3420e5c7facee6d7cc7086a", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "4c70e23f862b24b37bd6a0a38272a54daea3894c02765258376203d1143b5dbf", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "8a35aeb806095ca41a680eedf642318bf301728f95b3c99906b7a3c411898ed8", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "993db81d55ca1cd02225ff9e0fd7140d43342f5d3195987407dcc50e97d3afbd", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "ca0af211c6af169fc84feeb39f71753d6a83223ca795c496aa319b42d7076161", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "daf563bf678bface557b6052e3f0fcdecb7ed2665bda48f7247c3aeb130022ef", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "5108ab95ff1d45f3b9410b4d62cbbad141473fb13f1807c8590b1eb652827a2e", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "ec864f8dae33408f2c05433779425f15c9710273acc6282392e43c32df2f6cef", "category": "worm", "reasons": ["high_entropy_code:CODE=8.0"]}
+{"sha256": "9fa68b63c908124f5fd2268daf0a8f4d268fe852bcf5f19f9b5bc7389b323917", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "0e3f53399348b5ab87a3fb73d930ca827c34949697f9426e7af217f5be7b1024", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "c8b9a4044410afc142a1f72a168850ecba538118b6bc585af224686ab1cecf85", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "d961a92ad657a25c62c86946bfefe1a200a28e7221c703aab9f0ba61d1187184", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "32f7e91252a0d203d4e17250586bf8f17844cc9bd8227b30572e632ff510f255", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "74b9415609d60345b681d41baf1eaf44f0d3c428370d5a6d1cd674b22cda85be", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "f9a7098026f14e42180c319cee7aaccc74c0d680bdfef595e8b90ee128942124", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "82172378e4a8e600163c9f6c9722372488cf9bb0a1e5d93082c4f8040daeb99a", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "f82de3059a8528ca60492cf40e3bd15d50ed318a94a9e18172c784b54b4c8998", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "f81cbc2892ed06cdfe80a9fad9a2898dc5f5ece0e534dc45f6b5bc70e783ebab", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "5617fa288053c7b9a4ed89fdef0ebffdccfe8c1e2ce0af972b5e06ba05667643", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "e48982dcff905fb02b1e0c4fd8972d7dcb8af429a34bdc80b011f15bb8084624", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "46c9d936b1d6cf64f562156908808ed9b2109bdfd9bfa1b29c5e3b12b3bdc3e7", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "7110312a5c2935dde4b290a88750d67d52d9e598a0de2b045522f71436726766", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "dd9e3a1528f43b49e278254b64b8636ecdae86a3ec3a7f1dd58e72fcd64d6640", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "8bce627994a0a25b547071dff1aec20d29148897f7080f0a0f8e2978915942ec", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "000093dfd22a920bbb09610a90ec65f568afa00d2b6605127bb7145d6e4cc38f", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "b0c785da48c50dfab448d8111faeadca529a8eea1c9b3c9a55652a4edc721b90", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "a1a6b02833d0a0391ffe2eda1eda9574e2f83bb70bed5185f728ae098367d0a2", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "c250bd35dac3a6084e1bec1fff751d54eec4df2e9e94706b62c53af028011153", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "3b54539351dd471db3aa3e507215b86efaf46458e3085b5349b9fcd6ebd32c83", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "412ad5b15223120dd8ba07b21f67bbb3a3ff76bc0a727fc7569ee207a8fa7f0e", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "18e1f3a53ba1401e6e41d6998ac44124065e3f08d726e093481c6f1c9fc1e19f", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "4973136453cda5dce92b6d2d6efb341de0ed6be21780cdeb2ddb45dca93dec19", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "94b1f07f2595e160f1df4d560c2888b8e1392fc0414d20953d980b648831126e", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "9523248d8728f7b8f9b4138470846a34a02e227c545bb34a5a433ef1a16fef94", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "df83ad5cdfeaba8fb6deaf1417dd13d7e2980f42ecb98cd4d7ac42cfa5edf169", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "162be4e121c630e88d2cb1c34bfb43a9372fe0ee6b180b4e94cf0324c36be154", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "4b93a1033b405a7b7a02adeaf115fb64e965cf88cd750420d021e2d1a9913e4d", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "f63b29b0a182bc1cb67ab71e676dcba80612a411a38c401ec8c73c41597d6c19", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "e324ba8820e92d28cb70aa019cb37dd8a0ebf88b2bb0ba39eb47f77c5e3fa6f1", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "dfaf9bb90dc1208b3b68b973453f0d02099a2027411aef12e7d75a2f28520b91", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "49f237b49d3998a8756370baab0c26194277833fb4a3aea290a167b6458defc9", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "6b7f5792c7a2fcd69194d72faa0a92f87332a18c670f99ad7417d472e6de3ea4", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "9e7a50799e1ae6e7c1c606cf8906683e30dd75df5679481c700e9f262b33ec7f", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "f217f55191a5749d55b79dab8502f8f6af97a5b96c362e9ebd8cb016b69f3f26", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "806ac9d972c0d64c776635254fd935d1085104c5c8c0ce39c4bc38e256493c0b", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "0ad53d767c652acc1ff34affcbec43c127d03d07ed74e0cc0702f71d8eee5369", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "74f8387c283c57cae228bd77839eab407af0dad8183a8aa1b66daa582ff292f7", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "752dd8745759c3d23a14a49630b71be8fc0892fb2aa8c80ef537e1617f36828a", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "1b1970880049fb7add914911d0201f34d87b38b2bbe92d031abe9e6e41ae208f", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "41a9866b6b33ab9d837936ff839283de1a03cbfbfd20b384be19688fb9721147", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "0eb62341f5d50d4d2765f4135e1c4b6b1eed307629e64f1ea0930bcef44fcf04", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "b5f161c50691cd6e514294f58527582ed94dfddbf2abdbfbf662ae8a8cdf5d9d", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "8697873df61eada150504c35faa8a285ee14eaadcf1a5bdb0d5930bbc6e33a4d", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "0aeab0859a1421150db8368cbd819c28a5bf6a5d6709b3118c4fcaa00291d59d", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "8c14fbc0749db9b112af72d7da5896cd7dc4eed670741ad2adfef4b3a6296e6a", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "5192b523ae4215e0b9ce197e91e477201664062f7056d204678e0ee246b40d49", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "045edb43533a175827f2016c9b54885e88d56d8b66326b6a9f9ab71cfdd2c2fa", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "6c8990eaadfd3e3997ac53e58ce9440c9a3dfb13ef3c4c2f267c08607c7b8204", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "0fe905480b0bd5136de5568bd349ecc0eae2037f7ee2827508b39dab83ff0c22", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "39c81fc12bf326e79c36312f248e543c7de2b65c81539f1c05c45e55197960e4", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "4bfe3e8c194db29bf329d526d6327255e1d3bd5c921ceed41c31545e0e056c3f", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "6d3105b0e38cf446188ed83650752eefdecc46eb1b8b9a565cd2ead15503a458", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "5932b54b65cf078da029ed722f275c4eabe272d40e799613e2fb1c029509c997", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "d6ffa293b675fb582c77deead8a1be6f161eb0c4c80523bd6acd8346094b423e", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "f30e7d924f36f9d756eb405bdb64d8048455367c2bdb6f92f13c517f4c2a6313", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "1627ca9cd077c735d5e280259e64083ae7350180570c437976bc863e0bd2612a", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "f08b334a849624f1970782ccb2c049224f77d20513ada4ab0481620644c69492", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "66da307a1fa70dacf7091ec21c1af63538faf44a5460d98d799ec4ae2054878d", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "569d623bf6cf1d88eff84ee045781b36d0cbbfacaef87b06b9800c6d6ef36ef0", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "03a9bb41d6d2861f37987e99019e4462fcc9ec18bf724fc88a223c2e9b592be8", "category": "worm", "reasons": ["packer_section:upx1", "packer_section:upx2"]}
+{"sha256": "64c265800081cfc5de2f02e5365b95710a6c8f6c9780371fb4d5ecc5bb483e16", "category": "worm", "reasons": ["packer_section:upx0", "packer_section:upx1"]}
+{"sha256": "3cdc815560d58bc774ffd6d029772ff775daf99e93c13ac3e6af386466656597", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
+{"sha256": "3384c16e91ba9fb42e27622d6d34959cc8ba2de0f4a546a47d4774b5fbb17b69", "category": "worm", "reasons": ["packer_section:.aspack", "high_entropy_code:CODE=8.0"]}
