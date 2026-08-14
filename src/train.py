@@ -142,7 +142,7 @@ def make_splits(pairs, seed=42):
     assert not (train_groups & val_groups), "LEAK: feature-text in both train and val"
     assert not (val_groups & test_groups), "LEAK: feature-text in both val and test"
 
-    return train_texts, val_texts, test_texts, train_labels, val_labels, test_labels
+    return train_texts, val_texts, test_texts, train_labels, val_labels, test_labels, test_idx
 
 
 def tokenize(texts, tokenizer):
@@ -214,7 +214,7 @@ if __name__ == "__main__":
     set_seed(42)
     print(f"ARM = {ARM}")
     pairs = load_pairs()
-    train_texts, val_texts, test_texts, train_labels, val_labels, test_labels = make_splits(pairs)
+    train_texts, val_texts, test_texts, train_labels, val_labels, test_labels, _ = make_splits(pairs)
     print(f"train: {len(train_texts)}  val: {len(val_texts)}  test: {len(test_texts)}")
 
     tokenizer = AutoTokenizer.from_pretrained(CHECKPOINT)
