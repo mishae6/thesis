@@ -78,5 +78,45 @@
         "packed": 0.0
       }
     }
+  },
+  "unenriched": {
+    "n_eval": 511,
+    "headline_macro_unpacked": 0.703,
+    "headline_macro_packed": 0.1875,
+    "headline_delta": -0.5155,
+    "per_category": {
+      "backdoor": {
+        "unpacked": 0.9934,
+        "packed": 0.0
+      },
+      "downloader": {
+        "unpacked": 0.8776,
+        "packed": 0.04
+      },
+      "dropper": {
+        "unpacked": 0.3636,
+        "packed": 0.0
+      },
+      "informationstealer": {
+        "unpacked": 0.0741,
+        "packed": 0.2553
+      },
+      "ransomware": {
+        "unpacked": 0.8466,
+        "packed": 0.0
+      },
+      "trojan": {
+        "unpacked": 0.7464,
+        "packed": 0.416
+      },
+      "virus": {
+        "unpacked": 0.0,
+        "packed": 0.0
+      },
+      "worm": {
+        "unpacked": 0.68,
+        "packed": 0.4138
+      }
+    }
   }
 }

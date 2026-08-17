@@ -1,7 +1,7 @@
-SRQ1 unenriched arm — test-set evaluation
+SRQ1 unenriched arm  test-set evaluation
 Run: earlier session (recorded)
 Config: ModernBERT-base, 4 epochs, seed 42, class-weighted, group-aware split
-Source: [captured terminal output / recorded in handoff §6 — state which]
+Source:  read from terminal output at run time and recorded into project notes; terminal log not saved.
 
 eval_f1_backdoor: 0.951
 eval_f1_downloader: 0.890

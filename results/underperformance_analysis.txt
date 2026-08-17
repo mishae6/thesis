@@ -1,0 +1,15 @@
+LLM underperformance analysis (SRQ1)
+Exact import-name retention and structural-field loss, per category,
+measured across 2407 unique feature-texts.
+
+category             imp_retain%  sect_ment%  ent_ment%  F1_drop
+backdoor                   16.9       21.4       0.2   -0.003
+downloader                 21.9       40.0       0.0   +0.143
+dropper                    11.4       45.3       3.1   +0.736
+informationstealer          7.1       50.5       1.0   +0.059
+ransomware                 10.2       20.9       1.5   +0.313
+trojan                     13.0       37.4       1.0   +0.102
+virus                       5.4       76.8       0.0   +0.048
+worm                       18.2       40.5       0.7   +0.047
+
+OVERALL import retention: 14.2%

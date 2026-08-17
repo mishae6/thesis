@@ -1,0 +1,868 @@
+{"sha256": "b21e06f9f46d721c2b423b8efecb4639eea5d7a22ed2c5e0441f0fdb34c68c78", "status": "packed"}
+{"sha256": "f3be3bdd51f22d43d04d6e227d54829fb807b3251ed2343fd2017f09df763e22", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/f3be3bdd51f22d43d04d6e227d54829fb807b3251ed2343fd2017f09df763e22.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "9e178fa33c8239241cbbc3fc6aa1316527280c621b5f7c874281109d6af5fbd3", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/9e178fa33c8239241cbbc3fc6aa1316527280c621b5f7c874281109d6af5fbd3.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "7f0277e3d32f0d1a2598b838cbfb175c9eabed44b54763a6398f796fb2362617", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/7f0277e3d32f0d1a2598b838cbfb175c9eabed44b54763a6398f796fb2362617.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "44270e47cb2b60798d30c54e6aefa855f6de5e7883273f674f119a2b24d6760d", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/44270e47cb2b60798d30c54e6aefa855f6de5e7883273f674f119a2b24d6760d.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "757189f673310953e45df08b8a264055815746cc60d09f240a684a5611eeb85a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/757189f673310953e45df08b8a264055815746cc60d09f240a684a5611eeb85a.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "3950e794cbccbf7bf80ccc8a92c937d3a14afcf2ec2d49fbc5b2d62c36a26294", "status": "packed"}
+{"sha256": "db1fa9892e2c5ac2bd656caa5dca9450c89ff71912a6ffc4d1cfa2f5e4dedbc1", "status": "packed"}
+{"sha256": "f65651e91d9c650fec93ac74951bdfad51960ceb01d36ad4de840d680e2a9806", "status": "packed"}
+{"sha256": "58863f7b4b1831f6c13cbf98ccb6e813664f7135c6646d171854ee8b17243627", "status": "packed"}
+{"sha256": "997f9e046f8d830b36ca4f3c242ec62c2c9a23020064b3936fed09fdbfeda6da", "status": "packed"}
+{"sha256": "ee0734a3ef3bfe65a7d678d648ef249e33b7cf8a59868c78539611a36c5c8a15", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ee0734a3ef3bfe65a7d678d648ef249e33b7cf8a59868c78539611a36c5c8a15.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "aab65201ef9e6be25cc60ed62845c5eaaee5d1bf69180e0b7360c692c5235d58", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/aab65201ef9e6be25cc60ed62845c5eaaee5d1bf69180e0b7360c692c5235d58.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "d0df87708e619855e2ce0229cb1e7481f47dd831da8903c72f33ba2fba56857a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/d0df87708e619855e2ce0229cb1e7481f47dd831da8903c72f33ba2fba56857a.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "8a4f2499f9b30dfb24b11b280c58e79ee1011a117fed80a846efbfd0037b253d", "status": "packed"}
+{"sha256": "f80ec654008400c81ba174e5a2ecd7bacc3fa772a6352cca7f5dcf1b2f496615", "status": "packed"}
+{"sha256": "9a7f10ab18188f1f8063d1a4bc638e48dfee5d2e9213571dc1f4104ad3b6e6d8", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/9a7f10ab18188f1f8063d1a4bc638e48dfee5d2e9213571dc1f4104ad3b6e6d8.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "15af82b8b7fb0b74fdae22d685628bb4b56d2c73ef41975bdd2d3887cd853292", "status": "packed"}
+{"sha256": "806fb27dd681d63e6ce810cfff0f87ca5083be52066c5a7cd04c6e62a1dc2041", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/806fb27dd681d63e6ce810cfff0f87ca5083be52066c5a7cd04c6e62a1dc2041.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "0b609b2cd5eb91c578ed701b24fe6b67426d52ce9211426d76a13c717c5d188c", "status": "packed"}
+{"sha256": "bd284fd46e7c85dbdc0133ed8b3fb36ad6acde58a75f97d879c8d75342a619b3", "status": "packed"}
+{"sha256": "2362678d7399a904c3fa4a78d0c891a1ffc060e1abebd239e20d4b04ef88a1be", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/2362678d7399a904c3fa4a78d0c891a1ffc060e1abebd239e20d4b04ef88a1be.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "722a90f78535f8f20b8b32c587fd0249b07511ef210eafa8bb50605a216ef2c3", "status": "packed"}
+{"sha256": "f4ff8570fabff2582a7fa26cbba31c666ad3b6575c2b686a630dfdd4b7c82c47", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/f4ff8570fabff2582a7fa26cbba31c666ad3b6575c2b686a630dfdd4b7c82c47.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "5e1370eb898588cd93216d07602a96e6c6f7bd0de69b01065d3c1055328db958", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/5e1370eb898588cd93216d07602a96e6c6f7bd0de69b01065d3c1055328db958.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "08a13922affcdc95429f1c25d1c457daf0c4ca8cdf6181cd7f6f133fd15b2fdb", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/08a13922affcdc95429f1c25d1c457daf0c4ca8cdf6181cd7f6f133fd15b2fdb.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "58415786934c0e1b5dcc93340e6ec39eb8ace8760b2031ab772bdeb4c06b4c52", "status": "packed"}
+{"sha256": "24ae4c6b1b3415d1f3d21e5cd5e6ada715eadb23e6388252dd1f678b56351912", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/24ae4c6b1b3415d1f3d21e5cd5e6ada715eadb23e6388252dd1f678b56351912.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "6f66c4acf620046947479da47e8b6df61db624aee1897c28a393b36f25206d4b", "status": "packed"}
+{"sha256": "e5d5e68076892d867bb121933cdacb20bd69dc29c52107080e6e55c27efc0948", "status": "packed"}
+{"sha256": "b8a322bf47efb7ed1c075957680782b0baabd0a836ac7953ed4fadf7ec98d2a3", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/b8a322bf47efb7ed1c075957680782b0baabd0a836ac7953ed4fadf7ec98d2a3.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "900a6830c6ec0b5700d0f69e2f0bea7bb90cb5b9868349950f5b54e4c03c6cbe", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/900a6830c6ec0b5700d0f69e2f0bea7bb90cb5b9868349950f5b54e4c03c6cbe.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "17cc920f307dbdc190523241909b9e833fdd77e3a7ce9afe0227c31ad6fece05", "status": "packed"}
+{"sha256": "49185950ec117bf5412617eee2be91cb1e8159a579cba4a5aa28b884c0dbc05a", "status": "packed"}
+{"sha256": "5e2124bcc6591e436a5a237e51a688e6e1cf280ef07f3261e830098058abd370", "status": "packed"}
+{"sha256": "3a8adfed6f9cddfe828d3e2171b0af8da5fd37203e4f189513d0b38df2307017", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/3a8adfed6f9cddfe828d3e2171b0af8da5fd37203e4f189513d0b38df2307017.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "c574839a6078cd2c680e3da142964d691fe7453f09d65438e361df0b2f0a6da2", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c574839a6078cd2c680e3da142964d691fe7453f09d65438e361df0b2f0a6da2.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "d4e86f97ad38e3f5ed7c12a5a9068938dde0ee3057ed537cc0c62ba63b117f4a", "status": "packed"}
+{"sha256": "92df537a1ec8d288ba41e388899a266d0f2630717fc6a67ba29b3752633686b4", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/92df537a1ec8d288ba41e388899a266d0f2630717fc6a67ba29b3752633686b4.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "dc3cd2e3808abb7b5696720948ee62e51dfaee06ccdb8ee10b89e6a815ccfaa6", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/dc3cd2e3808abb7b5696720948ee62e51dfaee06ccdb8ee10b89e6a815ccfaa6.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "fc3bc4cbfd565eb339adb418d9df83dad6a665c4088b90847fc640d0fd79aac8", "status": "packed"}
+{"sha256": "055fd7d0b1d4884798c2b0d1a93c7013d0ff27dc1486c8eef0f4ecba607bd9a4", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/055fd7d0b1d4884798c2b0d1a93c7013d0ff27dc1486c8eef0f4ecba607bd9a4.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "1548b623a282f2b483f1548cfac1925e2846df08debe4a086f316b29fc646e33", "status": "packed"}
+{"sha256": "c59d84dc77a3f87766c6aae6808187e21521da41c0ef99de04787f28818c61f7", "status": "packed"}
+{"sha256": "5e28b4ddca2097f23d0c9430e586c114a6aeb748e3c633524f70de67b79e7a12", "status": "packed"}
+{"sha256": "cecf50061d68e9a431aa5ebcd0f6ea9158530fc0c24a8e210810271ae96f0020", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/cecf50061d68e9a431aa5ebcd0f6ea9158530fc0c24a8e210810271ae96f0020.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "f6cde5518fd74c6131d8c4dbbc1300778680c431a145924bef82d6a3abe11395", "status": "packed"}
+{"sha256": "20915e69f8a04599f1c1001beb4ccb84a5ceea2de3cb91e2334aa325296fee98", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/20915e69f8a04599f1c1001beb4ccb84a5ceea2de3cb91e2334aa325296fee98.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "012ccd96c1bf2a7c73ad1ca07b0d7ac3ad437466f92a3ce683f770e4624c54f3", "status": "packed"}
+{"sha256": "7d9f5af4d1f84edc9679e44a97c7dd121002ed780b16dbca25f8088e5380787b", "status": "packed"}
+{"sha256": "0aa37f60dda7ff71d0db436b05da4e8fca55e376be13ed4bd18f9d4a0e9f5385", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/0aa37f60dda7ff71d0db436b05da4e8fca55e376be13ed4bd18f9d4a0e9f5385.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "ed8bf0d7ed12845d93076c281d622bc4f9fe8425a33a3cfaa2a1e13b44cdaef9", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ed8bf0d7ed12845d93076c281d622bc4f9fe8425a33a3cfaa2a1e13b44cdaef9.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "bba3bb581d316597a9ffc0bf42527c3b3dd567d69af5f2e6f66901c1599459a1", "status": "packed"}
+{"sha256": "ea3373e6eaf49400913026283f768e245f19ac27a3b58ea5d9fca9b6da133057", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ea3373e6eaf49400913026283f768e245f19ac27a3b58ea5d9fca9b6da133057.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "e05d1ee173da73d29288cf5f1123a43d246537c848b2db7cec5cb1b70c1d9b8d", "status": "packed"}
+{"sha256": "8fc0b49ceba93c5bc557b39c6d09bf702ed4d6419dc9e25468b6e3069caef14e", "status": "packed"}
+{"sha256": "757955bb912b186086c8723bc34c92517b18e676b8bfb5e1d6763f1f588c49ff", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/757955bb912b186086c8723bc34c92517b18e676b8bfb5e1d6763f1f588c49ff.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "4c9f405844ffacf6e633e92e5aeb531a2f78b0f2d3d3ef02e2fa5c90e32c1474", "status": "packed"}
+{"sha256": "aa0c9bd4bfc170b65350cbc677fcce82d0fd671a73243fc900d60fdc0fba2de9", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/aa0c9bd4bfc170b65350cbc677fcce82d0fd671a73243fc900d60fdc0fba2de9.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "f09b738fe06dc5ed60e12829f407f9a878ab38237ce8d82606009b5eb00c0667", "status": "packed"}
+{"sha256": "836d98ccc567c1895de0db1dbef9a77ff2627dbab84863f1bfb596a7d593dc3a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/836d98ccc567c1895de0db1dbef9a77ff2627dbab84863f1bfb596a7d593dc3a.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "762e9fe570c504f286ce65b696d75b67c658a708def5cc8082c8f8cc0709914e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/762e9fe570c504f286ce65b696d75b67c658a708def5cc8082c8f8cc0709914e.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "804f02952f466c180cb82b55b9b1cc25a6faf0d6d4d92dd724b7f991adf7c3f3", "status": "packed"}
+{"sha256": "31a83c536e0b4a490a04dda4a6915480ba9247284e42e456e4526d2a37a8bdd3", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/31a83c536e0b4a490a04dda4a6915480ba9247284e42e456e4526d2a37a8bdd3.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "8a20fd599ee3075b5ed14e9dbd314c2e9eb33cba8028b84fca3f3a15248de09c", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8a20fd599ee3075b5ed14e9dbd314c2e9eb33cba8028b84fca3f3a15248de09c.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "63e9e32cd8b4620dd5e9b6417c2ecc8168a6b4da1ac069bf0b5574456c1e34e8", "status": "packed"}
+{"sha256": "1d3c85226d98eca0f5b11c97437f1dbb42f1bdbcb7dad40aa2aa31f07440251c", "status": "packed"}
+{"sha256": "d6927647bc11260da00f72974b15cf485906bc81683c148a03c9a94519005dc3", "status": "packed"}
+{"sha256": "1ff6b21ee951ee067eba19db4e65fa08817b82c52cf7a37b9f918fe16c3ac7cd", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/1ff6b21ee951ee067eba19db4e65fa08817b82c52cf7a37b9f918fe16c3ac7cd.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "4418fab66f17caeb4ecd6201a494bfdf81ff24ce37991ad4bb90f1cb6ab0b416", "status": "packed"}
+{"sha256": "c9dce4fb4a310a8a32ce6a1d1d5f37ed464f1e490ef667c72caf50e5c3932b1b", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c9dce4fb4a310a8a32ce6a1d1d5f37ed464f1e490ef667c72caf50e5c3932b1b.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "f22bb3bafe6a92496f331ac9c7ac263e801c90840865907bae88afe4465895b7", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/f22bb3bafe6a92496f331ac9c7ac263e801c90840865907bae88afe4465895b7.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "24a0ef06a9067dd3e21b880f9163ae0b9bb273744cdd03bd78c8f6230903ef23", "status": "packed"}
+{"sha256": "72929022e0d0d210a66b9159df43dc3edd122d7978cc1443b40c56ec11266b75", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/72929022e0d0d210a66b9159df43dc3edd122d7978cc1443b40c56ec11266b75.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "c7f6f96f525f6c32631a50ec25f81dfafd5183da6a8f71283c8bcff25e91e655", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c7f6f96f525f6c32631a50ec25f81dfafd5183da6a8f71283c8bcff25e91e655.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "2d66322ac6cc5fde62e0c49da108aa14ee2a754b29dc348dfd5a52d303fe9c90", "status": "packed"}
+{"sha256": "44fec8502417ca3216a079e109e049648bc247a29c884a8eb79c987a1a0af95f", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/44fec8502417ca3216a079e109e049648bc247a29c884a8eb79c987a1a0af95f.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "36653d59f7baceaf3bcf474889aef404a2972373f90f2d07f2030266cf9d45fb", "status": "packed"}
+{"sha256": "d4949fee43644d0125f4448854c32031e38d1476e0a3bc7bf0ae04801a99eb9a", "status": "packed"}
+{"sha256": "4887640ef2fc742c5e058d50fe574fbfe5c08a40cdc673cfb083a5a4dab34c59", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/4887640ef2fc742c5e058d50fe574fbfe5c08a40cdc673cfb083a5a4dab34c59.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "ee240b8cf975e40a0f34bf3a972010be28384b893a5ea07904f1ee68df843566", "status": "packed"}
+{"sha256": "4a0181e6234f6b7636bff46601328c330182732cf49e958798601028111db91a", "status": "packed"}
+{"sha256": "ff5920e564aff36edff5feef749855ba48667499931160887dd760f2cfd2dbee", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ff5920e564aff36edff5feef749855ba48667499931160887dd760f2cfd2dbee.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "5f1daf16b6f46c408dd31fffdd2467fd8eeda63af38dfb1f358418452da045b6", "status": "packed"}
+{"sha256": "db5a120d017f885c2c6c130f497507b6a7bb13f8e0f9e17c9018a70c247ec321", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/db5a120d017f885c2c6c130f497507b6a7bb13f8e0f9e17c9018a70c247ec321.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "7bde2349ac7f307cf77e8325ea8f355c830a722ab9a8e1b08402fc38684cef79", "status": "packed"}
+{"sha256": "6d67a2dc9e04eb3f01326c4fae08d4426376c7ca585c4c9dfe36c8479b9ee037", "status": "packed"}
+{"sha256": "58e5df5e65ec57957f64ff154b5af0222e77b087ed41a01976cf0a2b10456b46", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/58e5df5e65ec57957f64ff154b5af0222e77b087ed41a01976cf0a2b10456b46.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "22d83ad606691cf173b8bd31715dd84882ad2c3c65bde674d85b756882dba222", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/22d83ad606691cf173b8bd31715dd84882ad2c3c65bde674d85b756882dba222.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "b61db67f94182040cbcf6f8785a6b9ff5f0eabaa12d657ba100729b48dc96556", "status": "packed"}
+{"sha256": "b9a953b5bf6bf44442ed0a68356805f0cbbb4fd042fe85f047758e7312e2f07f", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/b9a953b5bf6bf44442ed0a68356805f0cbbb4fd042fe85f047758e7312e2f07f.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "8b9757a461c9b146e4896a440b74064172967be5a8d2072a255431e4e3b7864e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8b9757a461c9b146e4896a440b74064172967be5a8d2072a255431e4e3b7864e.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "207d11fa853fd7c746debddb3e4b5e62396d087e55fd7992ec538a18dd0d7998", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/207d11fa853fd7c746debddb3e4b5e62396d087e55fd7992ec538a18dd0d7998.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "c813d3212efec7238b30efbd0852cb2a8fdff9b99d8e26b078b71dcf3fe223ae", "status": "packed"}
+{"sha256": "b91ad5c938bb32042dcf872b3c2f85f410767218b2b2ae6f5a9ba0462162327c", "status": "packed"}
+{"sha256": "5ea2c63c59dffd636a4d90be0515c449eaeb9cd8e4e248aaecde8dbbcdea6874", "status": "packed"}
+{"sha256": "23372832faac8595fba18e75e4c132f10c4d3861dd9ba97e04f68ca6cd798f76", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/23372832faac8595fba18e75e4c132f10c4d3861dd9ba97e04f68ca6cd798f76.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "b38ead4142c13f3cbc8587d9046a7642099719778274189526bf0a48b3863c7c", "status": "packed"}
+{"sha256": "1e2027432ba449ce7b3a830b79fe26233353c586316530a85d7309b3b82f7588", "status": "packed"}
+{"sha256": "a6eefea5f37d6deac8f51e098aaa0bdb4a49e4d45d4ba2dd10aab154a8ba6a91", "status": "packed"}
+{"sha256": "ecf997ee8639ef494bb7a5f913acec01e6fc3cb7e4d128ce9f3ff3a9fdf4d1d5", "status": "packed"}
+{"sha256": "7196f11e52797943fd1df163bc186df4324aaf42374dd812446e84dbf8c19cce", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/7196f11e52797943fd1df163bc186df4324aaf42374dd812446e84dbf8c19cce.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "dabc65a33abd10d1d270559695fb9094e25b5e2dfa05303add6a09e41f3887ea", "status": "packed"}
+{"sha256": "388f7c6c36edf02934eadcf015d923858f28889c76db841dc315b1eed7f80f5b", "status": "packed"}
+{"sha256": "72e5869d5c2f25827da53d46620d4400b597619bf94437cebdd08cb6ae40c881", "status": "packed"}
+{"sha256": "a5190cf13f1f595e533b892f270f77d91741046305663b823fcf574572e0aee4", "status": "packed"}
+{"sha256": "99a82f3ed54f8a9a6cd2aa83ecace58a85e26e4791213f685a0efe390a677da3", "status": "packed"}
+{"sha256": "aed180dc2727fdc1def6692a80e2e58019a379d66f8d61cf7c9e09d1bf05b540", "status": "packed"}
+{"sha256": "c5ffff1512b6a5f78011443df4e5c4a4623a8bdded01a87bbad110647f75df24", "status": "packed"}
+{"sha256": "a817258014f0515b334ccb126fe081818844e1268d41d92dab144650f507b8c9", "status": "packed"}
+{"sha256": "d011790d9dd5da58737b3f22a50e97aa4bead77b89713cf8abf24db0bceeae76", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/d011790d9dd5da58737b3f22a50e97aa4bead77b89713cf8abf24db0bceeae76.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "ca470c8081d04a9e70d2b70e52022e45a7fb307af76ddf209dcf322e22f68894", "status": "packed"}
+{"sha256": "4b9291c845fccc2e6d973bda95a73a2a19b8e084e864aaae566a75e577fcc248", "status": "packed"}
+{"sha256": "6ea3909b4a154ec8d012e27e24fecaaabaa62ae8d6473602a794cd03b91cab3a", "status": "packed"}
+{"sha256": "ea27a562dd5e345d159eada7f4e7d86b2d78ed0f75476f080a11311a573e9391", "status": "packed"}
+{"sha256": "25f191239535e7a0c3809192981a583aadb60a2d86b903b3a62e1d9e6905f688", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/25f191239535e7a0c3809192981a583aadb60a2d86b903b3a62e1d9e6905f688.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "ce3b05928480d1987e6210ae8d6341d83d4d03ca3f3598174d22df9ef0e2bbb1", "status": "packed"}
+{"sha256": "73dbe777f4302de9f64f7f7140015ff7bcd197d5529712ddc4a5afa86416cac3", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/73dbe777f4302de9f64f7f7140015ff7bcd197d5529712ddc4a5afa86416cac3.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "affcf8b2e86e78cec44de413f6784b0df645e499a491bd933407c84ecfc549a0", "status": "packed"}
+{"sha256": "8bd4e97214c501923180b1eb4c51269473f2bb4d127e72776f485e1d89396290", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8bd4e97214c501923180b1eb4c51269473f2bb4d127e72776f485e1d89396290.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "dd29b02eca479404ae168df80a887e4b13171c9ddc523883f47fa3b9b9b295a2", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/dd29b02eca479404ae168df80a887e4b13171c9ddc523883f47fa3b9b9b295a2.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "05abcce44d56fa4882b42f4a99521a5dbe1680bc9d3bfc373cf6600f67402a87", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/05abcce44d56fa4882b42f4a99521a5dbe1680bc9d3bfc373cf6600f67402a87.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "9f7afe09d26ac3ec421f587bc69d3e0f747e3d3d42b234755579833113f90e12", "status": "packed"}
+{"sha256": "e5833bb7ae31b9ae468493b97612ad3034f7521952ffb07c562af98098bd2595", "status": "packed"}
+{"sha256": "03dd52452f3c0a132617b260209cd5309cefad5112331db2bb57c5ece74098b7", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/03dd52452f3c0a132617b260209cd5309cefad5112331db2bb57c5ece74098b7.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "30a05f2eff4ed15ea3719de21645ccfb1a17071db1e1195414123edfe9e1024b", "status": "packed"}
+{"sha256": "bb99724228afd0fd37e44fafa21238ad7ea5b8c8774dfdb5264b0bf9909e5ebc", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/bb99724228afd0fd37e44fafa21238ad7ea5b8c8774dfdb5264b0bf9909e5ebc.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "b66a58b2c66814409240f9b068308b23998569ecb3b69d6fe657724db01d13ef", "status": "packed"}
+{"sha256": "b178c60653c67186d8808241d67de568015ecfca914f3fc085075676ff4f8cdb", "status": "packed"}
+{"sha256": "56bcf320da3259483ae02aaddb9e25350d6ddc1a4e25ef8600cf33495bba51fa", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/56bcf320da3259483ae02aaddb9e25350d6ddc1a4e25ef8600cf33495bba51fa.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "4444333762cff512d801d02a795886d6c2f7cf7833b74aea0d534976fcad57c1", "status": "packed"}
+{"sha256": "df7b616eccb9e1d4639a570ec4debfd7294d3d43da2e28fbccd2c9e5523c0bd9", "status": "packed"}
+{"sha256": "8d7caee5c277d018f5a4a5539464c7bc57e9b5d37a6a546dd3c955435e0b8f98", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8d7caee5c277d018f5a4a5539464c7bc57e9b5d37a6a546dd3c955435e0b8f98.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "776310d475621ad9d2a0a60839a6b945bad5839830fd15d545b0992434582c71", "status": "packed"}
+{"sha256": "feeac2408eaab133d77ba11dab275e25fd6cb422ee2c2bc9e75abc091cbf4bc3", "status": "packed"}
+{"sha256": "4cb726ede81cfcea67fe2105c35237b2ccce6167c7efddb575d997b42708151a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/4cb726ede81cfcea67fe2105c35237b2ccce6167c7efddb575d997b42708151a.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "85bc45cc7d25fa8f4c41918a9c662ae126396de2e5bd6b8c28c483d089d74c70", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/85bc45cc7d25fa8f4c41918a9c662ae126396de2e5bd6b8c28c483d089d74c70.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "414fee5443540630c67ef1d28f77aa7d02b2f9d96c895872735fb66e0607986b", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/414fee5443540630c67ef1d28f77aa7d02b2f9d96c895872735fb66e0607986b.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "2584b55215c14d0d454ffe8c83b43398fad00779f22bff71e2e680e65d92ec7d", "status": "packed"}
+{"sha256": "faaf24eeb99fab3846492582f840c0ed395658db9e626d0cf6883eb12ee6033e", "status": "packed"}
+{"sha256": "ecf3c5bf81841253c803f01d9ca507d39b739e62d51f5cd773c6c1ef705d6e88", "status": "packed"}
+{"sha256": "c8b19aaa5d35b185b27f3b8b11d35a42618d4a168c4391e87b42b8273dae03ac", "status": "packed"}
+{"sha256": "80f020780e2fc2d4c796797fe5e8dcaf9b86829cdb7e89bb59aebc3ac44f039d", "status": "packed"}
+{"sha256": "317fb6334ba9482e30db0c35da92f807831c67e7377f8f90cf9e51690613c747", "status": "packed"}
+{"sha256": "1ee3bd99e37cfb7e943d36b909051595d4835f0d3d9c5a037eea1ae8cb5aae4d", "status": "packed"}
+{"sha256": "2b726435d872419bd97b6f0636905916e743a1148e9f249de71196ccb131f7dd", "status": "packed"}
+{"sha256": "a612c51e112778316edf496a6e6e5587b432a87a3e9cee24e2e4020577d3781b", "status": "packed"}
+{"sha256": "758f85dca5dac3e0c364000e36c885321f5f442477bc05d66cbe5d5a92b557c9", "status": "packed"}
+{"sha256": "dc5ed4c7bb737b017332cafb5a5bfa48669191982c7422629cbf7bafc675d4af", "status": "packed"}
+{"sha256": "5b6274a681749ad92e1d44bc7fa1f544ccbc29853b5e701ae858e4a1e1bec9b4", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/5b6274a681749ad92e1d44bc7fa1f544ccbc29853b5e701ae858e4a1e1bec9b4.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "92529458c69f84be2e84439884cddde88b7f2a2fddb934be4fff0da90681bf92", "status": "packed"}
+{"sha256": "db58aac934ce81aa84d3026070e77f03713acaf54c1691065c913445aa73c03e", "status": "packed"}
+{"sha256": "5c8f14a6b5c6cb9b34480811e59b32283a01d77b8423147c6619d4f91ff57fd2", "status": "packed"}
+{"sha256": "d1233745d75801e55c96272757f8ef003f4a5da5d0e174156ff88a6c11e76f75", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/d1233745d75801e55c96272757f8ef003f4a5da5d0e174156ff88a6c11e76f75.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "ef150d9dcde348f4f2eed805fce7c5da8b0fb58714847d900268850b22f43611", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ef150d9dcde348f4f2eed805fce7c5da8b0fb58714847d900268850b22f43611.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "a0ca52023604622af1e9b2446eaf71e726682a1c74c1063e08c04f8a030369fe", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/a0ca52023604622af1e9b2446eaf71e726682a1c74c1063e08c04f8a030369fe.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "60c42dd6cff036fd9ea557b734316764231c353d83a4ce22e5eaef61c4994700", "status": "packed"}
+{"sha256": "a8d0504586c5213160f2df661576141a878aa1c83723ee62d4607585717ea049", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/a8d0504586c5213160f2df661576141a878aa1c83723ee62d4607585717ea049.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "ddfc03078f149250ea8ea9e640e65c1cb4d517ff17b49318b8a54f24d62ee2f8", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ddfc03078f149250ea8ea9e640e65c1cb4d517ff17b49318b8a54f24d62ee2f8.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "e412d569384afcac3cc7966b06d0a6b2cb04dde712fe18d74f7ea589f60900d0", "status": "packed"}
+{"sha256": "72b3b80cf7eb06f073aec121e327febfe2de4bb11898f641a772052090dda752", "status": "packed"}
+{"sha256": "0bbde86852bcb6c5e32995d1a11826a810517a0f353554002585bc6b704d5a6c", "status": "packed"}
+{"sha256": "1a9f03ac68a70f91cad560da60d448ddfc46459b234455a3eac42e0ffaf4e8d9", "status": "packed"}
+{"sha256": "c1dad102cc6a6e3b9aad1b9b0ed5248153fef09198decce0d561939f08ac15a5", "status": "packed"}
+{"sha256": "fa9351a55eaffbb9c48f070be1b683c51570360697e27e804a2690d2e34404c9", "status": "packed"}
+{"sha256": "1f83dbaa4a2f7cfb89c855c68057076f9a66679fb6bc4ed96eba49af737e4b64", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/1f83dbaa4a2f7cfb89c855c68057076f9a66679fb6bc4ed96eba49af737e4b64.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "0ac3904f104003088c5cc7921f8c1130a1d5529b320a1d767a401d7139635b67", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/0ac3904f104003088c5cc7921f8c1130a1d5529b320a1d767a401d7139635b67.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "d06734e57d60445d7d490850b0c735dbd67e8d40a8fe549809fb117b12d17d59", "status": "packed"}
+{"sha256": "3ec2cdebfe94f9a58b141ee994ec8e1340bb3ad0913890121c8f88199ee10ed4", "status": "packed"}
+{"sha256": "21a6236db05d83d05184299e2f91d3b01601550b9c81d793bf79c5571480a086", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/21a6236db05d83d05184299e2f91d3b01601550b9c81d793bf79c5571480a086.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "c41c95dae71564943d608034f89e31298ce63497b78f75157303c32c22507c8b", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c41c95dae71564943d608034f89e31298ce63497b78f75157303c32c22507c8b.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "c4c7e0de59e4cb1c1efe719201dc57cec5eaaba92c4c88e1133a7b5bef1e5cb2", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c4c7e0de59e4cb1c1efe719201dc57cec5eaaba92c4c88e1133a7b5bef1e5cb2.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "ce19cd2e0132ba763258d8446d949c08ee05bdf2cd5b3e99a889c59dd6c92c0b", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ce19cd2e0132ba763258d8446d949c08ee05bdf2cd5b3e99a889c59dd6c92c0b.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "af13e6e928301b64aeee4961a334d7752e82e0fa2a38792737d5d831ec5b0adb", "status": "packed"}
+{"sha256": "4423dfd6e3781110fc6c0837c601d1bb1a3f6f7a4c4a0e2cee76b63f46719e58", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/4423dfd6e3781110fc6c0837c601d1bb1a3f6f7a4c4a0e2cee76b63f46719e58.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "060240241ec6b4d58e2d3b1c9f2ec2c0e244fe048429c2d5bd32eb4c2ab8d9f1", "status": "packed"}
+{"sha256": "40805129cf13aeffc62722b4d974ab74289d850a86c889fe833e4d7f3d84975b", "status": "packed"}
+{"sha256": "58a5c6ddafe4833ed00b0c65a72f15fa2586a3dac34b25c0bb3504183a15dbff", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/58a5c6ddafe4833ed00b0c65a72f15fa2586a3dac34b25c0bb3504183a15dbff.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "f7d4cdf18f99f2254d8144c8f72c6544c9fd3cba21876e3ad7f03a57808e0c9a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/f7d4cdf18f99f2254d8144c8f72c6544c9fd3cba21876e3ad7f03a57808e0c9a.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "5ad5a8416ddcdee18345148f12ff993c3537171d806b855e66c810b10a98dd94", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/5ad5a8416ddcdee18345148f12ff993c3537171d806b855e66c810b10a98dd94.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "d68911b2e12f36675ed66a412b87c424e31b2951b4d14f7d9db55adac9741fb7", "status": "packed"}
+{"sha256": "32eaf2b5cf44aeb7177163ae1b563d763a7cb16306ef0b7a185437a86f503d85", "status": "packed"}
+{"sha256": "73e167d192fd0d2272f474943b99ae5370692c64bc998368df37891103c2f93d", "status": "packed"}
+{"sha256": "0e531e0143bc0610ec58afafedb633707dae2f7d05542d0289498b429a698e15", "status": "packed"}
+{"sha256": "bf6ef93651471b4a412d04e6696b2c7651ef1a4f0ab990a6ab511f16573bc694", "status": "packed"}
+{"sha256": "2de66c2141591dc5a28e738d506807ff4bdfc10460ab2498ade4dcf3d092d0fd", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/2de66c2141591dc5a28e738d506807ff4bdfc10460ab2498ade4dcf3d092d0fd.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "a027f5bef0929204bc4a32be12f82b47cd1f8a67c5ed669ff5eb5ce6445e9ba9", "status": "packed"}
+{"sha256": "c993909a6f02a638bc2f2024898c56bbf849e268daed3e3c0707436ae4859958", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c993909a6f02a638bc2f2024898c56bbf849e268daed3e3c0707436ae4859958.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "601853dc96bd02be7eb01a237f3e13af3d4210925ce1ddc916bb14f8a60d6e69", "status": "packed"}
+{"sha256": "48f2d9eff3220395d4c8d5453fa3a7fa7468c123c932deaa518a3c52493d54c3", "status": "packed"}
+{"sha256": "465c8f2ed54721d47d90096ea3bc0c8385b8122a3b9ae1c2a79ab95112fee990", "status": "packed"}
+{"sha256": "8335d6bb4c44901a82df5d75e791c094cf0eb107f884729a8de6a1457733ad25", "status": "packed"}
+{"sha256": "8f2158b28b8113a8ee2a798130a4661bb3d9864d332c8f68c557dd10716e0e54", "status": "packed"}
+{"sha256": "3f083bd9ffa58ece1dff9cc3ebe292115628bf2dec0a736f0913e033e8a470b3", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/3f083bd9ffa58ece1dff9cc3ebe292115628bf2dec0a736f0913e033e8a470b3.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "6e9864a0f32dad80d7c0d6e67576fb987db7009c1c70621e9912713feb7548af", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/6e9864a0f32dad80d7c0d6e67576fb987db7009c1c70621e9912713feb7548af.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "fa5a8e13cdd3969c4b0b3b3675fc9670275967743f6813186afd507d3990e466", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/fa5a8e13cdd3969c4b0b3b3675fc9670275967743f6813186afd507d3990e466.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "80e841fd08765fee6f4151f7ea370e7fddef948a6c3147b71114483592125926", "status": "packed"}
+{"sha256": "dd8a0a13bfeb723c1cb9af0ea01020bb6070057c042b4e8a2ac7847f0ef0bba5", "status": "packed"}
+{"sha256": "8ffdcd3a2b2941efbcdab949e617bb2202d19f55e841015a94524fc41fd7aa6f", "status": "packed"}
+{"sha256": "c8d6673c5acdd3f9f16c732d453d37178f4964fe7b8585171ce413285eabff60", "status": "packed"}
+{"sha256": "34ef9711a6f5de32a5e2cde44d24f1965de405f17b18c07d32c6a6fc2effe5c8", "status": "packed"}
+{"sha256": "9a08d3d97b1b4272c4366f0e9f6e4018026a039a27d108ca1d88b63dfaa89034", "status": "packed"}
+{"sha256": "b2f61cdc4805eab198cef97eabe308dea686808fad317f9a50999be4ef1143f9", "status": "packed"}
+{"sha256": "b05f8715c2f2776c7a295f93b4373bf8ee9079acc2b499525146ca446a827496", "status": "packed"}
+{"sha256": "dd8bf7f518343d50983bb38c83f71dd4b075751dc021b12153613deb9a55ef4e", "status": "packed"}
+{"sha256": "bfa73f80fc7d11328cff8bd336dfd1b3ad9b3bd17de0cabfe0c1ec5309e83296", "status": "packed"}
+{"sha256": "09952446b1ea66deb620cd97c0f4e0c73c4afd56e167011efc9343660c6d07d6", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/09952446b1ea66deb620cd97c0f4e0c73c4afd56e167011efc9343660c6d07d6.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "0b399af0364af6fd90d2cf01b8d774b852b542cd5aface46ba9042a381080fe2", "status": "packed"}
+{"sha256": "8a7efc060bd33155bb4fe41c588244e05a0885c26fa2318975092723dd9ceec8", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8a7efc060bd33155bb4fe41c588244e05a0885c26fa2318975092723dd9ceec8.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "0194f6cc461efddee4a8b036446559c320a2f6b3b20105fe4ff90eb5dbcef167", "status": "packed"}
+{"sha256": "8b227665c9dcaf100a22cce4809f16e31cae42f68193fa23b6cea1ee56ba5f4e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8b227665c9dcaf100a22cce4809f16e31cae42f68193fa23b6cea1ee56ba5f4e.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "83b7cff322f4805233305a2715a472f4dc73217e9483f60ec807c0826ef3537e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/83b7cff322f4805233305a2715a472f4dc73217e9483f60ec807c0826ef3537e.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "b21281f7f7e82010a47216adb23d1404079a5d3566bf57dea180350fc0648c68", "status": "packed"}
+{"sha256": "8efccf176bd3de54ceb37e942f99d6836e4bd84882c64928927d63e8c13af89d", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8efccf176bd3de54ceb37e942f99d6836e4bd84882c64928927d63e8c13af89d.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "f4d330eaeafc97201c25ef8e82a1558cd171a5e97a1fc375cf65b9b7d22a4595", "status": "packed"}
+{"sha256": "71d3bd015fd4520a10ddbc94717140e0000bb0b91123323f708a72dd082cac4b", "status": "packed"}
+{"sha256": "b29307c1f8d59c534a2eae0aded8acf57ea2aa8e66064c3f0381c54c6bb38374", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/b29307c1f8d59c534a2eae0aded8acf57ea2aa8e66064c3f0381c54c6bb38374.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "33d7f3999fdf086e275e2e41c7cb6ac7fd8f9b6e9d8bb3ceb1fb3774ee644b24", "status": "packed"}
+{"sha256": "cc915c86206e78c1fa48caf756e268269e91ae275e1a0a72be5368ac79c2b03f", "status": "packed"}
+{"sha256": "5ea21b5547a6dbe8a412467874915d8b5d91d01ec19e818fd98f9295703f089a", "status": "packed"}
+{"sha256": "490d85d1fd18e38c6a181d7b41f34d3954cce9409e1b73ed341bb0dd287f99d1", "status": "packed"}
+{"sha256": "b161067d2e96dea8bd3b909ce3abb765642b06d9c9b99b0d61c2cc8bd57967e8", "status": "packed"}
+{"sha256": "f3257fbd8550ee06623b7167dd26d99ec21fa3a513170894eb4f24b014cd5151", "status": "packed"}
+{"sha256": "430758cbea766f9031a9ae9c4218caa4cbc4adf197c056a64ea774324bd5517e", "status": "packed"}
+{"sha256": "48fc44aca73b7f76d8615a3d3daf83d88c98f6cb06c5ae07fbd4018eb6d68bcc", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/48fc44aca73b7f76d8615a3d3daf83d88c98f6cb06c5ae07fbd4018eb6d68bcc.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "c0ad42ba68627c047c98668396e2c73a9e0664d586dc158ac58aebb362550587", "status": "packed"}
+{"sha256": "34c385184a0d3ce37dcf91f22bf78787d4de6b95131e5e24f59d7d0f08a2e583", "status": "packed"}
+{"sha256": "caee5a30c6094bb826969c3a88aaad2d8fed1befee2c0d36b369f03a727106b8", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/caee5a30c6094bb826969c3a88aaad2d8fed1befee2c0d36b369f03a727106b8.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "87bdb6ddb4f5faf8d7838e87429fb259b077933d9d8a35d15eb25248e6b85226", "status": "packed"}
+{"sha256": "b7dcaa2c5f0a42af30288ddf1119ac98dffbfddbfc25b4c7686ba67c1b873980", "status": "packed"}
+{"sha256": "129e7616dc06d939d9aaab7bf66250bb4a115bed9bc02b87b1e81f3071180147", "status": "packed"}
+{"sha256": "73ac54296f4075e499008c56998dd97b691dd927897b58a9f91d6cfaa9a486f1", "status": "packed"}
+{"sha256": "ab11a3e954ce12525b530d323410f8e3f1b0d16be13041e98c1385a0b8d83850", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ab11a3e954ce12525b530d323410f8e3f1b0d16be13041e98c1385a0b8d83850.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "82e8a1a50ef44970c262bf5a7a0d166f17689ca866e63894d8f7e61246ee5568", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/82e8a1a50ef44970c262bf5a7a0d166f17689ca866e63894d8f7e61246ee5568.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "77a48e7e71f1a35e71806ad0d0dc702529b9ec6555c4f9a8678ee72565400aba", "status": "packed"}
+{"sha256": "656959af26ea9d361b5dc949f0d9f0846b8b6cf758bf078c86b167c9f804dd16", "status": "packed"}
+{"sha256": "f8e5eb768d58afe2cd67c58285c83636ada813afcec5017fff03aa34645a531e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/f8e5eb768d58afe2cd67c58285c83636ada813afcec5017fff03aa34645a531e.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "6e6f55d18bb6e29b919f79536aa05ff654af853372f4ce7389f15fa47d6ee85f", "status": "packed"}
+{"sha256": "1711556893b7a8df8050788233094c398d0ffa12852ac2330410eaa703c15083", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/1711556893b7a8df8050788233094c398d0ffa12852ac2330410eaa703c15083.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "cd759c1ad8bfaba6b665d53b9421b049d092704a7255545bb3f8974dd09ed525", "status": "packed"}
+{"sha256": "afc1d62f4c519bb461767ba12a7d2f36ceb28835919dff83d41ce0493a117650", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/afc1d62f4c519bb461767ba12a7d2f36ceb28835919dff83d41ce0493a117650.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "f9f1d1068a338dd5728e5475f9c1d063f683a54314a2ca3bbaa7cc45b7e583fa", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/f9f1d1068a338dd5728e5475f9c1d063f683a54314a2ca3bbaa7cc45b7e583fa.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "8dc0a128e6e36d459028dec5620b9c9214c82fa6823b9dbf6ebfe6d25c29606a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8dc0a128e6e36d459028dec5620b9c9214c82fa6823b9dbf6ebfe6d25c29606a.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "05dcc91647facc64f928e5264afba7c7ddabd0b90edb7992834f9a36e9af33a2", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/05dcc91647facc64f928e5264afba7c7ddabd0b90edb7992834f9a36e9af33a2.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "14a5bec723bc1ab5feb1712af66d980ccac74a3616cfe6df41fe3aa55753cb7f", "status": "packed"}
+{"sha256": "0c70e5352ffc68e79a1a9924d0f5ef251d86b11a214da35004c7ac21e2fdf2bd", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/0c70e5352ffc68e79a1a9924d0f5ef251d86b11a214da35004c7ac21e2fdf2bd.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "c59f6e84eac0561cb87697c550d80ed29ca07149f001da0dc9fdead8a2bc2e9f", "status": "packed"}
+{"sha256": "6e87b820da80b02835eb55d8b41cdd6427b1bd1518175a642d2e5b02bdd72e26", "status": "packed"}
+{"sha256": "64a82d72bcaa64df747de8d021b9a708443f1575e3364a6b07525896fce612ab", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/64a82d72bcaa64df747de8d021b9a708443f1575e3364a6b07525896fce612ab.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "21e13e3c41096e7d3cc214dd7321ca30d6f05526c87fcbb368e12ef030702866", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/21e13e3c41096e7d3cc214dd7321ca30d6f05526c87fcbb368e12ef030702866.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "c3443b44a87e3039a668fbd12c21e88effa6ce5ef947370415c68db829f0a434", "status": "packed"}
+{"sha256": "f08084acfc5243ee62d20ed510159fbb62f33fe1c1b46e2647c0d5b9be213d76", "status": "packed"}
+{"sha256": "2a19d269791619973675148efdedb9f95101a922b5783318b6838cc969c1d3c3", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/2a19d269791619973675148efdedb9f95101a922b5783318b6838cc969c1d3c3.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "6074f82907e4e021960f6a3579cd92ff432a00bdf8ad6cd1482a17fa31e4cf5f", "status": "packed"}
+{"sha256": "e596ced6446b0d974bef590c5a7f3f420ce22ab3d078a66d1d517cec5f677672", "status": "packed"}
+{"sha256": "ca3eb7bfc955b3cba66212f35190e583dd74337fbb718d61b6eb517abd1d323a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ca3eb7bfc955b3cba66212f35190e583dd74337fbb718d61b6eb517abd1d323a.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "7c0a7918c1ee74ad8dbd2e85fca66644244a78ed8ed752f7c0ed9898f83310ec", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/7c0a7918c1ee74ad8dbd2e85fca66644244a78ed8ed752f7c0ed9898f83310ec.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "61b1ed34ac88205a7db783098a27e4a8a98a9794fca77e747245de58c9c2128a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/61b1ed34ac88205a7db783098a27e4a8a98a9794fca77e747245de58c9c2128a.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "a68f7fb26ad84859625002395cf67f22ea0956996ed9c8c3be2283e093c89421", "status": "packed"}
+{"sha256": "83ff8e84bc478f14f5084c32a22da97f69d4a9422980afa61c9b65a87a14c9ae", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/83ff8e84bc478f14f5084c32a22da97f69d4a9422980afa61c9b65a87a14c9ae.exe: NotCompressibleException"}
+{"sha256": "7fdd921b56cc348a2f9df9e241d1d9ab72faa535cfd4fb116a0fe6811275a9a6", "status": "packed"}
+{"sha256": "4f3855898ebdaf4b0b042194ed8a8875c6a4d3a13342551dac08481e8a61d062", "status": "packed"}
+{"sha256": "8b194c862c37e82e265416ffcac1018e4753f337909429704b566cad7a680657", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8b194c862c37e82e265416ffcac1018e4753f337909429704b566cad7a680657.exe: NotCompressibleException"}
+{"sha256": "6fa2f4f8890835d64de0359862f6501f8aee45a944096939ff8eb79ce4e38ec3", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/6fa2f4f8890835d64de0359862f6501f8aee45a944096939ff8eb79ce4e38ec3.exe: NotCompressibleException"}
+{"sha256": "f4d0cff01a03d264c5a892e15e228fdfff1222d6d90de05bcbfaf8f380d2607b", "status": "packed"}
+{"sha256": "dc85df720cb04a6f8a4f2461a209e061d528cb5f476c7d33a8abfa5481711dee", "status": "packed"}
+{"sha256": "b09da5f76c9589ad587394a0b8d43ec201b4fe793affde6e620b0a297a9a223c", "status": "packed"}
+{"sha256": "c19550b6cfb3e874c28f358c5f5ccba16963df30ad9996f533f10c99b71e5c5c", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c19550b6cfb3e874c28f358c5f5ccba16963df30ad9996f533f10c99b71e5c5c.exe: CantPackException: section size problem"}
+{"sha256": "81f9e8df6dc68d88358bd8106abc9caea52b2f02230f584223ab731197901bc6", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/81f9e8df6dc68d88358bd8106abc9caea52b2f02230f584223ab731197901bc6.exe: NotCompressibleException"}
+{"sha256": "3238f9345ba4e67fc9bca2e703e17aa7fa41ee0abb6e21a3068eb4bfa27614c1", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/3238f9345ba4e67fc9bca2e703e17aa7fa41ee0abb6e21a3068eb4bfa27614c1.exe: NotCompressibleException"}
+{"sha256": "f470be764ae7376091237acaa879ad5ac035702b87b1c01e802dd641b9c20566", "status": "packed"}
+{"sha256": "84d534eaafe12ca637c3a51eaad58d102f8b8d00d3f4c63a7c2e5a5fa274abe5", "status": "packed"}
+{"sha256": "e89254bc18c0949952b4102f6e21bf192de2fbfa8115101b49e853bb2c5efbd7", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e89254bc18c0949952b4102f6e21bf192de2fbfa8115101b49e853bb2c5efbd7.exe: NotCompressibleException"}
+{"sha256": "8e8176ca0cd3c1291249a85cdab20434c4590aed4a227ccbfe8db04324dc07f1", "status": "packed"}
+{"sha256": "4eb337a69e38f5a6742beb9013191550d68b0833f0f472fbb61b57129b5b0d85", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/4eb337a69e38f5a6742beb9013191550d68b0833f0f472fbb61b57129b5b0d85.exe: NotCompressibleException"}
+{"sha256": "3b19ee49eb2bdec514fb442ab9b70d19064f236c6d2e94bc4f67449196441e5f", "status": "packed"}
+{"sha256": "5213f6497bc448a7881d85370e46779ecc93f19394ab975249392f31ab93c8d3", "status": "packed"}
+{"sha256": "8bff5457d32205f2837932cf6f3793b1afb1fe2702f7a92b53c65a970929625e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8bff5457d32205f2837932cf6f3793b1afb1fe2702f7a92b53c65a970929625e.exe: NotCompressibleException"}
+{"sha256": "ecac28b6a70883e1d4b5b68ca5aa725f493af70aca7f872d45089f0c53f4d470", "status": "packed"}
+{"sha256": "8376b91eed5d1ecce4ad8c1acc8607bd8fb3f732bb3ba6845d1b576da7cd9443", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8376b91eed5d1ecce4ad8c1acc8607bd8fb3f732bb3ba6845d1b576da7cd9443.exe: NotCompressibleException"}
+{"sha256": "86c463f079e208a03d403436d6fce5408f512c66d20287de683aa03d20d8693f", "status": "packed"}
+{"sha256": "305ec9e51f69fe3bea12fc210601eb8b55efd32243957f60e1b189e2cb712f3e", "status": "packed"}
+{"sha256": "d9696be7c894e87aa7a3ee3d0a63274f3a9f59ba747dea4d50c1d009e3ae9eeb", "status": "packed"}
+{"sha256": "576c8c7530eac08a83777d3df742f4a1151d371377690b497d25b086150ac778", "status": "packed"}
+{"sha256": "aba9572473492ff2cf8e3cf1625d3773ddc946687e9498508e26d5bd9a7963ab", "status": "packed"}
+{"sha256": "9431beaab40ab79ec2dd70b80c9423ad5b1a96d46d57619c333c2b80d39edb6f", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/9431beaab40ab79ec2dd70b80c9423ad5b1a96d46d57619c333c2b80d39edb6f.exe: NotCompressibleException"}
+{"sha256": "a22ebfddfdabf08b4e9974b5d278e7b5241e0550922e466b0b338ef984a09439", "status": "packed"}
+{"sha256": "62a52b5b9716792795ef5c3cdedeb04ce3fbb8418b3fb053ff8a370e416a3a3a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/62a52b5b9716792795ef5c3cdedeb04ce3fbb8418b3fb053ff8a370e416a3a3a.exe: NotCompressibleException"}
+{"sha256": "17d49244f61d905eda704d3d67bb7553631e11543636a173cdf039b43169a349", "status": "packed"}
+{"sha256": "8eca05b5d736109fa9d15c4f00a16ea6e03cd175db781886c3bac6d11dedeb31", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8eca05b5d736109fa9d15c4f00a16ea6e03cd175db781886c3bac6d11dedeb31.exe: NotCompressibleException"}
+{"sha256": "34d685a510ae951d0e429818f58b6af19279e835f97d799a29d587f5bde8381f", "status": "packed"}
+{"sha256": "52d71e78e47db7924c44a86152abf3b98aaac4787f38a7326064251a2681ccf7", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/52d71e78e47db7924c44a86152abf3b98aaac4787f38a7326064251a2681ccf7.exe: CantPackException: section size problem"}
+{"sha256": "38ad1301db1ef26e59bb20e6d5bd2f728d49cdf30e7ca1a831a5670dff6cf5b3", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/38ad1301db1ef26e59bb20e6d5bd2f728d49cdf30e7ca1a831a5670dff6cf5b3.exe: NotCompressibleException"}
+{"sha256": "617bdd8e6d2f3f5701a12da22370368280160e99e9449b9dd3f30726bec27352", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/617bdd8e6d2f3f5701a12da22370368280160e99e9449b9dd3f30726bec27352.exe: NotCompressibleException"}
+{"sha256": "e0f2f7b783cb9f38f68eb2bfac1665a6b84808ecfd15391d698f98c2a9c8a0ec", "status": "packed"}
+{"sha256": "9bbc89dd2179d02b25ccc8b3608db714a8d6b81795d34241569ea066c92cd51d", "status": "packed"}
+{"sha256": "c04ef23e35ab5e203f018a4d22cc0c08b0a873ac966080a29a5231cc0cd48159", "status": "packed"}
+{"sha256": "153511a0e695f786ea41e89d20f984258837c412d08139757769d385d4dbd668", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/153511a0e695f786ea41e89d20f984258837c412d08139757769d385d4dbd668.exe: NotCompressibleException"}
+{"sha256": "5175de6130606a8b4552419c0d14bc98cf82740615b9f7ef2f80eccb325d5429", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/5175de6130606a8b4552419c0d14bc98cf82740615b9f7ef2f80eccb325d5429.exe: NotCompressibleException"}
+{"sha256": "343ac8798aacd99e03a54628637936703f099a1efc61918ef43dd04147da9d77", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/343ac8798aacd99e03a54628637936703f099a1efc61918ef43dd04147da9d77.exe: CantPackException: file is too small for dos/exe"}
+{"sha256": "eca90e834f4a41ec77178f46fcb8f4b473b22901fb39e76f8356d175e6f387ae", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/eca90e834f4a41ec77178f46fcb8f4b473b22901fb39e76f8356d175e6f387ae.exe: NotCompressibleException"}
+{"sha256": "1be003a84e8e3f53297cd3341aac95b2352c7c49cd2fe2438e9234192eb44015", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/1be003a84e8e3f53297cd3341aac95b2352c7c49cd2fe2438e9234192eb44015.exe: NotCompressibleException"}
+{"sha256": "dfeb96a5b6bc9a9ecc884069525d275c5584c166ea7ee75a3109057a1491bfe4", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/dfeb96a5b6bc9a9ecc884069525d275c5584c166ea7ee75a3109057a1491bfe4.exe: NotCompressibleException"}
+{"sha256": "ce4c11f1926245a32839296bc0e94bf44fbba76ea38633efabfe367973924ed0", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ce4c11f1926245a32839296bc0e94bf44fbba76ea38633efabfe367973924ed0.exe: NotCompressibleException"}
+{"sha256": "3d5c4d53224cdcf6d27d2b310f3b45d36bebbee84b4fda29ca511a5ae24149e6", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/3d5c4d53224cdcf6d27d2b310f3b45d36bebbee84b4fda29ca511a5ae24149e6.exe: NotCompressibleException"}
+{"sha256": "ad39a1259fa50c557157a7bd3b62108d55ca17c154a844b0f1c86f892a370861", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ad39a1259fa50c557157a7bd3b62108d55ca17c154a844b0f1c86f892a370861.exe: NotCompressibleException"}
+{"sha256": "8580907b9a494557090ddfb2f32d0d359f3fa4c6bd57d1b96041b5e8f91ecb98", "status": "packed"}
+{"sha256": "953fe00f3236015504392436f862cb9bdf37104eaf8ac9c22acab38584371e7e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/953fe00f3236015504392436f862cb9bdf37104eaf8ac9c22acab38584371e7e.exe: NotCompressibleException"}
+{"sha256": "85d6f87cc8c18fd8519ec242d668ee6369f8e7a12c6343d5fb48a5c74f1e73d9", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/85d6f87cc8c18fd8519ec242d668ee6369f8e7a12c6343d5fb48a5c74f1e73d9.exe: CantPackException: section size problem"}
+{"sha256": "3e17690f7b0054e4fb78a21c6b4e087f87374a99c5d14c7a4dae35f7962dce83", "status": "packed"}
+{"sha256": "dd020a7771c4ca9b43600396a327515bf29860997d014916a66e510ae8501836", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/dd020a7771c4ca9b43600396a327515bf29860997d014916a66e510ae8501836.exe: NotCompressibleException"}
+{"sha256": "7238eca5ae9ad84289e860330eceffa1d79a037e7f96f08542db2dc7bb5bac59", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/7238eca5ae9ad84289e860330eceffa1d79a037e7f96f08542db2dc7bb5bac59.exe: NotCompressibleException"}
+{"sha256": "293a1574fb797a58b185f9119d9b7a41040f5724ede986fcbf441a8b8e05a674", "status": "packed"}
+{"sha256": "66b3c3ee2576f0e4f8fb7f35326b3ada794688efd29c63ab1e62215623e85a13", "status": "packed"}
+{"sha256": "0521d5446e66479eec073e2a7a58950972ce0ba602d1d7553016addf6e5952eb", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/0521d5446e66479eec073e2a7a58950972ce0ba602d1d7553016addf6e5952eb.exe: NotCompressibleException"}
+{"sha256": "9f4baa864b05c4783cf394f5374858c228ed8b6e0e52e3dd5c52367f6261e257", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/9f4baa864b05c4783cf394f5374858c228ed8b6e0e52e3dd5c52367f6261e257.exe: NotCompressibleException"}
+{"sha256": "9b5e85180b59fded3f64ae608fa2baff3fba8450cd334f8d5372ba1cce1f9750", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/9b5e85180b59fded3f64ae608fa2baff3fba8450cd334f8d5372ba1cce1f9750.exe: CantPackException: section size problem"}
+{"sha256": "819e0315a989b4928375d5be67a385859ced7a2aa560edc13de93fd250c5bf52", "status": "packed"}
+{"sha256": "ce2338528f802228284852bc0e105281b6eed482c2eb0ffcd469d190501664d4", "status": "packed"}
+{"sha256": "f003f87665b0c7fc46cc0e1f2a3a1cc37b88ecc502d6469017302304b168679f", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/f003f87665b0c7fc46cc0e1f2a3a1cc37b88ecc502d6469017302304b168679f.exe: NotCompressibleException"}
+{"sha256": "c4cae9acc23e89297b793fe32513f8174b35baf6465b9a425ff33c4b8e6821bd", "status": "packed"}
+{"sha256": "802eb82a91703d357f425a14c20a0de356aa563b4e2305642455f75a3ae96ce7", "status": "packed"}
+{"sha256": "3ad25fbc1a666a64ae14bccb52a7b56d4b5806f174b40a352e137e61db274d99", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/3ad25fbc1a666a64ae14bccb52a7b56d4b5806f174b40a352e137e61db274d99.exe: NotCompressibleException"}
+{"sha256": "d751f22a8355fdf3627be997a0aeff17cc417506394ec22419d2914674162680", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/d751f22a8355fdf3627be997a0aeff17cc417506394ec22419d2914674162680.exe: NotCompressibleException"}
+{"sha256": "cbe5a2541605a9d0cb9d2b4c93ef9c4cc2b26e28e6616af02acf9f6d141c8b50", "status": "packed"}
+{"sha256": "570e7eb0754342cb11a0f1eca6710934464ab11807d4087197125218d837aaf0", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/570e7eb0754342cb11a0f1eca6710934464ab11807d4087197125218d837aaf0.exe: NotCompressibleException"}
+{"sha256": "1a0b37872cc83d322301f761360d94ef8262ddbe373ae3de425255f61e19500f", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/1a0b37872cc83d322301f761360d94ef8262ddbe373ae3de425255f61e19500f.exe: CantPackException: file is too small for dos/exe"}
+{"sha256": "0135ba3620bcd80165cb3acc6a238899cc7b047f1851038d3a5382453f86facf", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/0135ba3620bcd80165cb3acc6a238899cc7b047f1851038d3a5382453f86facf.exe: NotCompressibleException"}
+{"sha256": "e9437d46c1a407628e3915ff03141ae24e8714dc6b26defbeefe49483bbd9c18", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e9437d46c1a407628e3915ff03141ae24e8714dc6b26defbeefe49483bbd9c18.exe: CantPackException: bad reloc size_of_block 0"}
+{"sha256": "b579b17d958d3ff95fc7eaba22892e5c2f20edb51a9f200cb7de2a97af3e6d83", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/b579b17d958d3ff95fc7eaba22892e5c2f20edb51a9f200cb7de2a97af3e6d83.exe: NotCompressibleException"}
+{"sha256": "bba7f926f1be27e93d6d2075eff3d7e0b2d5cb193a9183237c3eda03d926ed08", "status": "packed"}
+{"sha256": "45280eec8d7517ee75bd5eec2e237f72641a04aaf645638d8e2a520c2c61503b", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/45280eec8d7517ee75bd5eec2e237f72641a04aaf645638d8e2a520c2c61503b.exe: NotCompressibleException"}
+{"sha256": "ba728a8f110ced492b12bdaff408f28cdb43d808d32063c00f9a574b57a39dc2", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ba728a8f110ced492b12bdaff408f28cdb43d808d32063c00f9a574b57a39dc2.exe: NotCompressibleException"}
+{"sha256": "5c8c065b6d544d7611dceb4a03d75100d6d975a91db23310ceb1774b22ad5abd", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/5c8c065b6d544d7611dceb4a03d75100d6d975a91db23310ceb1774b22ad5abd.exe: NotCompressibleException"}
+{"sha256": "9cb4ab537457ad5c867c160d3c3cbd96111223ef293df6e948e50d0efe797943", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/9cb4ab537457ad5c867c160d3c3cbd96111223ef293df6e948e50d0efe797943.exe: NotCompressibleException"}
+{"sha256": "75fd0211464e113c8f23596e4415431944de21a5255a4b396445908df355e96e", "status": "packed"}
+{"sha256": "ea0af968e1e794263bdbf4d1b6088c610f97bd844d190634b56657ba5a151013", "status": "packed"}
+{"sha256": "ad71fd404c8bf658c8f1f75c9a87d35f28d502299663074cd09cc1ca8a95b9d9", "status": "packed"}
+{"sha256": "c1d825995c8388cf097430976bf24acb4f07a69dbcfa54234e4cf9b900254e22", "status": "packed"}
+{"sha256": "eb06eeacaa54c3ec93d81f723b2257c6a25fe8ee5e08ee96960ac822713837a0", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/eb06eeacaa54c3ec93d81f723b2257c6a25fe8ee5e08ee96960ac822713837a0.exe: NotCompressibleException"}
+{"sha256": "6cb9da19643e11b77cdfbb56b2ef37da90687153af22a4fe049681399ab585c9", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/6cb9da19643e11b77cdfbb56b2ef37da90687153af22a4fe049681399ab585c9.exe: NotCompressibleException"}
+{"sha256": "9f19b94e6fba616f86f02eda89c2cb1d686779aa39daec972e1cb4c00428e508", "status": "packed"}
+{"sha256": "ff06ed61ea05c65c6b81709968dd79ef249900cffe1ba91f3a6d48ac3958d7a4", "status": "packed"}
+{"sha256": "cacc1242338ef5707246ac87da11d570bfc964500ba3807c528d8e5c88bd2f00", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/cacc1242338ef5707246ac87da11d570bfc964500ba3807c528d8e5c88bd2f00.exe: NotCompressibleException"}
+{"sha256": "adb000d2a15a4641eda5969b6c279a9e4f50e95a8f8992ba4b80183107cd6b82", "status": "packed"}
+{"sha256": "4e06128647706617ad0cf4120c164207f50505782ba71a013bc350f46905a6a4", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/4e06128647706617ad0cf4120c164207f50505782ba71a013bc350f46905a6a4.exe: NotCompressibleException"}
+{"sha256": "1f36c38d6caa25c932a1102f3d0b8fdc164461fe572cdd9c922478c0b5aff853", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/1f36c38d6caa25c932a1102f3d0b8fdc164461fe572cdd9c922478c0b5aff853.exe: CantPackException: file is too small for dos/exe"}
+{"sha256": "a1a1b5de40c56019d2b7497c6c80a910ec13d88a5e60c095a8f3fa2aa72d768b", "status": "packed"}
+{"sha256": "8c8ac84573658cfc97f8a3504cbc151580a3279813d4de2f9c843f93977544f3", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8c8ac84573658cfc97f8a3504cbc151580a3279813d4de2f9c843f93977544f3.exe: NotCompressibleException"}
+{"sha256": "e88d0f3bf3cb6e93b39644ba5c6fca08ec9e70002f47daa76e8c6ec1e22abc4b", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e88d0f3bf3cb6e93b39644ba5c6fca08ec9e70002f47daa76e8c6ec1e22abc4b.exe: NotCompressibleException"}
+{"sha256": "fdfa0c0e0772353c2192303cafaa354822f529c5952d8d4d60c1bce0e8554735", "status": "packed"}
+{"sha256": "040e4171d480c888491121c6e7c550609eb4eba20cd2959620245d17951c824b", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/040e4171d480c888491121c6e7c550609eb4eba20cd2959620245d17951c824b.exe: NotCompressibleException"}
+{"sha256": "f9a821c3117a31929b65b51c04d1b4fdefa0e07a68edea5ed77439466989cc7a", "status": "packed"}
+{"sha256": "6d010346962adb44f4cd12c6b4ce4615197f742a2aeeac5526c27f16d72c1018", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/6d010346962adb44f4cd12c6b4ce4615197f742a2aeeac5526c27f16d72c1018.exe: NotCompressibleException"}
+{"sha256": "10a646dc95f6d3ad44e1f49cfd4825b993dbe85b184d5a18e20eb56d1ce7b3fe", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/10a646dc95f6d3ad44e1f49cfd4825b993dbe85b184d5a18e20eb56d1ce7b3fe.exe: NotCompressibleException"}
+{"sha256": "db3fe3a551becc3af2fa1774877a10986682dfa3cc7c406d0a62a675d10525be", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/db3fe3a551becc3af2fa1774877a10986682dfa3cc7c406d0a62a675d10525be.exe: NotCompressibleException"}
+{"sha256": "2f222e6f41e6538479c8fa41df02cfa86d3c28514cdc690b5e5201c00103881d", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/2f222e6f41e6538479c8fa41df02cfa86d3c28514cdc690b5e5201c00103881d.exe: NotCompressibleException"}
+{"sha256": "1b3dd1d716a902157b578b630f85f155d944a3e94722b58c22157ec2f64d286e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/1b3dd1d716a902157b578b630f85f155d944a3e94722b58c22157ec2f64d286e.exe: NotCompressibleException"}
+{"sha256": "c48c27bf59d3b6e4ebe0ebe9542646b0a90104a8c74d57426bf667fc8f44820d", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c48c27bf59d3b6e4ebe0ebe9542646b0a90104a8c74d57426bf667fc8f44820d.exe: NotCompressibleException"}
+{"sha256": "0bc273453d43ad96c3c5a7c84dd343f005929111970cee1d7ecc520e9740f33e", "status": "packed"}
+{"sha256": "e78b4b56349fed75664eca9eaf6a5944b487be40e5a81bc8ece808c47631d6d0", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e78b4b56349fed75664eca9eaf6a5944b487be40e5a81bc8ece808c47631d6d0.exe: NotCompressibleException"}
+{"sha256": "4de8a05062b0aba4b2db6f80ba7c273597bd1d9dec61bf128b0cb3845e8c801d", "status": "packed"}
+{"sha256": "76a90f3f02026eea3bd677a9ba9b1c839b50550c06ae193b97f6a4cd48dc6e98", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/76a90f3f02026eea3bd677a9ba9b1c839b50550c06ae193b97f6a4cd48dc6e98.exe: NotCompressibleException"}
+{"sha256": "85d54a135debe1b8d8e297702ba9bc199bc6e82555089d8a022fa8c08e2b3406", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/85d54a135debe1b8d8e297702ba9bc199bc6e82555089d8a022fa8c08e2b3406.exe: NotCompressibleException"}
+{"sha256": "bea077da7a99615b3b2a7fa3b64dd394f57512e7150041d18c59b0d8ad73b838", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/bea077da7a99615b3b2a7fa3b64dd394f57512e7150041d18c59b0d8ad73b838.exe: NotCompressibleException"}
+{"sha256": "1ca3e9eea7d86304684eae46e38d4a0853562d1b047e3556577681271fb3e18f", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/1ca3e9eea7d86304684eae46e38d4a0853562d1b047e3556577681271fb3e18f.exe: NotCompressibleException"}
+{"sha256": "624d011d54e37f1549b7629ce06aab1b7cbaaece6b369f6bc1cfcf7708538f57", "status": "packed"}
+{"sha256": "0c4743fb0f5c4d1709a2907609b5ed974d8fab5ae741b3cbb0f75b601810547a", "status": "packed"}
+{"sha256": "18479f1a5ac8c39752a086e53b926ba0115d32b7069a7cda61ee601aebd240f9", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/18479f1a5ac8c39752a086e53b926ba0115d32b7069a7cda61ee601aebd240f9.exe: NotCompressibleException"}
+{"sha256": "309afc3cb5b4adb50695964f12f0fd66a2180059f378c2101a0e41712caf48d9", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/309afc3cb5b4adb50695964f12f0fd66a2180059f378c2101a0e41712caf48d9.exe: NotCompressibleException"}
+{"sha256": "8a96901735af0ec4f32a5cda7cbb21eea34ccaefbfe4b47715993a1a4cac23bb", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8a96901735af0ec4f32a5cda7cbb21eea34ccaefbfe4b47715993a1a4cac23bb.exe: NotCompressibleException"}
+{"sha256": "be00997866bd1dfde143fbb147995b1906c9575fdc8c0087e867d8a448617043", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/be00997866bd1dfde143fbb147995b1906c9575fdc8c0087e867d8a448617043.exe: NotCompressibleException"}
+{"sha256": "de93caee1d55cc18056a156a935f29eca41fb9d67f82350731ec985d3e0aa57d", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/de93caee1d55cc18056a156a935f29eca41fb9d67f82350731ec985d3e0aa57d.exe: CantPackException: section size problem"}
+{"sha256": "7e2d27def4c87220fafad29178ae6f771c2349252d7929383b9394b390384494", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/7e2d27def4c87220fafad29178ae6f771c2349252d7929383b9394b390384494.exe: NotCompressibleException"}
+{"sha256": "fb9f8c5bae9c49139ccf98195a36b4d4a7f3dcb4dff9756c90c4501b14f9207a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/fb9f8c5bae9c49139ccf98195a36b4d4a7f3dcb4dff9756c90c4501b14f9207a.exe: NotCompressibleException"}
+{"sha256": "a91f57525b174681d6db6056ba4682c2a63f3605d52ceeafdd0e335d6aca4025", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/a91f57525b174681d6db6056ba4682c2a63f3605d52ceeafdd0e335d6aca4025.exe: NotCompressibleException"}
+{"sha256": "54cdd33041530a102ab4b269d3275628e3c4d8db2787fc9a3f8be80455550d6a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/54cdd33041530a102ab4b269d3275628e3c4d8db2787fc9a3f8be80455550d6a.exe: NotCompressibleException"}
+{"sha256": "a65b7faf71a00c71a37054df00a9ccada51ec01548d095cd49dfd55357ab8b91", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/a65b7faf71a00c71a37054df00a9ccada51ec01548d095cd49dfd55357ab8b91.exe: NotCompressibleException"}
+{"sha256": "a9955587857e3a74d8d5ad7d7672f0d56ec3b7c2b93a36109e42ca6cbcd0eef0", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/a9955587857e3a74d8d5ad7d7672f0d56ec3b7c2b93a36109e42ca6cbcd0eef0.exe: NotCompressibleException"}
+{"sha256": "e222c511b39ea4fe41bc0fe28c153685eb4ffab92247d0a1a1865c7cd7440694", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e222c511b39ea4fe41bc0fe28c153685eb4ffab92247d0a1a1865c7cd7440694.exe: NotCompressibleException"}
+{"sha256": "2279db1059aaaf9cd977898b0613ed272f1c97f3232657aa743bb6de62fccfc5", "status": "packed"}
+{"sha256": "bb751b60539493e4d6b4bded668ecc838a9dacec5ce9601003dec378ccf3b7d4", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/bb751b60539493e4d6b4bded668ecc838a9dacec5ce9601003dec378ccf3b7d4.exe: NotCompressibleException"}
+{"sha256": "eebdb446b53b2fc31d826b67cf14cfddee2f2cc5ba5a1b481e060bc296b30114", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/eebdb446b53b2fc31d826b67cf14cfddee2f2cc5ba5a1b481e060bc296b30114.exe: NotCompressibleException"}
+{"sha256": "424ad4ede5e97171a23e54210de414e2d22cdd30ae84fc798914e3f26e272efc", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/424ad4ede5e97171a23e54210de414e2d22cdd30ae84fc798914e3f26e272efc.exe: NotCompressibleException"}
+{"sha256": "1d440de272b203f233c52cb096d3381e1ec90554c8c5d4fb43caf1c3f9ad7a8d", "status": "packed"}
+{"sha256": "9d8eac01f2a1d4ef2442ec956447d968b07af14dc752dcd4795b7593bfbc8459", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/9d8eac01f2a1d4ef2442ec956447d968b07af14dc752dcd4795b7593bfbc8459.exe: NotCompressibleException"}
+{"sha256": "7299d5ef3adb3541afd7e27eed5967b97c57af57fe456828a575a67b14766b43", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/7299d5ef3adb3541afd7e27eed5967b97c57af57fe456828a575a67b14766b43.exe: NotCompressibleException"}
+{"sha256": "c0a467500c6594a54f7fd73ddc713c3e4d44a9c2e2c951d9efefc77e7dc479ec", "status": "packed"}
+{"sha256": "e81c7177bec536adbca5390d4b90df19185bae202f2875aedeb9205b3f01f0c4", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e81c7177bec536adbca5390d4b90df19185bae202f2875aedeb9205b3f01f0c4.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "b014ff851cdf880715ae08eb5f06cc257f4ed6a796a2d85188c3b77ede12a5ea", "status": "packed"}
+{"sha256": "32f6e8e56786fa1e62b75dd2afb543721ae7f785251a2769c70dad47f8db3cab", "status": "packed"}
+{"sha256": "039fb7ee801477baf5649c76bc8cb347deb78b0b39311dd02a3d131c97d449b7", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/039fb7ee801477baf5649c76bc8cb347deb78b0b39311dd02a3d131c97d449b7.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "da7a7f942281119b5076b892d1a918aec19fcf2732836f3c215b728255edbcff", "status": "packed"}
+{"sha256": "a0cf39daee74e3d9683b0eac9442e2398447cd69a3f81bdde93c83ccbed271d2", "status": "packed"}
+{"sha256": "69a03e29f9540dfe893de5b90233c0371628f098c35dea020cd07370fdcaa9cb", "status": "packed"}
+{"sha256": "a5efe4b7f4f93668c8a40a203f703a98c9528f63a2ea46047b680f734c637bb1", "status": "packed"}
+{"sha256": "fdb91d5e1261d22ba43a5fcbdcf0945f3602bbd52e1e7aee12eb7d4beb936c1f", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/fdb91d5e1261d22ba43a5fcbdcf0945f3602bbd52e1e7aee12eb7d4beb936c1f.exe: CantPackException: section size problem"}
+{"sha256": "590a140aa441938e92681a4f60622dc37efca1c9f5777e62f4fa08f9f5566329", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/590a140aa441938e92681a4f60622dc37efca1c9f5777e62f4fa08f9f5566329.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "a6d2acf09ac969c6f0ecf927c8f76b292bcb58112b6817d25626d48a3b4e59d8", "status": "packed"}
+{"sha256": "60ad0fb5e7644c78e0209a34df8914b014ffd767473904afa59fcef029d7f1af", "status": "packed"}
+{"sha256": "97c5f3028f7f20ac529eb907344c788ea8c527e52840972258a8041807890860", "status": "packed"}
+{"sha256": "f83cae20f15ab4036a946c444327adbd302f9fe6feac64a9437304607920d77c", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/f83cae20f15ab4036a946c444327adbd302f9fe6feac64a9437304607920d77c.exe: CantPackException: .NET files are not yet supported"}
+{"sha256": "7370083d23895b1b9d09ad81e13da2ca152363c45d28daa856447e97573a9916", "status": "packed"}
+{"sha256": "25ac16610a198f9dfe89b806a6752ec76037203f8e221a4c7df18e7eeb0417ee", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/25ac16610a198f9dfe89b806a6752ec76037203f8e221a4c7df18e7eeb0417ee.exe: CantPackException: .NET files are not yet supported"}
+{"sha256": "55bed534e05f746f9d7b3858d5ed7aa9430c5249f1d150fbd63536e4cf24d706", "status": "packed"}
+{"sha256": "ea90e83979ef1f22e79e93602ecb952cf3f39fa0c4e222981b993be9eb316849", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ea90e83979ef1f22e79e93602ecb952cf3f39fa0c4e222981b993be9eb316849.exe: CantPackException: .NET files are not yet supported"}
+{"sha256": "543c208ba2db27050539447046b791b15a504a1cda93d8ccc91a29adbefada94", "status": "packed"}
+{"sha256": "cacedb33c9a59d3f5a2e77226a4596dabb72502590a5e91712679f1259a215de", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/cacedb33c9a59d3f5a2e77226a4596dabb72502590a5e91712679f1259a215de.exe: CantPackException: .NET files are not yet supported"}
+{"sha256": "00dd5881dc18ff84ede3f7b2fcd78cbdbe2122f70d0029f86c2b67d9343b7b3a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/00dd5881dc18ff84ede3f7b2fcd78cbdbe2122f70d0029f86c2b67d9343b7b3a.exe: CantPackException: overflow reloc size_of_block 543950"}
+{"sha256": "3b1562b2328c73aed466748ce8ef42dbff588fa0e3feba00c632ca0ed536ad56", "status": "packed"}
+{"sha256": "a30080417df588cb11f251a496cff10ca16bf2b7badb5b97538bb453381de4ce", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/a30080417df588cb11f251a496cff10ca16bf2b7badb5b97538bb453381de4ce.exe: NotCompressibleException"}
+{"sha256": "ceb709b597b839c11ff113fc6ae2633a4f5322368c9b148de90de55c943cec1a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ceb709b597b839c11ff113fc6ae2633a4f5322368c9b148de90de55c943cec1a.exe: CantPackException: bad reloc size_of_block 0"}
+{"sha256": "fbe93c764f62293d498d5c7ed8ca32c4ad857c4ec5a50520ab304b4b86c1455e", "status": "packed"}
+{"sha256": "2c6e3c2bbdc73e1c48aa12f157eac7eaedb7d94e78122bae87bc3e99f75e1dce", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/2c6e3c2bbdc73e1c48aa12f157eac7eaedb7d94e78122bae87bc3e99f75e1dce.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "842a6697e6a6cadfd12aa3ca0d306d007693d0fbe54024adf1f5258516e55616", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/842a6697e6a6cadfd12aa3ca0d306d007693d0fbe54024adf1f5258516e55616.exe: CantPackException: .NET files are not yet supported"}
+{"sha256": "287ca1c95240265373aca566db45326f82ce947881afa44f6a6742ee43841166", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/287ca1c95240265373aca566db45326f82ce947881afa44f6a6742ee43841166.exe: CantPackException: bad reloc size_of_block 0"}
+{"sha256": "7aaeed58f76b4acd6265b807fc594850bf65feda2617a0d897e3645be609a569", "status": "packed"}
+{"sha256": "1eb5a85188e15476caf90a70161573fd186cbc6d50b906e815480e70fe231c55", "status": "packed"}
+{"sha256": "f29c6b174cb1cdd9e63b047bd4726187066dc1a678364af7f040cb0be9b6459c", "status": "packed"}
+{"sha256": "03933919288f0f134c4c7bb49cebc1ac448bb0e0087382a276fa9eeaf72e0a06", "status": "packed"}
+{"sha256": "a3f2afe17f739e1fb11a21fb91537ced60593856994ad886ea75de6cc5041eba", "status": "packed"}
+{"sha256": "ab21e7218cd18d8fa941a607f5296d887676aee84a7952335f224c8dc29802bf", "status": "packed"}
+{"sha256": "f5717f64ca10420934588d12bc18c9e4542ce2a282c0c3b898e7f3dd4926bdca", "status": "packed"}
+{"sha256": "757bd8a0c5f2912c62097dcc7ef0add40e9e6caf4f328aa9fb7233db87c1f95b", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/757bd8a0c5f2912c62097dcc7ef0add40e9e6caf4f328aa9fb7233db87c1f95b.exe: NotCompressibleException"}
+{"sha256": "807c0ad4a7fe47fc0862c5a0c4c524f6d952203fa21c1e2caea2f06df07fdfca", "status": "packed"}
+{"sha256": "2a8189a1745349031b431a925ad9e697d356704bafb16a219093c9ba940b418d", "status": "packed"}
+{"sha256": "d0c23df884750d180928dd6ebe3134a17d47c99f831ed5413334e7f0286032a0", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/d0c23df884750d180928dd6ebe3134a17d47c99f831ed5413334e7f0286032a0.exe: CantPackException: file is too small for dos/exe"}
+{"sha256": "f6b20fe800c7c8dec6efbf045d0d94ab1810187704f6f0f20b900a9481ee15b3", "status": "packed"}
+{"sha256": "cd175b00a74c31ecbf84363671f866054ba8f3ab00f4c6b2438f3ad3fb8b5e63", "status": "packed"}
+{"sha256": "e6645c49243ecf8a9e99981c0faa7fead41be0408f51120192119f7b1df5ff1a", "status": "packed"}
+{"sha256": "085852e9156776185a1aec542f611e102c90fbf8b8c94122c7f842a0ce318ec4", "status": "packed"}
+{"sha256": "d710c8148fdef7fcd1378d588b490306f3e46771fcf4388545cb31bd8383d3bf", "status": "packed"}
+{"sha256": "1f34854c799264a96d21095fa1988f38b4045b24164c729fcb3cfe72741d40be", "status": "packed"}
+{"sha256": "2f613841846430725103091f1478bc7d664f5fc451c6c06b6dea5d3d9e542777", "status": "packed"}
+{"sha256": "15bcda701585eac90433e500a00c796318dccd5dccf22a64ca0beb4f425ee33a", "status": "packed"}
+{"sha256": "599d27093b0115c91be352f5d478df0b9210c9f9aaf19365c5d67aa204ac4f81", "status": "packed"}
+{"sha256": "5adac0a02955e50d9a285755dda8e62000db2be3317d603783c741c333d81251", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/5adac0a02955e50d9a285755dda8e62000db2be3317d603783c741c333d81251.exe: CantPackException: bad reloc size_of_block 0"}
+{"sha256": "67256271dc1c12f54dcacebe6233cae6f6115177c89328a88bab423b14c5b09a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/67256271dc1c12f54dcacebe6233cae6f6115177c89328a88bab423b14c5b09a.exe: NotCompressibleException"}
+{"sha256": "8bb2b0abcbc1a7306092cea511fbaa68b34034fe9634cde58d8311e8736e679f", "status": "packed"}
+{"sha256": "2bd0e8338262036e59acba5c9aec787717fcbcb09b5599873926f3bcf22a5c0d", "status": "packed"}
+{"sha256": "c44a1c75e28b6d4911d92c5daef2df2b15ec7c6988f60fe11314382477d300a2", "status": "packed"}
+{"sha256": "4c0bb0b474ce3b22b59a76426ff2b59617cee2017ffb16517bd3fb62dc7e92ec", "status": "packed"}
+{"sha256": "3fd5a0445aa896b5348e2ad3b191a5598061e690c5701568395d594a5fe52fa8", "status": "packed"}
+{"sha256": "ff82b6708e5c3b84ef9213ddde72fe8b481af6868586404d70a8ae809f9e5654", "status": "packed"}
+{"sha256": "c43680287fdb0042ce1b759e24b92b56a5575b28632c730bf40a1f5ccb55437f", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c43680287fdb0042ce1b759e24b92b56a5575b28632c730bf40a1f5ccb55437f.exe: CantPackException: section size problem"}
+{"sha256": "bd6f53828a55720c1a1cc2b12230ec4d8b7cf1b6c0f257e623afbf7968dc7d5f", "status": "packed"}
+{"sha256": "9da3066ce39294a6c689b8c4ac56598f01f88d464a66faea65f86ad6d0853d4d", "status": "packed"}
+{"sha256": "386dc255d7d507d7b570e8747a9373a572c606f7b647199157f8d52c3a684f9a", "status": "packed"}
+{"sha256": "0bde089187480e5d2e040f241c047984cf1c60af48979083ff6d54ee28bb197e", "status": "packed"}
+{"sha256": "4bd0c64f126d37894e161a95e43a343bcdd18b8fdcd60c4934df692d28f0ae41", "status": "packed"}
+{"sha256": "07eb2ed64e1154064b1c408727457fff5626a20dfd574e49be63076f78dfe722", "status": "packed"}
+{"sha256": "fb845b151e97b20a23f1824317b0dd2ba613b59f8c4830ae8a31e824d6b8d8fa", "status": "packed"}
+{"sha256": "336c7cd385cc8552f5a664dcfd4192f21d01aa26f0daac1f7ff40ca61f2a7a30", "status": "packed"}
+{"sha256": "7e2306e8a4e055696aae59e12e4ae6018e617c7432620015f420023a34dfd55a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/7e2306e8a4e055696aae59e12e4ae6018e617c7432620015f420023a34dfd55a.exe: CantPackException: section size problem"}
+{"sha256": "6792ec2c915897427fb51faf672974da09817ac6d2db5d432bbc73ae89ef8665", "status": "packed"}
+{"sha256": "75f12fc8e41d1443d03df909ec7a2d2f292bf0fbf96a0b6717bc6dddc497f9eb", "status": "packed"}
+{"sha256": "f004e21214c78466ede3e0c0ec801b4c1abd6115847acf4677c66b7f8b46e79a", "status": "packed"}
+{"sha256": "a72659a091ff92dbc32af32ef8aa6212f86f912a9932f8bef68950ca8b1f41fc", "status": "packed"}
+{"sha256": "0fdf3e16654a164965f0faaacd2d25db439b5f8272ff5dc685cd868c66ade04d", "status": "packed"}
+{"sha256": "125c04bf0508fa3460220638568944bb820589d2c2f878f5ad37d7ada7be002c", "status": "packed"}
+{"sha256": "8e00db9de02cd46964c0484f77c4804e69ba705205fb34e7feb05eaa9587fbfc", "status": "packed"}
+{"sha256": "63c4f9d92c2db59c94cb80ff5ef21f435cd8c354542aff79e40f1a3f228d8e10", "status": "packed"}
+{"sha256": "d9044ab9f512d40f36a582a878647d234fdec207c8d84369927aad532370c6b6", "status": "packed"}
+{"sha256": "774e009cd13c1f8b03b3f16ed3e068913559d1899cd86ff0945a67fd225c6b13", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/774e009cd13c1f8b03b3f16ed3e068913559d1899cd86ff0945a67fd225c6b13.exe: CantPackException: section size problem"}
+{"sha256": "1ab12c19451470ff2679a6b9e7b4b882774dc08e7517d36108bc82cbe89deb8d", "status": "packed"}
+{"sha256": "4d8ffa30554984f32eabbcb7a99699dd833ea85a8483db8753cc40bde7cee923", "status": "packed"}
+{"sha256": "53799d9fb4a35bbaccd69f274a33151d388d8f365f82a825133623d1ab31d054", "status": "packed"}
+{"sha256": "16b6dcb74a412e63004aef19b8a78671e1227dd804f0e197ddcc8190a41c143d", "status": "packed"}
+{"sha256": "28c54d355fa8f43a9f92bf953f14dea4327bea9080ede5b22ac5c227a6437d6d", "status": "packed"}
+{"sha256": "9220ed2e6e2e5cc7757a82fe7f1e93b8467b9074734bca0f43056191dc3075e6", "status": "packed"}
+{"sha256": "2e250c2b1eb2a822ff7a85eff06feb6053b89a69428ae4dcc725c58907e41211", "status": "packed"}
+{"sha256": "ffe4015fc09a87631869f667db381a2812e327c2e0cb9f24cbdc511d416975d8", "status": "packed"}
+{"sha256": "9910b2d0f1b5c573ad0954574a139cb9b459dc76bbff8e0adfa0c870dfed7780", "status": "packed"}
+{"sha256": "e34fbba581bf00ce447f83e5906db100106d48e84cd2fdcf7b1f3669e3599e55", "status": "packed"}
+{"sha256": "28c283b5294b4acdeef529d7361ab06905550d43697e4142620454ee9535cd3f", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/28c283b5294b4acdeef529d7361ab06905550d43697e4142620454ee9535cd3f.exe: NotCompressibleException"}
+{"sha256": "61c2d73cfd6192823bd3f964476c32b086a13174ddd3b248895f6c89d08a7a84", "status": "packed"}
+{"sha256": "8a3a1f039d301686dd6f76eb2658352f2a558aed0a7d450a06b1e77bf2edafc5", "status": "packed"}
+{"sha256": "52487a077620fa85bc178067673d725b10084e42f99694db579b7672af11d86e", "status": "packed"}
+{"sha256": "1fdaebac8e32b2a2581b9a27a90ffd9c1d89f4c08bcdc8bb5b9092c1819f3b8a", "status": "packed"}
+{"sha256": "4968437ead6a12965ac93b471d4f6d13690149823c18d9726923a81f37020d0e", "status": "packed"}
+{"sha256": "5a0d65c7a8eb8e253aaaded8d4dfc658c49c7d267f46ae1499c596c59ed717a3", "status": "packed"}
+{"sha256": "6c9b40503a069de34908ec7590b6ab4f3b401261e60a741a871561220adf8074", "status": "packed"}
+{"sha256": "4a06b9fc6b3a1a2806e6898beaa58ac62f6f9273b9f4dc9a149a68132e1fe25c", "status": "packed"}
+{"sha256": "6ad34d332263068b1192e95388a9b87610389dcf3e88d322e589b573ee5c0a17", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/6ad34d332263068b1192e95388a9b87610389dcf3e88d322e589b573ee5c0a17.exe: CantPackException: section size problem"}
+{"sha256": "73784b4781b60f8c14e0deed0d39d85890e56e587ec6acfb20680839e1416728", "status": "packed"}
+{"sha256": "220ddd950132053d52849137cf362da921a167caba00646bc8c079b67085a2ee", "status": "packed"}
+{"sha256": "8649c1a05676c99d1118654cb41dc4861a7fccd9f7fed0b841310349ce776861", "status": "packed"}
+{"sha256": "06f83251a82855d3f050561e039ca8e78fb08f364166b0316213c26bc2d37ff5", "status": "packed"}
+{"sha256": "fdf43f3a309699fb4e275b104d71127bf7c61d55e04ac3293d62c9d1e2abc062", "status": "packed"}
+{"sha256": "ce96aea072de1865fdb4560f7b0c34de2d119d05c89a440bc9b388972c82fa34", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ce96aea072de1865fdb4560f7b0c34de2d119d05c89a440bc9b388972c82fa34.exe: CantPackException: section size problem"}
+{"sha256": "04f763aea4744e4666ea84230435324aca157188dd22094b476a4edc57938e71", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/04f763aea4744e4666ea84230435324aca157188dd22094b476a4edc57938e71.exe: CantPackException: bad reloc size_of_block 0"}
+{"sha256": "1c152a3096ac016713900c0c1f1483f6ab981814c863cc41bb25af6e57c66ca4", "status": "packed"}
+{"sha256": "f30591cb2165eae5b3b1405e5fa31ea835b020f8e1f249e9681989aa64b4f161", "status": "packed"}
+{"sha256": "92c60e88a4df650536daa2b89801d6106dee46a6a7917e6f1e1387225aa36c4c", "status": "packed"}
+{"sha256": "1c7e1698ea4681c43462e67f75aed2acccacd32423f1da012ae027ba58d66bc0", "status": "packed"}
+{"sha256": "f35cc42a0d8d82224c13d31220a20952edbc6f6da26565c268c6c2fe3601301d", "status": "packed"}
+{"sha256": "239bcaabb3909d6a00e9b834256206bb3f54dd94c7f1f7b8f3330694c9f8fc11", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/239bcaabb3909d6a00e9b834256206bb3f54dd94c7f1f7b8f3330694c9f8fc11.exe: CantPackException: section size problem"}
+{"sha256": "b6bbbc13d5680c6756afaf8fb5dd9cd6fb0e833b402769b5ea4c43a77f1ef5da", "status": "packed"}
+{"sha256": "86e5f6e987124fbe0c688e73ac6567ecbc43ab0aa83b6e81cf864a8d355c62ca", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/86e5f6e987124fbe0c688e73ac6567ecbc43ab0aa83b6e81cf864a8d355c62ca.exe: CantPackException: section size problem"}
+{"sha256": "97a98cb68f5e501149fc33ab9361b5b7254f475f263097fc8e715138110ecbeb", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/97a98cb68f5e501149fc33ab9361b5b7254f475f263097fc8e715138110ecbeb.exe: CantPackException: section size problem"}
+{"sha256": "763535a3a810ec19a94bc77af418e02fe14c4591bcc8174c9029456daf63768d", "status": "packed"}
+{"sha256": "4fc950a64cb97e8e613d0e8088386ee7d292973cb3c6ccec9b621e1bfdb02af0", "status": "packed"}
+{"sha256": "3c3b20535f3c1970f5c23decab0b76152849b68188d92fd536ce73b69156dc8c", "status": "packed"}
+{"sha256": "73dbb0c70a73f38c3c716dc012c67f5887112c8382d1959a704807e99f55706a", "status": "packed"}
+{"sha256": "034f608986b21ed81a05fa5e7122fd6d60bacab45984fe9e11ea89d5aad024fb", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/034f608986b21ed81a05fa5e7122fd6d60bacab45984fe9e11ea89d5aad024fb.exe: CantPackException: section size problem"}
+{"sha256": "56adf7651df235b9b534d85340323275f7648d252f0313ce485db1c048687dc4", "status": "packed"}
+{"sha256": "a1c35ec061a9bebabd551dc69e9fb477b35d76852528ee2220501d061c909dec", "status": "packed"}
+{"sha256": "e35681e5ac5f41cd3a1791f3078bc28a6e8f2976d0426ae58cbba6db3dc0f2f3", "status": "packed"}
+{"sha256": "249ec30af8d10460209857636d742579dcaf87770b41aa9748d66b3041cb9b52", "status": "packed"}
+{"sha256": "6be5cd28eb5898a9d74ad4b77db90d08b578422d861fdc38511cda135c0d9b49", "status": "packed"}
+{"sha256": "846cbc10f9fe66e6938fc8b727a2578c19e7c74d197459806cd514666be4c770", "status": "packed"}
+{"sha256": "1c9fe33424c058663b4ff767efe39e9c9b7f51583beac49cb8fcef35ea739066", "status": "packed"}
+{"sha256": "767db05c5db20cfd8fde6410020d2decb27d644035417a0d234dafb552b0d00e", "status": "packed"}
+{"sha256": "d53521af87d98cc06217ea74de5f48a1cdb470d922c75d11a865cd5fc1a06382", "status": "packed"}
+{"sha256": "bb344a3bdbfcd250798655d98e6aa64b7bd3c11ed1154a4a1c9d3452e555daa7", "status": "packed"}
+{"sha256": "b64bee686e6896a8a8ebe4c1838f0e47722e7d9ba55a23f7959958cb11701c1f", "status": "packed"}
+{"sha256": "01fc03583353aba5a29b4490d7cfdafb5ff9b697e8e73b1cb2fd3ecd929c36e2", "status": "packed"}
+{"sha256": "0c0b5198ab3733a76107b056ba0445ed053fb20495856a359aac022a354db078", "status": "packed"}
+{"sha256": "2b2ead1ad861ee78d7e593eb9b5d2ee247304e18e0cf40d8adef5facc7f889a0", "status": "packed"}
+{"sha256": "27c46192cef4b962492783597a6ddfc659d2aa5dd0dfae8a3d031fcc4cc318f1", "status": "packed"}
+{"sha256": "e071d407a50f774694e031395aa908d2fbe7b0078430512c3ec30b71c3bf74b2", "status": "packed"}
+{"sha256": "a681c6bc3558ddcfb3cd52f9283deffa69b395f6e5cabcf33b2e91d86e618bbf", "status": "packed"}
+{"sha256": "6fd343072852e00a2f1ae7298f993df84718f8ea585c44b240171f6091a5b5ab", "status": "packed"}
+{"sha256": "e745e460e49eaa0d52c68a548999d0ab2ca1c017b00be6c1005969788ef2207b", "status": "packed"}
+{"sha256": "1c0b844530373ed53318ae4d294d8451539287f9a66561e62a22d42a6e10e81a", "status": "packed"}
+{"sha256": "45ba75489d4d4a4f069d2c3b3e95335f19141cfc36f8140c178e9f7708b1c5f8", "status": "packed"}
+{"sha256": "436d1181db783ebe32ac5ed29de8ea302a73cb783bda47a6d596c9336e91accf", "status": "packed"}
+{"sha256": "5e10eed1a6c28534cbf61222a455c768f41f15f15ddee399fa320084f94dc336", "status": "packed"}
+{"sha256": "2778ffdf0b1334f0a634e08a960c8df81578221ed4918d071df194254a1f746c", "status": "packed"}
+{"sha256": "05677bf1aac303ae1f0ec8def8079d649b19fb71d8c24c506d8695a77cbd7b5c", "status": "packed"}
+{"sha256": "53cd444774ef3b0f7cdfa7083cee1e012cc7d14a103f14cef3c8d98647e5f51f", "status": "packed"}
+{"sha256": "a2e26986f95c8df87d22af0415508c9b73fd199a702017d613f0bc0015980ec0", "status": "packed"}
+{"sha256": "1ad138cb9e7b8c282be8c1e985900574a82192f387a6cda052f3472cad0ef45b", "status": "packed"}
+{"sha256": "4a85a1c07df09231c942299721899cb2d9458bd41b58e130795ca178f2975d39", "status": "packed"}
+{"sha256": "27bc26cdc2b6928b74bdde519fe095020d68e4f5f741f47353b9907fbccf988b", "status": "packed"}
+{"sha256": "967012a7801343a0cdfc79e8a390adf2a5acb3ec75f63c50d9ba174d2858cf39", "status": "packed"}
+{"sha256": "1513e428ce6854e2d9a27c69d0a0e9bd401bb21a02441b9afcfb88914b2a9c13", "status": "packed"}
+{"sha256": "5b512dc64303eb268d6d1841d7f765682e1828f8ecc2dee6c75afcb14a35cc59", "status": "packed"}
+{"sha256": "b7b0112d8470455a80904ecaebcc1c8477756a77445e0606e14ecf9e9405447c", "status": "packed"}
+{"sha256": "7e8e95f0a66d3441e054a2844351770fba957f9c838c88fcc94e5d234c43fbf2", "status": "packed"}
+{"sha256": "de15b328d959698d82f2adab91bce46a1d2de01315c0a92c73f74329deba24e9", "status": "packed"}
+{"sha256": "af611367af7e86e8686d0b66009e3e6d25d15221f2e78edfe464fbee5e204c58", "status": "packed"}
+{"sha256": "103fcb60bdbbc85cf3c4a640671217de9014a3e8172ed58ef902aa7609a17d3d", "status": "packed"}
+{"sha256": "c5b177c243b356f0fc9d3904ca81417632bb659deae94af26e4fce001eabec9c", "status": "packed"}
+{"sha256": "aa9a89f75e902d112d4905a0a35b0ddfc3590706c4f989ba5134aa1cda64bbee", "status": "packed"}
+{"sha256": "dcbaa07cb25c5f5fccf9e16938a482442bb0ba2e96a94718d1ce97941c55e07d", "status": "packed"}
+{"sha256": "d00d9a5ebd46712ea044fab74076a97b23f6644dd53b30832cf99ac4e70aca50", "status": "packed"}
+{"sha256": "d5b8ba2845a693eed036f963511b7f1e0a5022471a2041735ee1b49c7f157b6e", "status": "packed"}
+{"sha256": "0ef8db2cc5b2e84e156571be8de06ca78937164b17ee002084bff08c9ac717e0", "status": "packed"}
+{"sha256": "8b776387c7c94a1b81d87a4fd94ee4d6566e743e56eb02c4d4e1e37cd6ca180f", "status": "packed"}
+{"sha256": "9a50da398eda3eed99b93b596357ed6c1f001783a4d654df40b9e33410708fa9", "status": "packed"}
+{"sha256": "db50025b8fe0e240178ed3e70d547304f05fd18f4c33b19e65ad3589f4422666", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/db50025b8fe0e240178ed3e70d547304f05fd18f4c33b19e65ad3589f4422666.exe: CantPackException: bad dllname 0x564052b"}
+{"sha256": "5a9e8797ab0d98a91ba1ba60477e8cc9eb7ba674c0418cacccafca700a84ca19", "status": "packed"}
+{"sha256": "a2156737649b70d7d6677bcfbc4f17ca4ea99df8a1f4356b2faab2d1b6864d1b", "status": "packed"}
+{"sha256": "fd4a2c6b78f8696f6d5d9b5b68de9d2149bbd49579075674e0ff6db8e318204f", "status": "packed"}
+{"sha256": "75ea0655f212bdeed0f63d51720df04449aee581fb752eaa08fb8bfd27c3ed12", "status": "packed"}
+{"sha256": "f89b03df4b2d3d1a2effc7e9564a910ad64445362a65716e02c0afa009f864b3", "status": "packed"}
+{"sha256": "5e3de6454bf48ae44616bae34ae70fd1dfa286789cae57319f364cef525afbe0", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/5e3de6454bf48ae44616bae34ae70fd1dfa286789cae57319f364cef525afbe0.exe: NotCompressibleException"}
+{"sha256": "cff29fd6ac6dc21df29fa8c432a614b32d30409abdf64ab912cb98e9580d3860", "status": "packed"}
+{"sha256": "a216dcab41aabdc490e35334a5d0916b64cff5537e0cd8e29128a79bd8e0cae1", "status": "packed"}
+{"sha256": "5cf505531b2b783807ca885e5a5fae84d0c0a30955980eed90a861605d571498", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/5cf505531b2b783807ca885e5a5fae84d0c0a30955980eed90a861605d571498.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "9597ed0bbe7bf262ef9542f227f178df100d42c86e76529ed95912cf0372c4bc", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/9597ed0bbe7bf262ef9542f227f178df100d42c86e76529ed95912cf0372c4bc.exe: CantPackException: file is possibly packed/protected ("}
+{"sha256": "d3be736aadb4573ab192d88c1b39aec161d1c35bcbaa6914c397149e1db9c54b", "status": "packed"}
+{"sha256": "c6de12008b391f30344fdd6da97adff5d105021e0e8881b0af5166006a397750", "status": "packed"}
+{"sha256": "8c0305e19182aea4f2ec27f0758e744e544c91e26a17530d1bc24c372261896f", "status": "packed"}
+{"sha256": "3441c5e31ef66ea1260d0abc6f440a75fefa0d5522d1f9a5c74a4c76ee1ca8df", "status": "packed"}
+{"sha256": "c1bc78a128882f3392f0310c259a5b10ca1adf80947157523c61d8453f51db3f", "status": "packed"}
+{"sha256": "0d75513ca321291cd1eba38b5b62a127b685bc606080b501b300df4c6757924d", "status": "packed"}
+{"sha256": "acdc022c44fc1933f49c98f041f0454923aae43a3aab2eb5ca5b39b3ba7ef2eb", "status": "packed"}
+{"sha256": "9822f9a09a1628f3911334c736c7e8bacd5a148a3659b5acd6b96511786ec200", "status": "packed"}
+{"sha256": "bdeed12d3fd2925d690679bf0f595ae511d5fd61eb7f53b9c62e1d58249958f4", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/bdeed12d3fd2925d690679bf0f595ae511d5fd61eb7f53b9c62e1d58249958f4.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "f1ff429d53dddf2f6bdd98d40904b455569518e4a8bbc4725496280f5503b58a", "status": "packed"}
+{"sha256": "b6a05e167787d48f6e72a717559a1627e33e304c596c054794ece647b29ad57d", "status": "packed"}
+{"sha256": "e5de1f726d3a4ea460cc79a99c10e9b78e6d28360ae35efd82464e13787fc76d", "status": "packed"}
+{"sha256": "0e663cc7e97ac7c44090189dcf93bc34f1d1b8f6320bc186823549ffb8dda840", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/0e663cc7e97ac7c44090189dcf93bc34f1d1b8f6320bc186823549ffb8dda840.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "fdea4f6e2ed20c2ce796b1769f62e5972363aa3904293a5ab8b53f9c69961ba1", "status": "packed"}
+{"sha256": "50b7cdc2572a2bb050d24ef15c6d1de3715534f1ca7b2c6f75d06842bf81edb1", "status": "packed"}
+{"sha256": "3c174c3c28c2cd4be5b7bbacc2383ab063fa010c47498cb1cb8c1920840e2e1e", "status": "packed"}
+{"sha256": "f2e0f59119a24773e53fd630bd9cdfd0c734e490d039318e5a47e9d418eaec0e", "status": "packed"}
+{"sha256": "f2cbb96884d29fe646a5197a901ae18842e0ed87ac70abab3085281ba43b7d4a", "status": "packed"}
+{"sha256": "0e4bfec92ee8a37d31fca74927f5da739b34f742ba05129c3d18dd94468b7ab4", "status": "packed"}
+{"sha256": "e4ad1a81869c9417a16a33f9428370dac6dd09a2572eea88fd35b5d0d741e8bd", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e4ad1a81869c9417a16a33f9428370dac6dd09a2572eea88fd35b5d0d741e8bd.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "f59df07943908b99fb924647cddaa00addb5a920e34608fc28d0f7c0f224da92", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/f59df07943908b99fb924647cddaa00addb5a920e34608fc28d0f7c0f224da92.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "f5d2741d2a3dd1d519ac22a46002af5da9160116c0da196bfeccfc2759c56ff1", "status": "packed"}
+{"sha256": "4afc9f26c3005976e958040cea041f058d1249366e34888fc720ab819697c0da", "status": "packed"}
+{"sha256": "2fd7f9476bf611f9665ca43360cc6508c1510ebefc8f914a27cfc39d458917f9", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/2fd7f9476bf611f9665ca43360cc6508c1510ebefc8f914a27cfc39d458917f9.exe: CantPackException: .NET files are not yet supported"}
+{"sha256": "c9dc0d67272dcd65ff03ed554cc8c5c57d96765334d7727206e468b3b4ccbb99", "status": "packed"}
+{"sha256": "9dde54cc894cbd6cb645a10abfe1264ebd902d4ff47c047722ee166482dcbe2e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/9dde54cc894cbd6cb645a10abfe1264ebd902d4ff47c047722ee166482dcbe2e.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "663f1afe611caeffcebb74d103cd2f8fd6ececf409768d47dd14e8c76b8e8141", "status": "packed"}
+{"sha256": "65fc8090c74e360dcad4055c13e5ccaee99834ec846b78c806be043ced7ea7b7", "status": "packed"}
+{"sha256": "960e3d3b7912fc5aefc524d94daa27d9dde4b6d84254616ea3aca32c8191a28c", "status": "packed"}
+{"sha256": "258e39e857a339d6089ca410c7e4e658692df24445dc57e70358ba79adc8a4fa", "status": "packed"}
+{"sha256": "150bad0b9a7df7aea4aa8442d9f53fd734d1f0e017f1b4c7e6de471459a13fda", "status": "packed"}
+{"sha256": "fa684710d61f2f91121cb902d2048f3ac43a2b7be9fa7601b02d46b86bca9a4c", "status": "packed"}
+{"sha256": "e0ae3d6dab838c898017165c587cb09fb997ebac8fbe6b2f1dbe9ae73fde3cae", "status": "packed"}
+{"sha256": "0306dac12508cfb2226dd1d04e4efe1d521eb888dae7fcb21dd3e593c19e255c", "status": "packed"}
+{"sha256": "0b8d8f0a99e42689576b27448265330446d299bd2f9b7e9a377547529a7cd388", "status": "packed"}
+{"sha256": "71f20352b9688672bd5e4c38ea9ca406c4946be85b2fdc8ce5cbcf9d3aa11dd0", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/71f20352b9688672bd5e4c38ea9ca406c4946be85b2fdc8ce5cbcf9d3aa11dd0.exe: NotCompressibleException"}
+{"sha256": "47026cdd143d5530fc82616980b3c97d77239c31f8bab476ce29a1ccd6b80e81", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/47026cdd143d5530fc82616980b3c97d77239c31f8bab476ce29a1ccd6b80e81.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "db429cb3cc07fc41bd67cda633158b6ffc8e5330497d8529814d4fa87fe0a563", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/db429cb3cc07fc41bd67cda633158b6ffc8e5330497d8529814d4fa87fe0a563.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "fa0bc3441162f8a99200d92f9716f88fb557cf3100561783ef25b87cf1fa501e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/fa0bc3441162f8a99200d92f9716f88fb557cf3100561783ef25b87cf1fa501e.exe: NotCompressibleException"}
+{"sha256": "c270d89275e71eaf57282eab2cdc537f1d0a745702c66bbadaaa5e618653a28b", "status": "packed"}
+{"sha256": "2f36e181fd9366fbe86fadcfbfb6cc388dde08d42228c81c5b75af4808db6cbe", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/2f36e181fd9366fbe86fadcfbfb6cc388dde08d42228c81c5b75af4808db6cbe.exe: NotCompressibleException"}
+{"sha256": "f3325e6dcd627936a01c1143af552c549074af93593d56f6b1c3d363ba83e5be", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/f3325e6dcd627936a01c1143af552c549074af93593d56f6b1c3d363ba83e5be.exe: NotCompressibleException"}
+{"sha256": "e176f0ae4475684318adaa2d7ecf2af561bc7a60d6d02edfb201eea42e62cd61", "status": "packed"}
+{"sha256": "0ea6966302e4ba546a50a7adcfd48601a76b06104e7271c7a6edae1435dcebd3", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/0ea6966302e4ba546a50a7adcfd48601a76b06104e7271c7a6edae1435dcebd3.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "9b90fae9b9f7c8d85e41de2f3acbbcfd194ff478dfe56e5b30276d9acf8036ea", "status": "packed"}
+{"sha256": "570d31ec94121756045158f2a85c6c78040e121ecb8b0d21116b9242c1513de1", "status": "packed"}
+{"sha256": "f062d4b246e8a84ee029b887723a52df5561f4677f37bcc3c523c0358080c41d", "status": "packed"}
+{"sha256": "4fc12ec1271ee9d5d3953cdb788eacb302abbf1491d74a062bbb4f64466c4e56", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/4fc12ec1271ee9d5d3953cdb788eacb302abbf1491d74a062bbb4f64466c4e56.exe: CantPackException: file is possibly packed/protected ("}
+{"sha256": "012df13e07f4bc2589d17bc18ed2b632a73fb9a55e43a904f2342360a2ba2853", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/012df13e07f4bc2589d17bc18ed2b632a73fb9a55e43a904f2342360a2ba2853.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "f33981fa8a4ce5ff3899718e193453794cd0b22151e0f718071181bd6bdc5a60", "status": "packed"}
+{"sha256": "45998ab951bd6eb57e8dd29123fb180794ec15cd8ea9a50cca527a614898df45", "status": "packed"}
+{"sha256": "26ea0118ba4085b285d3fafbc0bca3da735cb2824f7c2cdcecb114935c5755c7", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/26ea0118ba4085b285d3fafbc0bca3da735cb2824f7c2cdcecb114935c5755c7.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "caf54a7ef6090fa0085eef32864786cab742aafc5e7b14b4e55f0499cf3ebadb", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/caf54a7ef6090fa0085eef32864786cab742aafc5e7b14b4e55f0499cf3ebadb.exe: CantPackException: file is too small for dos/exe"}
+{"sha256": "d660bba496ce725d6fd021b6362e57a436775763db646bb533b35a562a840e7b", "status": "packed"}
+{"sha256": "1cd57c3d11e8451e23612f974e1b74095407a44e3a1fc7e57ca7df104a36bcaf", "status": "packed"}
+{"sha256": "a1a2f580cd434ca5cc0569038bdf7f5b3578fdde75154649ddb8f9747897b3ab", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/a1a2f580cd434ca5cc0569038bdf7f5b3578fdde75154649ddb8f9747897b3ab.exe: CantPackException: file is too small for dos/exe"}
+{"sha256": "d3ec4c6d8169dc331f2bc67f0a91cfee43672a0af58080485860672942c35209", "status": "packed"}
+{"sha256": "3c828ad6329fe5050cf1b8229a3f3a4a434b8cce67511bfe170e96faffd0aad7", "status": "packed"}
+{"sha256": "61890e20f153d6bd9e03310cde62723ab2f1604e482ad9a6a84ef8b0627c6eed", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/61890e20f153d6bd9e03310cde62723ab2f1604e482ad9a6a84ef8b0627c6eed.exe: CantPackException: file is too small for dos/exe"}
+{"sha256": "6e866d322ead613e69bcc508497276189129fcb5a76cf75583563b546a618664", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/6e866d322ead613e69bcc508497276189129fcb5a76cf75583563b546a618664.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "bc959ecd179fb149697dfa9e9729dbce1b1cd5b85c10b7cd79a7df80edf70a47", "status": "packed"}
+{"sha256": "60ddf16ba9fd9c52f44217feb3b59a4309f5c887c34c60c9901519be72e6c9b7", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/60ddf16ba9fd9c52f44217feb3b59a4309f5c887c34c60c9901519be72e6c9b7.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "f16d00f45b85e5d8a3b91cd795c6c659326d2bbe45268e9e1f1bc8f9410a73bd", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/f16d00f45b85e5d8a3b91cd795c6c659326d2bbe45268e9e1f1bc8f9410a73bd.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "646fba6576bba4cca949f112a9e202cb46ccbc8f761c8cdbb74160a7af136b01", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/646fba6576bba4cca949f112a9e202cb46ccbc8f761c8cdbb74160a7af136b01.exe: NotCompressibleException"}
+{"sha256": "6ac80fb0fce27819c2b63cb3eb44193c89b576258981ec99935bae1b72bc701f", "status": "packed"}
+{"sha256": "621ddc3ef1862640edf89dc4d644ef127f2b576ca03700af9fb8c33088850af8", "status": "packed"}
+{"sha256": "269de458815dc09a32cef7a862ae54147739355ee00bdfd6512b50015d06a067", "status": "packed"}
+{"sha256": "5d1b192c6e16609b76d8d2cd4e388a7908d016b5892356caa38a4c304cbf27d0", "status": "packed"}
+{"sha256": "4b0c43ad20823658737b01b1546ea940dd0b30db183983a22e8a59b73063f7b6", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/4b0c43ad20823658737b01b1546ea940dd0b30db183983a22e8a59b73063f7b6.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "047fcda2ba0279e885e34eeeed5863713dc5733d992d1524250d537f58db6d16", "status": "packed"}
+{"sha256": "4876804853f86e3b96b95598fd4ef3d970a835078ce4c2cf5e990fa7f8cbf2d1", "status": "packed"}
+{"sha256": "faee7113bb05544706bb00d073910a07a38000bfda4aacf59ab3bbd65c96f7c0", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/faee7113bb05544706bb00d073910a07a38000bfda4aacf59ab3bbd65c96f7c0.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "02fca69db856824c8307955c949e29928fb0bcc7d89ccc514dc212b1b2c6f309", "status": "packed"}
+{"sha256": "174a57a797a53e8f606c3d346a9bfda6f97f556a4d33800d52dc8250e8c6fcd8", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/174a57a797a53e8f606c3d346a9bfda6f97f556a4d33800d52dc8250e8c6fcd8.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "6b9149c305321bf63b687fd520e6404dc56c8c9c74679e599a2422fa44e68dab", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/6b9149c305321bf63b687fd520e6404dc56c8c9c74679e599a2422fa44e68dab.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "3f0a6dc5dfeff05c568b1b87d8760e0e13081a5a550de9293e0ef7e19680c05e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/3f0a6dc5dfeff05c568b1b87d8760e0e13081a5a550de9293e0ef7e19680c05e.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "6d906acae1d680e1895f2c6def2df9761a1ad80fe5da2a352f2e69472e833082", "status": "packed"}
+{"sha256": "838381d4a60975408c6dd19af038cb2affea55a89f0dfcedab2aeb802c6a1927", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/838381d4a60975408c6dd19af038cb2affea55a89f0dfcedab2aeb802c6a1927.exe: NotCompressibleException"}
+{"sha256": "931b8936a71f9e9663489aa03add3e5ea8f6c55bce496e9345d82b51a34f1aa8", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/931b8936a71f9e9663489aa03add3e5ea8f6c55bce496e9345d82b51a34f1aa8.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "bf85df66a8f60ce1c6e17d907c2385b8cb8250886b88a45f5740677ad91ca7b1", "status": "packed"}
+{"sha256": "befa44b01ca1c40c900528473c68a164df0be93eae90f2d46da02181a283acb0", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/befa44b01ca1c40c900528473c68a164df0be93eae90f2d46da02181a283acb0.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "3f3c2dbc2b7233055233ab2c032ae98e1c22f8cdc401b2e8a91da0f6e0b55472", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/3f3c2dbc2b7233055233ab2c032ae98e1c22f8cdc401b2e8a91da0f6e0b55472.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "2ecd7b2f4e2650b41c4007ce487523d840ce185be5834b2411763407876939d3", "status": "packed"}
+{"sha256": "5dbd49912eed03cbe8c24d8035d0df0badd6c0621bd7ac2754a6ba8c5c06a885", "status": "packed"}
+{"sha256": "7eeca77679377fe843310ef0c8376cd624f40b27d97f4450be267f178c9dcf29", "status": "packed"}
+{"sha256": "e566b0061e09a698812618deb8b7f1b33719f1ec60c1dc3f8b1bd1b291e038af", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e566b0061e09a698812618deb8b7f1b33719f1ec60c1dc3f8b1bd1b291e038af.exe: CantPackException: bad reloc size_of_block 0"}
+{"sha256": "5df91a59c806ee1bc88f539217a860021a0c72bd93998e430ad70e0f9bab42b4", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/5df91a59c806ee1bc88f539217a860021a0c72bd93998e430ad70e0f9bab42b4.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "8fd37f7f781b3a80a06435b0a511664704fd6b06090dab20bbc5f252df864073", "status": "packed"}
+{"sha256": "018786a62189432c35349f348d0595041132ae9ad27e3ef47390cf7bc601c2f8", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/018786a62189432c35349f348d0595041132ae9ad27e3ef47390cf7bc601c2f8.exe: CantPackException: file is possibly packed/protected ("}
+{"sha256": "f26c8895eb33a4b57dc2d221b6da699eb9290f8a3507c900f6412a333da43769", "status": "packed"}
+{"sha256": "002cc7145a5c184d261c3ca59b85ce65680e7d53c65c042fed647acf230de0e0", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/002cc7145a5c184d261c3ca59b85ce65680e7d53c65c042fed647acf230de0e0.exe: CantPackException: .NET files are not yet supported"}
+{"sha256": "e7407aae900041cbf031a59bd3ddb163d18b20f1a8ab00ba7fca76ce597c880f", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e7407aae900041cbf031a59bd3ddb163d18b20f1a8ab00ba7fca76ce597c880f.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "e6f393e092381d156389ff267ea044916d012ffcce283cbb4e4a9bad252d1312", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e6f393e092381d156389ff267ea044916d012ffcce283cbb4e4a9bad252d1312.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "638946eea061ed3cd2b8c0b86d8ffc7589103b1bbdda5cf1e11325c739088c29", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/638946eea061ed3cd2b8c0b86d8ffc7589103b1bbdda5cf1e11325c739088c29.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "e89d7a572611747683132279a2b5c4cb8e54663078e302c8ddcf52795bb8c496", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e89d7a572611747683132279a2b5c4cb8e54663078e302c8ddcf52795bb8c496.exe: NotCompressibleException"}
+{"sha256": "152d925fbea26730fc318de1ad7d761912968ce7ddd23cd603ac5666024531f2", "status": "packed"}
+{"sha256": "53605f11d85dbf4e78cae40f801093ebf977458f379b85bbc8d1ea02a76fcd1e", "status": "packed"}
+{"sha256": "f5fd8ef0122a67ecf5928c2b5ba8d94d3b7fa2cf88d207f0b4a84e887b536930", "status": "packed"}
+{"sha256": "7bdf39cffcd97e2ad20c9056b062ca7786fb8b53a93f5d1dbd4b9756ec30535e", "status": "packed"}
+{"sha256": "6f93c8634ac405e970b8352da70badd210e2bd73b3cabf3a134c3243e7ec5da0", "status": "packed"}
+{"sha256": "7b3167e4d7ce4d3b23f471a8831ed3dcf4fa803f4beb3e35abe32c45ce459331", "status": "packed"}
+{"sha256": "f251c6537578aba054333362471b91ec6aca906650507546e58861b381c83237", "status": "packed"}
+{"sha256": "5ab7867c1a0e4ee6cd79b4bb9f6ebb09da9e61319fa53afe83784b8a2f761f36", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/5ab7867c1a0e4ee6cd79b4bb9f6ebb09da9e61319fa53afe83784b8a2f761f36.exe: CantPackException: overflow reloc size_of_block 484795"}
+{"sha256": "e431b719c7107e6048a855ebf8b783d2f918f890f4d56d5364720151b694f1fa", "status": "packed"}
+{"sha256": "7aaa132f07a6c2328e3ef8412e26b16763ef1db62834e9c967ca2b4ae4eca657", "status": "packed"}
+{"sha256": "827db1fac0a1a03fd7509bf34efcc5611b0a9618fff6b63be6708ec481f0693a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/827db1fac0a1a03fd7509bf34efcc5611b0a9618fff6b63be6708ec481f0693a.exe: CantPackException: file is too small for dos/exe"}
+{"sha256": "5a32f18fa4b9143c9a1a088272b690f609d700cc3f58d7987bf5cf455e44919f", "status": "packed"}
+{"sha256": "6220172a1d35bf02789373543a7d17145db924486e85b03ae7100c1b71679227", "status": "packed"}
+{"sha256": "192e0faecac0c98363226ea08ddeb4973fde8ed6587d55bdd4f4fd74ad3383b2", "status": "packed"}
+{"sha256": "edd50088f734955c4c9b828b287ff9ceb2b8d1a15f04117b65ef71a18bdce4d7", "status": "packed"}
+{"sha256": "70aed906f452110b0fa83dd8c46f2f18cbe210b0bc6b6227a4867bd9c82cf285", "status": "packed"}
+{"sha256": "23a5bfec6673494f83674f4a813ac83aa6dce935a4b09144c0f0aa0c00370ac3", "status": "packed"}
+{"sha256": "342cca9048506c308c5697481e3db265dde76874e2c0dbcfc28d9f8ac4ec8a9c", "status": "packed"}
+{"sha256": "85e6a1505864aca25e81e80a2f92492d8bc0577a625281496ee417cf3da3101b", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/85e6a1505864aca25e81e80a2f92492d8bc0577a625281496ee417cf3da3101b.exe: CantPackException: bad dllname 0xffffffff"}
+{"sha256": "e0addc10f71694f75e2efd96d4056891e97145faae74dc2e9aa6ca70461d366d", "status": "packed"}
+{"sha256": "7d23170da860b1a18175f3ee9f9d5bad2955efbf7fb497a7535e54818bc8d731", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/7d23170da860b1a18175f3ee9f9d5bad2955efbf7fb497a7535e54818bc8d731.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "19c16db1d9393b5b3b081ef48ac884e4e202b361ca4e01aba7e2a016b770df25", "status": "packed"}
+{"sha256": "ebd28a3700fb21c318eaac2d0c5cb4e861adb3c243072d78e552f49a526a4e6f", "status": "packed"}
+{"sha256": "6ca342fff2c3ac62d62aa98b9bf48638418fbecfe7e80b573494a2477259867c", "status": "packed"}
+{"sha256": "2eb53721c7f5ee7f9bade12dbf3ae9881d99550d414d489c7e7ffab994351e93", "status": "packed"}
+{"sha256": "9f1046b524424a80620b591f5fe9365f2e76d4618b224edec72042e68ae32311", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/9f1046b524424a80620b591f5fe9365f2e76d4618b224edec72042e68ae32311.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "ecd16f63a1e148731d5ff925148c2b50db2ae050e871ef4a41e3adb67fdb027e", "status": "packed"}
+{"sha256": "a82509611fa858f511dc8479c43de38185074adcdfcce0581974f839f1b7994c", "status": "packed"}
+{"sha256": "f8b9530552a7ecf867c1eb71f6404ce8f1d1deab16228ea223fd7ae61c80ec0a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/f8b9530552a7ecf867c1eb71f6404ce8f1d1deab16228ea223fd7ae61c80ec0a.exe: NotCompressibleException"}
+{"sha256": "8d25e73a53164a7367884c13663d319b7f44aface81ecd0ea6b4c8f54df9731f", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8d25e73a53164a7367884c13663d319b7f44aface81ecd0ea6b4c8f54df9731f.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "9dbac05c2d4e672b9d460dbce9ee04c10c0e8c45b7f2b969caec9371843aa73e", "status": "packed"}
+{"sha256": "003cde507cfc191349b8d7bfa6d73e169c93cc1b4404a8b63d8db5dd66f96ced", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/003cde507cfc191349b8d7bfa6d73e169c93cc1b4404a8b63d8db5dd66f96ced.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "ae0fca7a25a4a8201fca5a686b9d69ca79550a9cb83b3756c37ed987c92e64f0", "status": "packed"}
+{"sha256": "98af3d3ff3f2fbfbf66f9dd57ae10400e9fa5a4e176b26c0989dc8f2390213c6", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/98af3d3ff3f2fbfbf66f9dd57ae10400e9fa5a4e176b26c0989dc8f2390213c6.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "5ab3c773fd228a3a2f39b112e2a58de88734968d7599be2f7dc3a0f41639222e", "status": "packed"}
+{"sha256": "f9c5d8df26126e1859a8155a415e1a2b98cecf5074a38536855ffdc5141ccffe", "status": "packed"}
+{"sha256": "efc6cf772e63b8a35449fbf7a479aa13d43bb23414e6dab3adce81b324ffc7c4", "status": "packed"}
+{"sha256": "3c0488e82a1b762b0c840aa1a6d6632a3e825b9af763744a0bd288ec462e619d", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/3c0488e82a1b762b0c840aa1a6d6632a3e825b9af763744a0bd288ec462e619d.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "097eaf1811cabec96d2e69a860dfc1dee975944d621c5b4acd237ed93057ee3e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/097eaf1811cabec96d2e69a860dfc1dee975944d621c5b4acd237ed93057ee3e.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "1a2026be1d9dd3d60a950f3201e493cf7f961d708408fc4329c523a1f8814206", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/1a2026be1d9dd3d60a950f3201e493cf7f961d708408fc4329c523a1f8814206.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "fc31f04eb14c65964d54ed6708a30a673a8b2af5def41f0b89e89d95e8cc3511", "status": "packed"}
+{"sha256": "42ed4e61641f755aa78699dbf785395aecdb7dfa1bbe97fc4f7df4e3f199f001", "status": "packed"}
+{"sha256": "1509c4b9324557a7c3e77c9f811f78c6b3189dbb1197b34a46639e1c33b6205a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/1509c4b9324557a7c3e77c9f811f78c6b3189dbb1197b34a46639e1c33b6205a.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "c9f914b6703d19f2c627fede707db779e13659940183c3978dc5f0e26ea758fb", "status": "packed"}
+{"sha256": "2a6b2a27c3e8237934ba47a026e07414037ece3c783f5b2e43a8551355490248", "status": "packed"}
+{"sha256": "7846146a4babfe3e229582a472282e359434b849072627b114efd9ddfbfe5e4a", "status": "packed"}
+{"sha256": "b631b60916cae91dbcd6355df15fafaf9397a422e7026b9cf2f34b40754c7804", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/b631b60916cae91dbcd6355df15fafaf9397a422e7026b9cf2f34b40754c7804.exe: CantPackException: corrupted resources"}
+{"sha256": "d1419362c71dc9507df193d29760fd36605386ea719794e0ec4cb62eba4ea63f", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/d1419362c71dc9507df193d29760fd36605386ea719794e0ec4cb62eba4ea63f.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "7948787bbd0b5bcc20320e25b25a345d0917afb895fec81f4d01ef490bea3134", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/7948787bbd0b5bcc20320e25b25a345d0917afb895fec81f4d01ef490bea3134.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "c470929a444afbcb6bf9f0ff3b6ad516c6b5d19c08b2b41c41528d4e48a92215", "status": "packed"}
+{"sha256": "5349e11cba8de4b0aa3b9524f1f7538813c9fd476b80855735c09bbbf8b3f0ba", "status": "packed"}
+{"sha256": "bbfe25914852129e8eb71ab7b782ab4566d4b747cdd1f726c7f60746bb940bed", "status": "packed"}
+{"sha256": "8ee404c47a42b0244b615d8fe5b3810fb4817832fb26e526c573f3ce4875eaca", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8ee404c47a42b0244b615d8fe5b3810fb4817832fb26e526c573f3ce4875eaca.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "04d27838e4500c72dc62e29319461143c479e4e22990e7c9cdd6aba3eb5b85fd", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/04d27838e4500c72dc62e29319461143c479e4e22990e7c9cdd6aba3eb5b85fd.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "97fcdf17efd98ab51dcc46f8b1d191e1d4ee0308b674b8ca77b5926c9180a47f", "status": "packed"}
+{"sha256": "1a44b4c0c0c32b9534918b54eb75bcb93884aca69894128c813e1692b3084a46", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/1a44b4c0c0c32b9534918b54eb75bcb93884aca69894128c813e1692b3084a46.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "221578f8e3465299f6f30ff399aca64e5989b4449e6458fe99d2c639e5741a10", "status": "packed"}
+{"sha256": "1a8dcc6935d7711266b86a70557b26990a255f358f3126f043f98a6394d50092", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/1a8dcc6935d7711266b86a70557b26990a255f358f3126f043f98a6394d50092.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "ac459ff86c7563b5c9e6a3701d6970d3a013138c163fdbbd787f5d91d4601112", "status": "packed"}
+{"sha256": "c46106be7d67e8998784f8496bd4637e36993419f429bbe9669bc2f03bc278a7", "status": "packed"}
+{"sha256": "3b68c9ae31067c2d243a12da4cc7be8c33ddea09d13673ed75b9fd78af91a8f0", "status": "packed"}
+{"sha256": "0be307698dddbf34aaee26d507548126b5e594b3b38e03e135b497f2bd14d397", "status": "packed"}
+{"sha256": "b3489bdf8a26573e070bb562b424f993bb63add0d2ad2a6d5e48b0b4d316beea", "status": "packed"}
+{"sha256": "ba16a3f7273b577f4e3dfe6714c3afbe68a91c08b09b9b4aedb26e59a2c06c4f", "status": "packed"}
+{"sha256": "fecec92041d1f7fef7758ae9d28a2ff7c95f30028194dc7cd06c10dc019d30db", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/fecec92041d1f7fef7758ae9d28a2ff7c95f30028194dc7cd06c10dc019d30db.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "e14eb5f2b12a1fae2c86c075c37805ca1cae3de805c429a656d29fb51fa1615c", "status": "packed"}
+{"sha256": "4366fa6a9b6b2cc7462bc025b5e6e46571b170eb2984bf34a3ada811675a1ed8", "status": "packed"}
+{"sha256": "6cf5b497145112c89d11aa8898dc18773633f9db817b048905a20e79b6cbf495", "status": "packed"}
+{"sha256": "3782f35df6c256e192d67687ad6cf4418631c4ce22388045a0aa7c9666784eed", "status": "packed"}
+{"sha256": "9cc5c1e151aecd3048d2258ae3d5a1d020970afde7cadb0222c95e84f33dcd76", "status": "packed"}
+{"sha256": "78ebf43efb06262b63480482bab31e32a8dbbaca59cc41d4ad74a2bc94de7e23", "status": "packed"}
+{"sha256": "5a6ee2be4bc135937ef34c286a3098c4975ec0e10f0171c57e0f893c3cd4830a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/5a6ee2be4bc135937ef34c286a3098c4975ec0e10f0171c57e0f893c3cd4830a.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "01bc17ae56d1e98470e4703f5421c02166e2ae01e160f429b61e0a7529560adf", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/01bc17ae56d1e98470e4703f5421c02166e2ae01e160f429b61e0a7529560adf.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "3c5a945e9fa88607718e2ebaf07d19e291b9d01121965cf76db3fa047bf4365c", "status": "packed"}
+{"sha256": "8e1fa517e79e4fa8c59f3925caa82b388d831ab7ace76b0a97cd1f3e4673e3fc", "status": "packed"}
+{"sha256": "aa172aa7d1f5d6c2674d79df1899f01ab4b7fc0e220197cedb0e952ee0df55dc", "status": "packed"}
+{"sha256": "e29b5c48f4701dbdb7183652c648303f23ea8734f592929e2e61c380fd7fc950", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e29b5c48f4701dbdb7183652c648303f23ea8734f592929e2e61c380fd7fc950.exe: NotCompressibleException"}
+{"sha256": "695b29e9ffe61e5babe88c489b6719fd3e542e419548e99105c540bd0af7c7c3", "status": "packed"}
+{"sha256": "ce779d8a8c5842bf967d19f0ebb1115ab9c04337a59dfa192f69e477c32ff8c5", "status": "packed"}
+{"sha256": "f5a6211e4a6829c0f1b4c84388368cb9c8931d639cee5bfffb98c2b8d85ba85a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/f5a6211e4a6829c0f1b4c84388368cb9c8931d639cee5bfffb98c2b8d85ba85a.exe: NotCompressibleException"}
+{"sha256": "4df0928ab2541db367641dcff5242509bd1318d31a8e8a67d7e5541d7cfff4cf", "status": "packed"}
+{"sha256": "eef025810c12e6c559c520bf5f2b6e10dfba6648f2cbd610a6364d02af0c5a34", "status": "packed"}
+{"sha256": "320be1cee4091490deb6bdf1850a3a92cbd527488cb4074af1da1ed772fa9ce4", "status": "packed"}
+{"sha256": "b791362f98e4a444b81cf6b716034eedd4c56a715111710cfb41ad4f3a632031", "status": "packed"}
+{"sha256": "c953cad9db20d2568edaac62ff6bc1795336a57f8a885c134597e3eef889e61d", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c953cad9db20d2568edaac62ff6bc1795336a57f8a885c134597e3eef889e61d.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "97e64ccbb8438a131e22af27a04f142edcab33a9d07e1df3187efb4d9400d288", "status": "packed"}
+{"sha256": "006004fdd2e8a5eb28b9dce17a35807bbed67518b09d8ccf6a02c69065af1541", "status": "packed"}
+{"sha256": "12f91c486cb76632655b83b3ac16cdaa2cb542e7992cb29af0f992cb270f7128", "status": "packed"}
+{"sha256": "886cd16a5875900ec27f26bde28b1b359a032fc91fc726b0a37ff668b6d037a3", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/886cd16a5875900ec27f26bde28b1b359a032fc91fc726b0a37ff668b6d037a3.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "b9477b0775f0d56f345b9e43f88448a1648fc5b08c5345d47bdda4b6c45babb6", "status": "packed"}
+{"sha256": "d59d9526891b335a751fdead4e3881c503d31b2a99cbed6bf066ecbd02bd8c08", "status": "packed"}
+{"sha256": "8bba2e7dc41c135050c50b8cf678f30d0ab8a56410da30e7e1c68b20d1cad2b3", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8bba2e7dc41c135050c50b8cf678f30d0ab8a56410da30e7e1c68b20d1cad2b3.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "ee2c9be3539a4a59d951c29355c79ba837a6f9956cd2849d0c24c9e0abbd71ab", "status": "packed"}
+{"sha256": "50f589bc0e9de92b16f9b4c19d9b96a77721bc6122fe05059b16b0aa5427e142", "status": "packed"}
+{"sha256": "d568d0c0551a5de66a233aa55e2b73e6a13cd1ff3cff420c8881019f65920365", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/d568d0c0551a5de66a233aa55e2b73e6a13cd1ff3cff420c8881019f65920365.exe: NotCompressibleException"}
+{"sha256": "94d898518dd386a693331e96888797520006e15c16cb8c987ec69b76da3886d9", "status": "packed"}
+{"sha256": "99e782bcfd4fcdab1aab0097c9ca94cb25d2413cb45f116e0700273790728839", "status": "packed"}
+{"sha256": "ace3cbf3a2e5ce38156c28127c33e3ab8f8d0a713a4a6fd1ac1e05df44770b6a", "status": "packed"}
+{"sha256": "49bba92c2bc4252b01a5d90d531f7880c4dd4ef3e4381890af9108f80c1beb1e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/49bba92c2bc4252b01a5d90d531f7880c4dd4ef3e4381890af9108f80c1beb1e.exe: CantPackException: bad dllname 0xffffffff"}
+{"sha256": "e84028eadc09605334b3361a6aaca9a7b41c3f1306900f91de2df479bab9e5c4", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e84028eadc09605334b3361a6aaca9a7b41c3f1306900f91de2df479bab9e5c4.exe: CantPackException: PE and MZ header overlap: 0x10 < 0x"}
+{"sha256": "7cf980a731d231ff4a35c03e9dcf1863cedd18d82d08d4c42a155788db7adbe0", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/7cf980a731d231ff4a35c03e9dcf1863cedd18d82d08d4c42a155788db7adbe0.exe: NotCompressibleException"}
+{"sha256": "efb9639616b5bad7517291cf71b4408f0f4b36e05ccbcc8e5973094af6a05046", "status": "packed"}
+{"sha256": "d5b2d7f074c3144a0840a4de0ede33093d92a22889e9e5e8b29d197b25dff401", "status": "packed"}
+{"sha256": "6cdeb483bd685e86443a9fc305b25b07eef7c093fa40a19f38bb4bf81f8ff92b", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/6cdeb483bd685e86443a9fc305b25b07eef7c093fa40a19f38bb4bf81f8ff92b.exe: CantPackException: bad dllname 0xffffffff"}
+{"sha256": "29b3e46fa4dc23e0d1516a6a98e389a661654820442576c74d044335b8cc3849", "status": "packed"}
+{"sha256": "7dac65e0cbc1d81ed9b94d7e82e2445f4b4c6c4865212483c65179261a1b8193", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/7dac65e0cbc1d81ed9b94d7e82e2445f4b4c6c4865212483c65179261a1b8193.exe: CantPackException: file is possibly packed/protected ("}
+{"sha256": "c219da1116e2c41bd3dc349449e58103240cfca6c20473b31c79c22e69890bd7", "status": "packed"}
+{"sha256": "f7bb947cd019034d38e3b69cfdd246aec5b783a4adac5b8051637376f16c2bbe", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/f7bb947cd019034d38e3b69cfdd246aec5b783a4adac5b8051637376f16c2bbe.exe: NotCompressibleException"}
+{"sha256": "c4d8a1778578f24382abfe1578aba55abbdd8a06b860ed457eacc034ca2cfd8f", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c4d8a1778578f24382abfe1578aba55abbdd8a06b860ed457eacc034ca2cfd8f.exe: CantPackException: file is possibly packed/protected ("}
+{"sha256": "87ea10419108545c3048f2f44b3849e56d37b116fdab07e398cd2f106645355a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/87ea10419108545c3048f2f44b3849e56d37b116fdab07e398cd2f106645355a.exe: CantPackException: bad reloc size_of_block 0"}
+{"sha256": "00e6b5f96ff2e1fcfd9e4e6e9034499cbd2cb546db8f1e02b6256f07df6fffbc", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/00e6b5f96ff2e1fcfd9e4e6e9034499cbd2cb546db8f1e02b6256f07df6fffbc.exe: NotCompressibleException"}
+{"sha256": "5d007aa04a923b0d233e3b849e4ac4a444de90bbea0f6f22903900ae280c504e", "status": "packed"}
+{"sha256": "6bb40e74685c5c32880bc5ea7f2a974b9b9dc9547b3a4a8743c5bf1432bc1a4e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/6bb40e74685c5c32880bc5ea7f2a974b9b9dc9547b3a4a8743c5bf1432bc1a4e.exe: CantPackException: file is too small for dos/exe"}
+{"sha256": "fd2f3f401d8ecd4dfd5b70040a9904719d6e1124e4d097e85eabd6d9507814e3", "status": "packed"}
+{"sha256": "085023bdd0fdb6a75006b965b4ad1525a87295f3f53fdb908ca3e4663075a3c2", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/085023bdd0fdb6a75006b965b4ad1525a87295f3f53fdb908ca3e4663075a3c2.exe: NotCompressibleException"}
+{"sha256": "7f47b58302c1a08794a61ee5d3762ec4f75019381e922898f7ca48c12bba5334", "status": "packed"}
+{"sha256": "c14d737151853472c797775e1e946057269936ab4b32feb7821329d026155328", "status": "packed"}
+{"sha256": "ee8d821a27daee6458c4e8b252ba4d34bd15f31597b91f01e6ab552e11b4b920", "status": "packed"}
+{"sha256": "3d480ad9a96c6711d755457b68c528bdc16cb18b0ed5d81d376aba95bb7fddc5", "status": "packed"}
+{"sha256": "e27e3156b04e48575400c8be16a9d74f9eed70524cfbf5aacd18f9d0d2da7ad2", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e27e3156b04e48575400c8be16a9d74f9eed70524cfbf5aacd18f9d0d2da7ad2.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "3d8fb21ae27849bd2ab717934fb652a69b42ac536ca1401d2e2b32c0cbf39bc3", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/3d8fb21ae27849bd2ab717934fb652a69b42ac536ca1401d2e2b32c0cbf39bc3.exe: CantPackException: file is possibly packed/protected ("}
+{"sha256": "5a94b7f3d6a4ed1b9f8d018b0107e10d6432bc286558030998e113d2c71705e6", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/5a94b7f3d6a4ed1b9f8d018b0107e10d6432bc286558030998e113d2c71705e6.exe: CantPackException: file is too small for dos/exe"}
+{"sha256": "460c01a774b0536555c3875f7c1f18e64f9e1efdb6824eb8f9ced13c626c26f1", "status": "packed"}
+{"sha256": "60a610fc1795eee9ebaf5e2e2fda4492fd650ca3f540712f8f08fe9556d18223", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/60a610fc1795eee9ebaf5e2e2fda4492fd650ca3f540712f8f08fe9556d18223.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "e4e29b927d45b1293a29d23534c27a1c0695623497e279557fc3e746d6b0bcfa", "status": "packed"}
+{"sha256": "ec346f57dd55eae642390e64f41d46d0fc1742b3dbd3d5e75b2d1d3ea0240967", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/ec346f57dd55eae642390e64f41d46d0fc1742b3dbd3d5e75b2d1d3ea0240967.exe: CantPackException: bad resoff 0x944a4"}
+{"sha256": "9cf44fbf6fc7f3c96f934f34acc703a80e64c55bf20d0265788a0682f75005bb", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/9cf44fbf6fc7f3c96f934f34acc703a80e64c55bf20d0265788a0682f75005bb.exe: CantPackException: bad resoff 0x964b0"}
+{"sha256": "b4f0d0a2215de0a13a5c4a0883394206404a67ce8123096a3cdfa996d0e068db", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/b4f0d0a2215de0a13a5c4a0883394206404a67ce8123096a3cdfa996d0e068db.exe: CantPackException: mem_size 2; take care"}
+{"sha256": "780909817d64973114e706a4bdd9f5ca289bf9ec6c3d859f697a5a01a30340de", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/780909817d64973114e706a4bdd9f5ca289bf9ec6c3d859f697a5a01a30340de.exe: NotCompressibleException"}
+{"sha256": "8e4d1d0878aba1fafea2e43baa8a42cd5e879d5130bf164f37a8e91c094e883b", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8e4d1d0878aba1fafea2e43baa8a42cd5e879d5130bf164f37a8e91c094e883b.exe: CantPackException: bad resoff 0x964b0"}
+{"sha256": "310bd6c73986d80da910b2be8e4f531fbe378b26517a8ebcbd7d65fbb4cba82f", "status": "packed"}
+{"sha256": "bef98e80ec5751a6671f884bcec993aa7b12476c6edd404c0bf8682e460290b1", "status": "packed"}
+{"sha256": "60d5f9ff7a7096d20def50946c68591c1169967e2eb9502f3196637ad91ed0df", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/60d5f9ff7a7096d20def50946c68591c1169967e2eb9502f3196637ad91ed0df.exe: NotCompressibleException"}
+{"sha256": "960cc2d8b14b6886b2a08e68d323c7fd549ebd8be2a79bfee596a7056f11764b", "status": "packed"}
+{"sha256": "b52565f2a6b74800c1ac34f99f2db5630f99d841a0854c1fe9ad04b6c9aa6c2a", "status": "packed"}
+{"sha256": "129c741fae9e3a73bc6927990eb4c92ec922e4037dfd47746849cb4db45dba45", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/129c741fae9e3a73bc6927990eb4c92ec922e4037dfd47746849cb4db45dba45.exe: CantPackException: file is possibly packed/protected ("}
+{"sha256": "7e991c52ef77734aa196648c07bed42951cc91c5c81a2102773571dffc2fa7a1", "status": "packed"}
+{"sha256": "bc02a0553b4e7f1d3d76917035784dac321dc45e2dfbe952c8d7c760453a1f7c", "status": "packed"}
+{"sha256": "8dc553126f8e6dc4a3dd7826805024b44eda88e70b6f8a589f786468884c040c", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8dc553126f8e6dc4a3dd7826805024b44eda88e70b6f8a589f786468884c040c.exe: CantPackException: bad resoff 0x944a4"}
+{"sha256": "c3946bfba85c632ae3220ac5634fe979e27df2c3195a919ea5d36336c1e8b0e4", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c3946bfba85c632ae3220ac5634fe979e27df2c3195a919ea5d36336c1e8b0e4.exe: EOFException: premature end of file"}
+{"sha256": "1fd3d8006cf40f2d5525945dd32f8b02dec1b01390439835567fcfb6922caf9e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/1fd3d8006cf40f2d5525945dd32f8b02dec1b01390439835567fcfb6922caf9e.exe: CantPackException: bad resoff 0x964b0"}
+{"sha256": "9724ed142547be139ddd7cb9313e7e2935c5148e464f256387147fbb146adf41", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/9724ed142547be139ddd7cb9313e7e2935c5148e464f256387147fbb146adf41.exe: CantPackException: bad resoff 0x964b0"}
+{"sha256": "4e07299a80b8751c8f778ca34efbebc92a39e06e05bc9e99b00b1d43cff2d9cf", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/4e07299a80b8751c8f778ca34efbebc92a39e06e05bc9e99b00b1d43cff2d9cf.exe: CantPackException: bad resoff 0x944a4"}
+{"sha256": "369fc1faeaa354d7e18c65a9b107fc4a060a4c82add0b6cbe2696e7604be3f55", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/369fc1faeaa354d7e18c65a9b107fc4a060a4c82add0b6cbe2696e7604be3f55.exe: NotCompressibleException"}
+{"sha256": "b2234ad20785282805879ebf46cf67c61e5218a9d293f835f66c65f489489471", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/b2234ad20785282805879ebf46cf67c61e5218a9d293f835f66c65f489489471.exe: CantPackException: bad dllname 0x309720b4"}
+{"sha256": "c33e92524c44ddc9521099b36833ee24a67905e0eef5b1e3997f9427b3a0f9bc", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c33e92524c44ddc9521099b36833ee24a67905e0eef5b1e3997f9427b3a0f9bc.exe: EOFException: premature end of file"}
+{"sha256": "1e2e86c015adb6f1a17f60ddf7cbaee87f4e433e503e65c6b78d765e63dda813", "status": "packed"}
+{"sha256": "1379767bbc59272c1f3f31f403b709c1c88a1fd49aa786ab07bed18376be76d7", "status": "packed"}
+{"sha256": "d6ce82628983249833a3e3efd4c958c7fc14d8ed95a4039c581c089d172c7b0a", "status": "packed"}
+{"sha256": "726c1504eff808ab3ca9b925f807e25f1c5b606d134a6f8363c75960b62e558e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/726c1504eff808ab3ca9b925f807e25f1c5b606d134a6f8363c75960b62e558e.exe: CantPackException: bad dllname 0x95d0bb17"}
+{"sha256": "08013463d8f286ade51a13832c0c370315ee5bf97a7eabdf7791209ecc047b7e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/08013463d8f286ade51a13832c0c370315ee5bf97a7eabdf7791209ecc047b7e.exe: NotCompressibleException"}
+{"sha256": "fe9c4a2431c93a97a9a6daedff2fc8c911d88aaf50428a52c24d05c6b3f1ca05", "status": "packed"}
+{"sha256": "79c442e68c0af824ab1df77d1ab8d62dd1cebeb62d1a7e28b577b85996c012fa", "status": "packed"}
+{"sha256": "df944bc31a28cae97c9007d18392bb70087470729bb3bbf5d5374341b2f4f6b5", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/df944bc31a28cae97c9007d18392bb70087470729bb3bbf5d5374341b2f4f6b5.exe: CantPackException: bad resoff 0x964b0"}
+{"sha256": "efd2232a567ade88421fa3618acff272e6226f8809b96b4b23a93fc1d5e15b96", "status": "packed"}
+{"sha256": "990ebd63b522007ea44f67738f291016d2271942366bb0b86e5ba4032717e850", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/990ebd63b522007ea44f67738f291016d2271942366bb0b86e5ba4032717e850.exe: CantPackException: section size problem"}
+{"sha256": "9047dd17fb5577058571243d0619f274a808a80df2306ca58ccb3f9f4583c935", "status": "packed"}
+{"sha256": "d4cd0fa61df5b36bc77af9faeff52823dadc5d5d85dab9dd5ad8223f9c40b310", "status": "packed"}
+{"sha256": "5d047b2836318fa3a668d1eeaec83d59affa08a4f20c0c4fe948f245bc31f89c", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/5d047b2836318fa3a668d1eeaec83d59affa08a4f20c0c4fe948f245bc31f89c.exe: CantPackException: bad dllname 0x263bce05"}
+{"sha256": "6ed9499f3aaede66985edd7595aacf89e7228b0c99ee75669783aefebd3809c7", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/6ed9499f3aaede66985edd7595aacf89e7228b0c99ee75669783aefebd3809c7.exe: EOFException: premature end of file"}
+{"sha256": "fd8d3007e5d1a2155bc03766aae6f24cbf73e2b0b5cabef270fd43c417b97320", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/fd8d3007e5d1a2155bc03766aae6f24cbf73e2b0b5cabef270fd43c417b97320.exe: NotCompressibleException"}
+{"sha256": "1034054a34427d980c08bf94a2626e553fbd2b50ace532d2d59a86d92b680dc3", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/1034054a34427d980c08bf94a2626e553fbd2b50ace532d2d59a86d92b680dc3.exe: CantPackException: bad resoff 0x964b0"}
+{"sha256": "2fcc28acb8745749ef46ae1fd266e34c7a5985c088b0838a195267e4c3fc8ee9", "status": "packed"}
+{"sha256": "3cc290f06ab2522a3b607773eb67b1c1322e88d24704a006c838a439f548829b", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/3cc290f06ab2522a3b607773eb67b1c1322e88d24704a006c838a439f548829b.exe: EOFException: premature end of file"}
+{"sha256": "b785a03484ea11f6414805b148c592be2962d6dd1917328b27b4918e3addbe95", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/b785a03484ea11f6414805b148c592be2962d6dd1917328b27b4918e3addbe95.exe: CantPackException: bad resoff 0x964b0"}
+{"sha256": "70e3bb053f9f1b574d253cb30fab4f9ec0f401dabb6f71a3b9aab7d7644d0ca0", "status": "packed"}
+{"sha256": "7286811af3dc50a64c273e96430330e5d2aee540e869117d36e9af5a73e26d94", "status": "packed"}
+{"sha256": "c7f45eed9d87d83cdbd805eb82557bbf466450a01423757e77f2a8c5de4bac23", "status": "packed"}
+{"sha256": "e2fedb4baabf74d312eea552edb9f4f73708ac74d2f13f67cdcaba47a9f4d646", "status": "packed"}
+{"sha256": "e287a352c8466d5052e385209698c34178c260c41453ed4691442f87768566f0", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e287a352c8466d5052e385209698c34178c260c41453ed4691442f87768566f0.exe: CantPackException: mem_size 2; take care"}
+{"sha256": "e90b9bdf8457f6d98c5181600e3219585015d1157e3559f97f888e84508c56cd", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e90b9bdf8457f6d98c5181600e3219585015d1157e3559f97f888e84508c56cd.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "b4be9b034e715ebf063ee324c35ae5a3921df6d89040782e70b03b4b5387afed", "status": "packed"}
+{"sha256": "692fe6dd588257de750e0dbdc03be8bbd938db9923844ddcb6a22ba1fe97ad80", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/692fe6dd588257de750e0dbdc03be8bbd938db9923844ddcb6a22ba1fe97ad80.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "db636b5d08b980fbaf2dd184a5a2518cfd6ce0a0e0f7a4d6250d10af9e2fa99c", "status": "packed"}
+{"sha256": "d3857783837133d289a8b8b050b9bc0114a234d2148bbceb19702794069df7db", "status": "packed"}
+{"sha256": "100f489c7cddce5c057461b45dc5ce01dd18c89cec1c88d303d2d4e2e2ba45e4", "status": "packed"}
+{"sha256": "2765d50e2f4c95f4c4673a96c1b83871be5796917fd7a03e18644978400fde77", "status": "packed"}
+{"sha256": "256f6c84f486f455183699fb78bd7a140ea8449fbd611647d2c24785aa0f4fac", "status": "packed"}
+{"sha256": "7a0e2d5f94b0fb5388b1570d5c262bb581378925bcc7feefee8af03166f45b55", "status": "packed"}
+{"sha256": "2b22115d51d118bc90bb8b705ec7d81d8ed96349cf53b945f5256743c0c84d34", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/2b22115d51d118bc90bb8b705ec7d81d8ed96349cf53b945f5256743c0c84d34.exe: CantPackException: bad dllname 0xd0f3fe7b"}
+{"sha256": "d0d21262277a11cf4bcda7594c7380f238d6ec0c461a797abc0c8a18c6ac5850", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/d0d21262277a11cf4bcda7594c7380f238d6ec0c461a797abc0c8a18c6ac5850.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "dbf14a2a6397f5c6eee8e0f688b1aa337da41c12b5d012cb4f34f92e7bbe6f84", "status": "packed"}
+{"sha256": "9f39c69d967e0c1d76b00588e39560b0850092cb4228542ad876c17740e5263e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/9f39c69d967e0c1d76b00588e39560b0850092cb4228542ad876c17740e5263e.exe: CantPackException: bad resoff 0x9bc6c"}
+{"sha256": "5fe4bc761b38bda718665104c0433835f6176c37094f73863109d83a90031b57", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/5fe4bc761b38bda718665104c0433835f6176c37094f73863109d83a90031b57.exe: CantPackException: file is possibly packed/protected ("}
+{"sha256": "e3347150f6eb5a7968f84402c5ad84b361552ab096e5af07429adeee5238b933", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e3347150f6eb5a7968f84402c5ad84b361552ab096e5af07429adeee5238b933.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "4428ff1456e08292c6445c125ed23936238c1e7fb4278fb53ca09d645f7ebd46", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/4428ff1456e08292c6445c125ed23936238c1e7fb4278fb53ca09d645f7ebd46.exe: CantPackException: section size problem"}
+{"sha256": "5eb23e1859959a543af1d6ba98eece9752713c3dec5ee7bd8d71ae81cfa36754", "status": "packed"}
+{"sha256": "0f72012050ece4806cc94a294dc424be631f9c87deacb5d36b36dab2f0ee6b7b", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/0f72012050ece4806cc94a294dc424be631f9c87deacb5d36b36dab2f0ee6b7b.exe: CantPackException: section size problem"}
+{"sha256": "c0dd2d6c22d9e9541ba1bfc474db15840fbb0d349fce7a2f4268703986934804", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c0dd2d6c22d9e9541ba1bfc474db15840fbb0d349fce7a2f4268703986934804.exe: NotCompressibleException"}
+{"sha256": "e1a0c9bc35597fda4d9e263cbd9628e9e52168dafc648b1238310092ab76d691", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e1a0c9bc35597fda4d9e263cbd9628e9e52168dafc648b1238310092ab76d691.exe: CantPackException: section size problem"}
+{"sha256": "d9d3a30213c55482132f3014b6c09421fe935679f8cda94151a657932cce57d6", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/d9d3a30213c55482132f3014b6c09421fe935679f8cda94151a657932cce57d6.exe: CantPackException: section size problem"}
+{"sha256": "6078503369ff4476e51d86fe7d15489928e1b946550df6fa64053e64c166da94", "status": "packed"}
+{"sha256": "0d0e021c92a0720262e74879a06139341aea4d622ad14db9d27ae3585662791e", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/0d0e021c92a0720262e74879a06139341aea4d622ad14db9d27ae3585662791e.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "9e6aa40b0184fd9cd88edaa4c1cc1cf36908f1a337ce470465a343f4dda3e66a", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/9e6aa40b0184fd9cd88edaa4c1cc1cf36908f1a337ce470465a343f4dda3e66a.exe: CantPackException: section size problem"}
+{"sha256": "db2edcaf0d0acff85ced0edcbe5c9d7caa207bfb3d5b57eda5c1b982b4437f10", "status": "packed"}
+{"sha256": "00ce9eb6a03aa75c839f8f3b0a5714efc40543c3b1f7ea6e073f433e80d6e135", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/00ce9eb6a03aa75c839f8f3b0a5714efc40543c3b1f7ea6e073f433e80d6e135.exe: CantPackException: section size problem"}
+{"sha256": "910e54721f4bc78fcf6032859fda027b3a9c14593af348c9f8af2d1794f0d947", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/910e54721f4bc78fcf6032859fda027b3a9c14593af348c9f8af2d1794f0d947.exe: CantPackException: section size problem"}
+{"sha256": "c80c4ff76b5f0d45cd485ad75b6e823fffe23900c873a782764533709d640009", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c80c4ff76b5f0d45cd485ad75b6e823fffe23900c873a782764533709d640009.exe: CantPackException: file is possibly packed/protected ("}
+{"sha256": "6a1552a663ea3e018ccc589b50f1a004714621f507422eafed6892ffdf00da50", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/6a1552a663ea3e018ccc589b50f1a004714621f507422eafed6892ffdf00da50.exe: CantPackException: bad resoff 0x9bc6c"}
+{"sha256": "6156f1e5018d5f04177a298d74564b7c78d56b68683e8e17b479cf84f8c25a11", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/6156f1e5018d5f04177a298d74564b7c78d56b68683e8e17b479cf84f8c25a11.exe: NotCompressibleException"}
+{"sha256": "a95355e3afdd1ec66e8f406c4a95ea093261a5ce6630129cecf21b8422983ea8", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/a95355e3afdd1ec66e8f406c4a95ea093261a5ce6630129cecf21b8422983ea8.exe: CantPackException: bad resoff 0x964b0"}
+{"sha256": "8a5ddc325f157583e31b155ebdb4f00195cbe5631ff758ad9098783e6e9b45b9", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/8a5ddc325f157583e31b155ebdb4f00195cbe5631ff758ad9098783e6e9b45b9.exe: NotCompressibleException"}
+{"sha256": "98f425b6a67797f4814e173bad97ad7403dae49b42b8dd974e636196c56c4f0f", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/98f425b6a67797f4814e173bad97ad7403dae49b42b8dd974e636196c56c4f0f.exe: CantPackException: superfluous data between sections ("}
+{"sha256": "10662ffc98578b6e18144b2b300db8884c143989b02d659b275d0684936b3345", "status": "packed"}
+{"sha256": "5357c87900caa3f4f1b212267761048a5595794ecfd518d08ac68c53228fd6b5", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/5357c87900caa3f4f1b212267761048a5595794ecfd518d08ac68c53228fd6b5.exe: CantPackException: bad resoff 0x944a4"}
+{"sha256": "b8e006355e886839d607326abad05726bad8deb9d2ab0c407e25fc1a11622963", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/b8e006355e886839d607326abad05726bad8deb9d2ab0c407e25fc1a11622963.exe: CantPackException: bad resoff 0x964b0"}
+{"sha256": "e830cb85371d73b47c6396150141e92bce39dd0db0d6d8e6d28728f836111634", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/e830cb85371d73b47c6396150141e92bce39dd0db0d6d8e6d28728f836111634.exe: CantPackException: bad dllname 0x4a4bf40c"}
+{"sha256": "9e499dc9de61c65c4bab71afd1e09b2884eb35208b93397a9b755654b51753b3", "status": "packed"}
+{"sha256": "98221606b55e0310e1c7ec962c9bd3a53844b692c43793ec8cc5ebf8c52b51de", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/98221606b55e0310e1c7ec962c9bd3a53844b692c43793ec8cc5ebf8c52b51de.exe: CantPackException: section size problem"}
+{"sha256": "a0a4db6ef8c6f4414bc19009c0a8d267a0ed3424500d475f67fd07700a0530cf", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/a0a4db6ef8c6f4414bc19009c0a8d267a0ed3424500d475f67fd07700a0530cf.exe: CantPackException: section size problem"}
+{"sha256": "c91cb1067f5b1bc5b1edf8d094702cb5074eb078cf84df894a183f0a882dedfb", "status": "upx_refused", "detail": "upx: /Volumes/Bodmas/srq2_work/orig/c91cb1067f5b1bc5b1edf8d094702cb5074eb078cf84df894a183f0a882dedfb.exe: CantPackException: section size problem"}

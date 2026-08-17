@@ -1,4 +1,4 @@
-# SRQ1 results — in-distribution three-arm comparison
+# SRQ1 results in-distribution three-arm comparison
 
 SRQ1 asks how LLM-derived enrichment compares with CAPA-based (rule-based) enrichment and unenriched features for 8-category BODMAS malware classification, measured by macro-F1.
 
