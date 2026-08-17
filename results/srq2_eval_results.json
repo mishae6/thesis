@@ -1,0 +1,82 @@
+{
+  "llm": {
+    "n_eval": 511,
+    "headline_macro_unpacked": 0.6401,
+    "headline_macro_packed": 0.095,
+    "headline_delta": -0.545,
+    "per_category": {
+      "backdoor": {
+        "unpacked": 0.9193,
+        "packed": 0.0
+      },
+      "downloader": {
+        "unpacked": 0.819,
+        "packed": 0.0312
+      },
+      "dropper": {
+        "unpacked": 0.1818,
+        "packed": 0.0
+      },
+      "informationstealer": {
+        "unpacked": 0.0667,
+        "packed": 0.0741
+      },
+      "ransomware": {
+        "unpacked": 0.6364,
+        "packed": 0.0
+      },
+      "trojan": {
+        "unpacked": 0.6932,
+        "packed": 0.4649
+      },
+      "virus": {
+        "unpacked": 0.0,
+        "packed": 0.0
+      },
+      "worm": {
+        "unpacked": 0.7059,
+        "packed": 0.0
+      }
+    }
+  },
+  "capa": {
+    "n_eval": 511,
+    "headline_macro_unpacked": 0.7417,
+    "headline_macro_packed": 0.0769,
+    "headline_delta": -0.6649,
+    "per_category": {
+      "backdoor": {
+        "unpacked": 0.9901,
+        "packed": 0.0114
+      },
+      "downloader": {
+        "unpacked": 0.8235,
+        "packed": 0.0
+      },
+      "dropper": {
+        "unpacked": 0.3077,
+        "packed": 0.0
+      },
+      "informationstealer": {
+        "unpacked": 0.0645,
+        "packed": 0.0
+      },
+      "ransomware": {
+        "unpacked": 0.9091,
+        "packed": 0.0
+      },
+      "trojan": {
+        "unpacked": 0.7647,
+        "packed": 0.4498
+      },
+      "virus": {
+        "unpacked": 0.0,
+        "packed": 0.0
+      },
+      "worm": {
+        "unpacked": 0.8986,
+        "packed": 0.0
+      }
+    }
+  }
+}
