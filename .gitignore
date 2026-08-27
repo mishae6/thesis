@@ -5,3 +5,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.pkl
 .DS_Store
+
+# model weights too large for GitHub (kept locally)
+models/**/model.safetensors
